@@ -2507,320 +2507,320 @@
       "CRDescription:0": "銅と火薬から電気起爆装置をクラフトする"
     },
     "ClothingBlock:32": {
-      "DisplayName": "Old Hat",
-      "Description": "Old hat you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "古い帽子",
+      "Description": "この土地に遺棄されたときに着ていた古い帽子。染色可能。保護はほとんどない。断熱性が低い。"
     },
     "ClothingBlock:37": {
-      "DisplayName": "Old Tank Top",
-      "Description": "Old tank top you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "古いタンクトップ",
+      "Description": "この土地に遺棄されたときに着ていた古いタンクトップ。染色可能。保護はほとんどない。断熱性が低い。"
     },
     "ClothingBlock:1": {
-      "DisplayName": "Old Shirt",
-      "Description": "Old shirt you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "古いシャツ",
+      "Description": "この土地に遺棄されたときに着ていた古いシャツ。染色可能。保護はほとんどない。断熱性が低い。"
     },
     "ClothingBlock:30": {
-      "DisplayName": "Fedora",
-      "Description": "A had made of cotton. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton fedora from canvas"
+      "DisplayName": "フェドーラ",
+      "Description": "綿で作られた帽子。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスから綿のフェドーラを仕立てる"
     },
     "ClothingBlock:13": {
-      "DisplayName": "Shirt",
-      "Description": "Long-sleeved cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton shirt from canvas"
+      "DisplayName": "シャツ",
+      "Description": "長袖の綿シャツ。染色可能。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスから綿のシャツを仕立てる"
     },
     "ClothingBlock:14": {
-      "DisplayName": "T-shirt",
-      "Description": "Short-sleeved cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton t-shirt from canvas"
+      "DisplayName": "Tシャツ",
+      "Description": "半袖の綿シャツ。染色可能。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスから綿のTシャツを仕立てる"
     },
     "ClothingBlock:15": {
-      "DisplayName": "Tank Top",
-      "Description": "No sleeves cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton tank top from canvas"
+      "DisplayName": "タンクトップ",
+      "Description": "袖なしの綿シャツ。染色可能。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスから綿のタンクトップを仕立てる"
     },
     "ClothingBlock:16": {
-      "DisplayName": "Pants",
-      "Description": "Long pants made of canvas. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor cotton pants from canvas and string"
+      "DisplayName": "ズボン",
+      "Description": "キャンバス製の長ズボン。染色可能。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスと糸から綿のズボンを仕立てる"
     },
     "ClothingBlock:17": {
-      "DisplayName": "Shorts",
-      "Description": "Short pants made of canvas. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor cotton shorts from canvas and string"
+      "DisplayName": "ショートパンツ",
+      "Description": "キャンバス製のショートパンツ。染色可能。保護はほとんどない。断熱性が低い。",
+      "CRDescription:0": "キャンバスと糸から綿のショートパンツを仕立てる"
     },
     "ClothingBlock:24": {
-      "DisplayName": "Sweater",
-      "Description": "Sweater made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor a sweater from canvas"
+      "DisplayName": "セーター",
+      "Description": "キャンバス製のセーター。染色可能。保護はほとんどない。断熱性が高い。",
+      "CRDescription:0": "キャンバスからセーターを仕立てる"
     },
     "ClothingBlock:25": {
-      "DisplayName": "Long Johns",
-      "Description": "Long Johns made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor long johns from canvas"
+      "DisplayName": "ロングジョン",
+      "Description": "キャンバス製のロングジョン。染色可能。保護はほとんどない。断熱性が高い。",
+      "CRDescription:0": "キャンバスからロングジョンを仕立てる"
     },
     "ClothingBlock:26": {
-      "DisplayName": "Socks",
-      "Description": "Socks made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor socks from canvas"
+      "DisplayName": "靴下",
+      "Description": "キャンバス製の靴下。染色可能。保護はほとんどない。断熱性が高い。",
+      "CRDescription:0": "キャンバスから靴下を仕立てる"
     },
     "ClothingBlock:31": {
-      "DisplayName": "Cowboy Hat",
-      "Description": "A cowboy hat made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Tailor a cowboy hat from leather"
+      "DisplayName": "カウボーイハット",
+      "Description": "革製のカウボーイハット。染色可能。ある程度の保護。ある程度の断熱性。",
+      "CRDescription:0": "革からカウボーイハットを仕立てる"
     },
     "ClothingBlock:11": {
-      "DisplayName": "Leather Hat",
-      "Description": "A hat made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Tailor a hat from leather"
+      "DisplayName": "革の帽子",
+      "Description": "革製の帽子。染色可能。ある程度の保護。ある程度の断熱性。",
+      "CRDescription:0": "革から帽子を仕立てる"
     },
     "ClothingBlock:5": {
-      "DisplayName": "Leather Jerkin",
-      "Description": "A jerkin vest made of leather. Can be dyed. Some protection. Weak insulation.",
-      "CRDescription:0": "Tailor a jerkin from leather"
+      "DisplayName": "革のジャケット",
+      "Description": "革製のベスト。染色可能。ある程度の保護。断熱性が低い。",
+      "CRDescription:0": "革からジャケットを仕立てる"
     },
     "ClothingBlock:12": {
-      "DisplayName": "Leather Pants",
-      "Description": "Long pants made of leather. Can be dyed. Weak protection. Some insulation.",
-      "CRDescription:0": "Tailor pants from leather"
+      "DisplayName": "革のズボン",
+      "Description": "革製の長ズボン。染色可能。保護が弱い。ある程度の断熱性。",
+      "CRDescription:0": "革からズボンを仕立てる"
     },
     "ClothingBlock:29": {
-      "DisplayName": "Leather Sandals",
-      "Description": "Sandals made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Make leather sandals from leather and planks"
+      "DisplayName": "革のサンダル",
+      "Description": "革製のサンダル。染色可能。ある程度の保護。ある程度の断熱性。",
+      "CRDescription:0": "革と板材から革のサンダルを作る"
     },
     "ClothingBlock:8": {
-      "DisplayName": "Leather Boots",
-      "Description": "Boots made of leather. Can be dyed. Some protection. Some insulation. Make you move faster.",
-      "CRDescription:0": "Make leather boots from leather and planks"
+      "DisplayName": "革のブーツ",
+      "Description": "革製のブーツ。染色可能。ある程度の保護。ある程度の断熱性。移動速度を速くする。",
+      "CRDescription:0": "革と板材から革のブーツを作る"
     },
     "ClothingBlock:27": {
-      "DisplayName": "Cavalry Boots",
-      "Description": "Long boots made of leather. Good protection. Good insulation. Makes your horse run faster.",
-      "CRDescription:0": "Make cavalry boots from leather and planks"
+      "DisplayName": "騎兵ブーツ",
+      "Description": "革製の長ブーツ。優れた保護。優れた断熱性。馬の走りを速くする。",
+      "CRDescription:0": "革と板材から騎兵ブーツを作る"
     },
     "ClothingBlock:18": {
-      "DisplayName": "Fur Hat",
-      "Description": "Thick, warm hat made of fur. Weak protection. Good insulation.",
-      "CRDescription:0": "Tailor a hat from fur"
+      "DisplayName": "毛皮の帽子",
+      "Description": "厚手で暖かい毛皮製の帽子。保護が弱い。断熱性が高い。",
+      "CRDescription:0": "毛皮から帽子を仕立てる"
     },
     "ClothingBlock:6": {
-      "DisplayName": "Fur Coat",
-      "Description": "Thick, warm coat made of fur. Weak protection. Good insulation. Slows you down.",
-      "CRDescription:0": "Tailor a coat from fur"
+      "DisplayName": "毛皮のコート",
+      "Description": "厚手で暖かい毛皮製のコート。保護が弱い。断熱性が高い。移動速度を遅くする。",
+      "CRDescription:0": "毛皮からコートを仕立てる"
     },
     "ClothingBlock:7": {
-      "DisplayName": "Fur Leggings",
-      "Description": "Thick, warm leggings made of fur. Weak protection. Good insulation. Slows you down.",
-      "CRDescription:0": "Tailor leggings from fur"
+      "DisplayName": "毛皮のレギンス",
+      "Description": "厚手で暖かい毛皮製のレギンス。保護が弱い。断熱性が高い。移動速度を遅くする。",
+      "CRDescription:0": "毛皮からレギンスを仕立てる"
     },
     "ClothingBlock:23": {
-      "DisplayName": "Wooden Chest Plate",
-      "Description": "Makeshift chest armor made of wooden sticks and string. Some protection. No insulation.",
-      "CRDescription:0": "Tie sticks together to make wooden chest armor"
+      "DisplayName": "木製チェストプレート",
+      "Description": "木の棒と糸で作られた間に合わせのチェストアーマー。ある程度の保護。断熱性なし。",
+      "CRDescription:0": "木の棒を縛って木製チェストアーマーを作る"
     },
     "ClothingBlock:28": {
-      "DisplayName": "Wooden Leggings",
-      "Description": "Makeshift legs armor made of wooden sticks and string. Some protection. No insulation.",
-      "CRDescription:0": "Tie sticks together to make wooden legs armor"
+      "DisplayName": "木製レギンス",
+      "Description": "木の棒と糸で作られた間に合わせの脚用アーマー。ある程度の保護。断熱性なし。",
+      "CRDescription:0": "木の棒を縛って木製脚用アーマーを作る"
     },
     "ClothingBlock:33": {
-      "DisplayName": "Copper Helmet",
-      "Description": "Heavy helmet made of copper. Average protection. Weak insulation.",
-      "CRDescription:0": "Make armored helmet from copper and leather cap"
+      "DisplayName": "銅ヘルメット",
+      "Description": "銅製の重いヘルメット。平均的な保護。断熱性が低い。",
+      "CRDescription:0": "銅と革のキャップから鎧のヘルメットを作る"
     },
     "ClothingBlock:34": {
-      "DisplayName": "Copper Chest Plate",
-      "Description": "Heavy chest armor made of copper. Average protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored chest plate from copper and leather jerkin"
+      "DisplayName": "銅製チェストプレート",
+      "Description": "銅製の重いチェストアーマー。平均的な保護。断熱性が低い。移動速度が遅くなる。",
+      "CRDescription:0": "銅と革のジャケットから鎧のチェストプレートを作る"
     },
     "ClothingBlock:35": {
-      "DisplayName": "Copper Leggings",
-      "Description": "Heavy leg plates made of copper. Average protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored leggings from copper and fur leggings"
+      "DisplayName": "銅製レギンス",
+      "Description": "銅製の重い脚用プレート。平均的な保護。断熱性が低い。移動速度が遅くなる。",
+      "CRDescription:0": "銅と毛皮のレギンスから鎧のレギンスを作る"
     },
     "ClothingBlock:36": {
-      "DisplayName": "Copper Boots",
-      "Description": "Heavy protective boots made of copper. Average protection. Weak insulation.",
-      "CRDescription:0": "Make armored boots from copper and leather boots"
+      "DisplayName": "銅製ブーツ",
+      "Description": "銅製の重い保護ブーツ。平均的な保護。断熱性が低い。",
+      "CRDescription:0": "銅と革のブーツから鎧のブーツを作る"
     },
     "ClothingBlock:2": {
-      "DisplayName": "Chain Mail",
-      "Description": "Light iron armor that can be worn under outer clothes and does not slow you down. Good protection. No insulation.",
-      "CRDescription:0": "Make chain mail from iron"
+      "DisplayName": "チェーンメイル",
+      "Description": "外側の服の下に着用でき、移動速度を遅くしない軽い鉄の鎧。優れた保護。断熱性なし。",
+      "CRDescription:0": "鉄からチェーンメイルを作る"
     },
     "ClothingBlock:10": {
-      "DisplayName": "Iron Helmet",
-      "Description": "Heavy helmet made of iron. Good protection. Weak insulation.",
-      "CRDescription:0": "Make armored helmet from iron and leather cap"
+      "DisplayName": "鉄ヘルメット",
+      "Description": "鉄製の重いヘルメット。優れた保護。断熱性が低い。",
+      "CRDescription:0": "鉄と革のキャップから鎧のヘルメットを作る"
     },
     "ClothingBlock:3": {
-      "DisplayName": "Iron Chest Plate",
-      "Description": "Heavy chest armor made of iron. Good protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored chest plate from iron and leather jerkin"
+      "DisplayName": "鉄製チェストプレート",
+      "Description": "鉄製の重いチェストアーマー。優れた保護。断熱性が低い。移動速度が遅くなる。",
+      "CRDescription:0": "鉄と革のジャケットから鎧のチェストプレートを作る"
     },
     "ClothingBlock:4": {
-      "DisplayName": "Iron Leggings",
-      "Description": "Heavy leg plates made of iron. Good protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored leggings from iron and fur leggings"
+      "DisplayName": "鉄製レギンス",
+      "Description": "鉄製の重い脚用プレート。優れた保護。断熱性が低い。移動速度が遅くなる。",
+      "CRDescription:0": "鉄と毛皮のレギンスから鎧のレギンスを作る"
     },
     "ClothingBlock:9": {
-      "DisplayName": "Iron Boots",
-      "Description": "Heavy protective boots made of iron. Good protection. Weak insulation.",
-      "CRDescription:0": "Make armored boots from iron and leather boots"
+      "DisplayName": "鉄製ブーツ",
+      "Description": "鉄製の重い保護ブーツ。優れた保護。断熱性が低い。",
+      "CRDescription:0": "鉄と革のブーツから鎧のブーツを作る"
     },
     "ClothingBlock:21": {
-      "DisplayName": "Diamond Helmet",
-      "Description": "Exquisite, strong helmet made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond helmet from iron helmet and diamonds"
+      "DisplayName": "ダイヤモンドヘルメット",
+      "Description": "ダイヤモンドで作られた絶妙で丈夫なヘルメット。優れた保護。断熱性なし。",
+      "CRDescription:0": "鉄ヘルメットとダイヤモンドからダイヤモンドヘルメットを作る"
     },
     "ClothingBlock:19": {
-      "DisplayName": "Diamond Chest Plate",
-      "Description": "Exquisite, strong chest armor made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond chest plate from iron chest plate and diamonds"
+      "DisplayName": "ダイヤモンドチェストプレート",
+      "Description": "ダイヤモンドで作られた絶妙で丈夫なチェストアーマー。優れた保護。断熱性なし。",
+      "CRDescription:0": "鉄製チェストプレートとダイヤモンドからダイヤモンドチェストプレートを作る"
     },
     "ClothingBlock:20": {
-      "DisplayName": "Diamond Leggings",
-      "Description": "Exquisite, strong leg plates made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond leggings from iron leggings and diamonds"
+      "DisplayName": "ダイヤモンドレギンス",
+      "Description": "ダイヤモンドで作られた絶妙で丈夫な脚用プレート。優れた保護。断熱性なし。",
+      "CRDescription:0": "鉄製レギンスとダイヤモンドからダイヤモンドレギンスを作る"
     },
     "ClothingBlock:22": {
-      "DisplayName": "Diamond Boots",
-      "Description": "Exquisite, strong protective boots made of diamond. Excellent protection. No insulation. Make you move faster.",
-      "CRDescription:0": "Make diamond boots from iron boots and diamonds"
+      "DisplayName": "ダイヤモンドブーツ",
+      "Description": "ダイヤモンドで作られた絶妙で丈夫な保護ブーツ。優れた保護。断熱性なし。移動速度を速くする。",
+      "CRDescription:0": "鉄製ブーツとダイヤモンドからダイヤモンドブーツを作る"
     },
     "SaplingBlock:1": {
-      "DisplayName": "Birch Sapling",
-      "CRDescription:0": "Cut saplings from birch leaves"
+      "DisplayName": "白樺の苗木",
+      "CRDescription:0": "白樺の葉から苗木を採取する"
     },
     "SaplingBlock:2": {
-      "DisplayName": "Spruce Sapling",
-      "CRDescription:0": "Cut saplings from spruce leaves"
+      "DisplayName": "トウヒの苗木",
+      "CRDescription:0": "トウヒの葉から苗木を採取する"
     },
     "SaplingBlock:3": {
-      "DisplayName": "Tall Spruce Sapling",
-      "CRDescription:0": "Cut saplings from tall spruce leaves"
+      "DisplayName": "背の高いトウヒの苗木",
+      "CRDescription:0": "背の高いトウヒの葉から苗木を採取する"
     },
     "SaplingBlock:4": {
-      "DisplayName": "Mimosa Sapling",
-      "CRDescription:0": "Cut saplings from mimosa leaves"
+      "DisplayName": "ミモザの苗木",
+      "CRDescription:0": "ミモザの葉から苗木を採取する"
     },
     "SaplingBlock:5": {
-      "DisplayName": "Poplar Sapling",
-      "CRDescription:0": "Cut saplings from poplar leaves"
+      "DisplayName": "ポプラの苗木",
+      "CRDescription:0": "ポプラの葉から苗木を採取する"
     },
     "SeedsBlock:1": {
-      "DisplayName": "Red Flower Seeds",
-      "CRDescription:0": "Extract seeds from red flower"
+      "DisplayName": "赤い花の種",
+      "CRDescription:0": "赤い花から種を抽出する"
     },
     "SeedsBlock:2": {
-      "DisplayName": "Purple Flower Seeds",
-      "CRDescription:0": "Extract seeds from purple flower"
+      "DisplayName": "紫の花の種",
+      "CRDescription:0": "紫の花から種を抽出する"
     },
     "SeedsBlock:3": {
-      "DisplayName": "White Flower Seeds",
-      "CRDescription:0": "Extract seeds from white flower"
+      "DisplayName": "白い花の種",
+      "CRDescription:0": "白い花から種を抽出する"
     },
     "SeedsBlock:4": {
-      "DisplayName": "Wild Rye Seeds"
+      "DisplayName": "野生のライ麦の種"
     },
     "SeedsBlock:5": {
-      "DisplayName": "Rye Seeds"
+      "DisplayName": "ライ麦の種"
     },
     "SeedsBlock:6": {
-      "DisplayName": "Cotton Seeds"
+      "DisplayName": "綿の種"
     },
     "SeedsBlock:7": {
-      "DisplayName": "Pumpkin Seeds",
-      "CRDescription:0": "Extract seeds from a fully grown pumpkin",
-      "CRDescription:1": "Extract seeds from a fully grown pumpkin"
+      "DisplayName": "カボチャの種",
+      "CRDescription:0": "完全に成長したカボチャから種を抽出する",
+      "CRDescription:1": "完全に成長したカボチャから種を抽出する"
     },
     "ArrowBlock:1": {
-      "CRDescription:0": "Make stone-tipped arrow from stick, feathers and stone"
-    },
-    "ArrowBlock:2": {
-      "CRDescription:0": "Make iron-tipped arrow from stick, feathers and iron"
-    },
-    "ArrowBlock:3": {
-      "CRDescription:0": "Make diamond-tipped arrow from iron arrow and a diamond"
-    },
-    "ArrowBlock:4": {
-      "CRDescription:0": "Make fire arrow from wooden arrow and sulphur"
-    },
-    "ArrowBlock:5": {
-      "CRDescription:0": "Make iron bolt from rod and feather"
-    },
-    "ArrowBlock:6": {
-      "CRDescription:0": "Make diamond-tipped bolt from iron bolt and a diamond"
-    },
-    "ArrowBlock:7": {
-      "CRDescription:0": "Make explosive bolt from iron bolt and gunpowder"
-    },
-    "ArrowBlock:8": {
-      "CRDescription:0": "Make copper-tipped arrow from stick, feathers and copper"
-    },
-    "BulletBlock:1": {
-      "CRDescription:0": "Make buckshot from musket balls",
-      "CRDescription:1": "Make buckshot from buckshot balls"
-    },
-    "BulletBlock:2": {
-      "CRDescription:0": "Extract buckshot balls from buckshot"
-    },
-    "GravestoneBlock:1": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:2": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:3": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:4": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:5": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:6": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:7": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "PressurePlateBlock:1": {
-      "CRDescription:0": "Craft electric pressure plates from copper and stone"
-    },
-    "PistonBlock:448": {
-      "CRDescription:0": "Use planks, semiconductor and copper to make a piston"
-    },
-    "PistonBlock:450": {
-      "CRDescription:0": "Add iron hooks to piston to make a pulling piston"
-    },
-    "PistonBlock:452": {
-      "CRDescription:0": "Add copper hooks to piston to make a strict pulling piston"
-    },
-    "DirtStairsBlock:0": {
-      "DisplayName": "Dirt Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
-    },
-    "DirtSlabBlock:0": {
-      "DisplayName": "Dirt Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings.",
-      "CRDescription:0": "Make slabs for decoration purposes"
-    },
-    "PoplarWoodBlock:0": {
-      "DisplayName": "Poplar Wood",
-      "Description": "Poplar wood grows in trunks of poplar trees, which grow in temperate areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
-    },
-    "PoplarLeavesBlock:0": {
-      "DisplayName": "Poplar Leaves",
-      "Description": "Poplar leaves grow on poplar trees and can be used to obtain poplar saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
-    },
-    "FallenLeavesBlock:0": {
-      "DisplayName": "Fallen Leaves",
-      "Description": "Leaves which fell from a tree in the autumn"
-    }
+    "CRDescription:0": "棒、羽、石から石の矢を作る"
   },
+  "ArrowBlock:2": {
+    "CRDescription:0": "棒、羽、鉄から鉄の矢を作る"
+  },
+  "ArrowBlock:3": {
+    "CRDescription:0": "鉄の矢とダイヤモンドからダイヤ付きの矢を作る"
+  },
+  "ArrowBlock:4": {
+    "CRDescription:0": "木の矢と硫黄から火の矢を作る"
+  },
+  "ArrowBlock:5": {
+    "CRDescription:0": "棒と羽から鉄のボルトを作る"
+  },
+  "ArrowBlock:6": {
+    "CRDescription:0": "鉄のボルトとダイヤモンドからダイヤ付きボルトを作る"
+  },
+  "ArrowBlock:7": {
+    "CRDescription:0": "鉄のボルトと火薬から爆発ボルトを作る"
+  },
+  "ArrowBlock:8": {
+    "CRDescription:0": "棒、羽、銅から銅の矢を作る"
+  },
+    "BulletBlock:1": {
+    "CRDescription:0": "マスケット弾からバックショットを作る",
+    "CRDescription:1": "バックショット弾からバックショットを作る"
+  },
+  "BulletBlock:2": {
+    "CRDescription:0": "バックショットからバックショット弾を取り出す"
+  },
+  "GravestoneBlock:1": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:2": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:3": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:4": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:5": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:6": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+  "GravestoneBlock:7": {
+    "CRDescription:0": "花崗岩から墓石を作る"
+  },
+    "PressurePlateBlock:1": {
+    "CRDescription:0": "구리와 돌을 사용해 전기 압력판을 제작하세요"
+  },
+  "PistonBlock:448": {
+    "CRDescription:0": "목재 판자, 반도체, 구리를 사용해 피스톤을 만드세요"
+  },
+  "PistonBlock:450": {
+    "CRDescription:0": "피스톤에 철 갈고리를 추가하여 끌어당기는 피스톤을 만드세요"
+  },
+  "PistonBlock:452": {
+    "CRDescription:0": "피스톤에 구리 갈고리를 추가하여 강력한 끌어당기는 피스톤을 만드세요"
+  },
+    "DirtStairsBlock:0": {
+    "DisplayName": "土の階段",
+    "Description": "階段は斜面を登りやすくします。常にジャンプしたり垂直な壁を登る必要がなくなり、より速く移動でき、時間と体力を節約できます。階段はさまざまな素材から作成できます。また、天井に逆さに設置することもできます。塗装可能です。",
+    "CRDescription:0": "高さをより速く登るために階段を作る"
+  },
+  "DirtSlabBlock:0": {
+    "DisplayName": "土のハーフブロック",
+    "Description": "ハーフブロックは高さが半分のブロックで、さまざまな素材から作ることができます。通常のブロックよりも低コストで床を覆うことができます。また、1マス進むごとに高さが半分上がる長い階段を作ることもできます。天井に取り付けることも可能です。",
+    "CRDescription:0": "装飾用にハーフブロックを作る"
+  },
+  "PoplarWoodBlock:0": {
+    "DisplayName": "ポプラの木材",
+    "Description": "ポプラの木材は温帯地域に生えるポプラの木の幹から得られます。板材に加工でき、建築やクラフトに便利な素材です。また、かまどの燃料としても使用できます。木を植え直すには、葉から苗木を入手する必要があります。"
+  },
+  "PoplarLeavesBlock:0": {
+    "DisplayName": "ポプラの葉",
+    "Description": "ポプラの葉はポプラの木に生え、苗木を入手するのに使えます。燃やすことができ、安価な燃料として利用可能です。幹から離れて設置されると枯れて消えます。"
+  },
+  "FallenLeavesBlock:0": {
+    "DisplayName": "落ち葉",
+    "Description": "秋に木から落ちた葉"
+  }
+},
   "Help": {
     "1": {
       "value": "",
