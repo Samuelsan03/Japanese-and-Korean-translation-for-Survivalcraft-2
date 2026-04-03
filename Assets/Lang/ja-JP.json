@@ -2148,363 +2148,363 @@
       "CRDescription:0": "鉄からホイッスルを作る"
     },
     "WoodenClubBlock:0": {
-      "DisplayName": "Wooden Club",
-      "Description": "A wooden club is a primitive melee weapon, although significantly better than bare hands or a stick. When used frequently, it will quickly get damaged and fail. You should progress to specialized weapons made of metals.",
-      "CRDescription:0": "Make a wooden weapon"
+      "DisplayName": "木製クラブ",
+      "Description": "木製クラブは原始的な近接武器ですが、素手や棒よりも大幅に優れています。頻繁に使用すると、すぐに損傷して故障します。金属製の専門的な武器に進むべきです。",
+      "CRDescription:0": "木製の武器を作る"
     },
     "StoneClubBlock:0": {
-      "DisplayName": "Stone Club",
-      "Description": "A stone club is a primitive melee weapon, although significantly better than bare hands or a stick. When used frequently, it will quickly get damaged and fail. You should progress to specialized weapons made of metals.",
-      "CRDescription:0": "Make a stone weapon"
+      "DisplayName": "石製クラブ",
+      "Description": "石製クラブは原始的な近接武器ですが、素手や棒よりも大幅に優れています。頻繁に使用すると、すぐに損傷して故障します。金属製の専門的な武器に進むべきです。",
+      "CRDescription:0": "石の武器を作る"
     },
     "WoodenSpearBlock:0": {
-      "DisplayName": "Wooden Spear",
-      "Description": "A spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and fail. Spears made with better materials will last longer and cause more damage. Thrown spears will stick in soft materials. It may be hard to remove a spear which embedded itself too hard.",
-      "CRDescription:0": "Make a wooden weapon"
+      "DisplayName": "木製槍",
+      "Description": "槍は、投げることも近接攻撃に使用することもできる汎用性の高い武器です。使用すると、最終的に鋭さを失い故障します。より良い素材で作られた槍は、より長く持続し、より多くのダメージを与えます。投げられた槍は柔らかい素材に突き刺さります。自身が硬く埋め込まれた槍を取り除くのは難しい場合があります。",
+      "CRDescription:0": "木製の武器を作る"
     },
     "StoneSpearBlock:0": {
-      "DisplayName": "Stone Spear",
-      "Description": "A spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and fail. Spears made with better materials will last longer and cause more damage. Thrown spears will stick in soft materials. It may be hard to remove a spear which embedded itself too hard.",
-      "CRDescription:0": "Make a stone weapon"
+      "DisplayName": "石槍",
+      "Description": "槍は、投げることも近接攻撃に使用することもできる汎用性の高い武器です。使用すると、最終的に鋭さを失い故障します。より良い素材で作られた槍は、より長く持続し、より多くのダメージを与えます。投げられた槍は柔らかい素材に突き刺さります。自身が硬く埋め込まれた槍を取り除くのは難しい場合があります。",
+      "CRDescription:0": "石の武器を作る"
     },
     "CopperSpearBlock:0": {
-      "DisplayName": "Copper Spear",
-      "Description": "A spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and fail. Spears made with better materials will last longer and cause more damage. Thrown spears will stick in soft materials. It may be hard to remove a spear which embedded itself too hard.",
-      "CRDescription:0": "Make a copper weapon"
+      "DisplayName": "銅槍",
+      "Description": "槍は、投げることも近接攻撃に使用することもできる汎用性の高い武器です。使用すると、最終的に鋭さを失い故障します。より良い素材で作られた槍は、より長く持続し、より多くのダメージを与えます。投げられた槍は柔らかい素材に突き刺さります。自身が硬く埋め込まれた槍を取り除くのは難しい場合があります。",
+      "CRDescription:0": "銅の武器を作る"
     },
     "IronSpearBlock:0": {
-      "DisplayName": "Iron Spear",
-      "Description": "A spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and fail. Spears made with better materials will last longer and cause more damage. Thrown spears will stick in soft materials. It may be hard to remove a spear which embedded itself too hard.",
-      "CRDescription:0": "Make an iron weapon"
+      "DisplayName": "鉄槍",
+      "Description": "槍は、投げることも近接攻撃に使用することもできる汎用性の高い武器です。使用すると、最終的に鋭さを失い故障します。より良い素材で作られた槍は、より長く持続し、より多くのダメージを与えます。投げられた槍は柔らかい素材に突き刺さります。自身が硬く埋め込まれた槍を取り除くのは難しい場合があります。",
+      "CRDescription:0": "鉄の武器を作る"
     },
     "DiamondSpearBlock:0": {
-      "DisplayName": "Diamond Tip Spear",
-      "Description": "A spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and fail. Spears made with better materials will last longer and cause more damage. Thrown spears will stick in soft materials. It may be hard to remove a spear which embedded itself too hard.",
-      "CRDescription:0": "Add diamonds to the cutting edge of the weapon"
+      "DisplayName": "ダイヤモンドチップ槍",
+      "Description": "槍は、投げることも近接攻撃に使用することもできる汎用性の高い武器です。使用すると、最終的に鋭さを失い故障します。より良い素材で作られた槍は、より長く持続し、より多くのダメージを与えます。投げられた槍は柔らかい素材に突き刺さります。自身が硬く埋め込まれた槍を取り除くのは難しい場合があります。",
+      "CRDescription:0": "武器の刃先にダイヤモンドを追加する"
     },
     "CopperMacheteBlock:0": {
-      "DisplayName": "Copper Machete",
-      "Description": "A machete is a simple sword like slashing weapon that is very effective for melee attacks. When used, the machete will gradually lose its sharpness and eventually fail. Machetes made of better materials will last longer and cause more damage.",
-      "CRDescription:0": "Make a copper weapon"
+      "DisplayName": "銅マチェット",
+      "Description": "マチェットは、近接攻撃に非常に効果的な、シンプルな剣のような斬撃武器です。使用すると、マチェットは徐々に鋭さを失い、最終的に故障します。より良い素材で作られたマチェットは、より長く持続し、より多くのダメージを与えます。",
+      "CRDescription:0": "銅の武器を作る"
     },
     "IronMacheteBlock:0": {
-      "DisplayName": "Iron Machete",
-      "Description": "A machete is a simple sword like slashing weapon that is very effective for melee attacks. When used, the machete will gradually lose its sharpness and eventually fail. Machetes made of better materials will last longer and cause more damage.",
-      "CRDescription:0": "Make an iron weapon"
+      "DisplayName": "鉄マチェット",
+      "Description": "マチェットは、近接攻撃に非常に効果的な、シンプルな剣のような斬撃武器です。使用すると、マチェットは徐々に鋭さを失い、最終的に故障します。より良い素材で作られたマチェットは、より長く持続し、より多くのダメージを与えます。",
+      "CRDescription:0": "鉄の武器を作る"
     },
     "DiamondMacheteBlock:0": {
-      "DisplayName": "Diamond Edge Machete",
-      "Description": "A machete is a simple sword like slashing weapon that is very effective for melee attacks. When used, the machete will gradually lose its sharpness and eventually fail. Machetes made of better materials will last longer and cause more damage.",
-      "CRDescription:0": "Add diamonds to the cutting edge of the weapon"
+      "DisplayName": "ダイヤモンドエッジマチェット",
+      "Description": "マチェットは、近接攻撃に非常に効果的な、シンプルな剣のような斬撃武器です。使用すると、マチェットは徐々に鋭さを失い、最終的に故障します。より良い素材で作られたマチェットは、より長く持続し、より多くのダメージを与えます。",
+      "CRDescription:0": "武器の刃先にダイヤモンドを追加する"
     },
     "BowBlock:0": {
-      "DisplayName": "Bow",
-      "Description": "A bow can be used to fire various types of arrows.",
-      "CRDescription:0": "Make a bow from sticks and a string"
+      "DisplayName": "弓",
+      "Description": "弓は、さまざまな種類の矢を発射するために使用できます。",
+      "CRDescription:0": "棒と糸から弓を作る"
     },
     "CrossbowBlock:0": {
-      "DisplayName": "Crossbow",
-      "Description": "A crossbow can be used to fire various types of bolts.",
-      "CRDescription:0": "Make a crossbow from rods, string and planks"
+      "DisplayName": "クロスボウ",
+      "Description": "クロスボウは、さまざまな種類のボルトを発射するために使用できます。",
+      "CRDescription:0": "棒、糸、板材からクロスボウを作る"
     },
     "MusketBlock:0": {
-      "DisplayName": "Musket",
-      "Description": "A musket can be used to fire musket balls or buckshot. You can also fire single buckshot balls, but the shot is very inaccurate and lacks power.",
-      "CRDescription:0": "Make a musket from iron and planks"
+      "DisplayName": "マスケット銃",
+      "Description": "マスケット銃は、マスケット銃弾またはバックショットを発射するために使用できます。単一のバックショット弾を発射することもできますが、精度が非常に低く、威力もありません。",
+      "CRDescription:0": "鉄と板材からマスケット銃を作る"
     },
     "ArrowBlock:0": {
-      "DisplayName": "Arrow",
-      "Description": "Arrows and bolts are fired from projectile weapons.",
-      "CRDescription:0": "Make wooden-tipped arrow from stick and feathers"
+      "DisplayName": "矢",
+      "Description": "矢とボルトは、投射武器から発射されます。",
+      "CRDescription:0": "棒と羽から木製先端矢を作る"
     },
     "BulletBlock:0": {
-      "DisplayName": "Bullet",
-      "Description": "Bullets are fired from firearms.",
-      "CRDescription:0": "Make musket balls from iron rods"
+      "DisplayName": "弾丸",
+      "Description": "弾丸は、銃器から発射されます。",
+      "CRDescription:0": "鉄の棒からマスケット銃弾を作る"
     },
     "BombBlock:0": {
-      "DisplayName": "Bomb",
-      "Description": "A bomb is a sphere made of iron filled with gunpowder and fitted with a slow-burning fuse. It will explode a few seconds after it is thrown.",
-      "CRDescription:0": "Make throwable bomb by encasing gunpowder in an iron sphere"
+      "DisplayName": "爆弾",
+      "Description": "爆弾は、火薬が詰められ、燃焼の遅い導火線が取り付けられた鉄製の球体です。投げられてから数秒後に爆発します。",
+      "CRDescription:0": "鉄の球体に火薬を詰めて投げられる爆弾を作る"
     },
     "IncendiaryBombBlock:0": {
-      "DisplayName": "Incendiary Bomb",
-      "Description": "An incendiary bomb is a sphere made of iron filled with gunpowder with incendiary materials and fitted with a slow-burning fuse. It will explode a few seconds after it is thrown. It is weaker than a regualr bomb, but its debris sets flammable objects on fire. Do not use in the wooded areas!",
-      "CRDescription:0": "Make throwable incendiary bomb by adding sulphur to a bomb"
+      "DisplayName": "焼夷爆弾",
+      "Description": "焼夷爆弾は、焼夷性材料が追加された火薬が詰められた鉄製の球体で、燃焼の遅い導火線が取り付けられています。投げられてから数秒後に爆発します。通常の爆弾よりも弱いですが、その破片は可燃物に火をつけます。木材地帯の近くで使用しないでください！",
+      "CRDescription:0": "爆弾に硫黄を加えて投げられる焼夷爆弾を作る"
     },
     "FireworksBlock:0": {
-      "DisplayName": "Fireworks",
-      "Description": "Fireworks burst in the sky creating beautiful patterns. They can be launched by hand, but it's better to launch them en masse using the dispenser. And better still to wire multiple dispensers with electricity and create a beautiful, programmed fireworks display. Fireworks come in 8 colors, 8 shapes, 2 altitude modes (low and high). Additionally each firework can be made to flicker. Color and shape of the head determines color and shape of the burst. Thick shafts burst high, narrow shafts burst low. Red stabilizers indicate flickering."
+      "DisplayName": "花火",
+      "Description": "花火は空で爆発し、美しい模様を作り出します。手で打ち上げることができますが、ディスペンサーを使って一斉に打ち上げるのが良いでしょう。さらに良いのは、複数のディスペンサーを電気で配線し、美しくプログラムされた花火のディスプレイを作成することです。花火には8色、8形状、2つの高度モード（低および高）があります。さらに、各花火は点滅させることができます。頭の色と形状は、爆発の色と形状を決定します。太い軸は高く爆発し、細い軸は低く爆発します。赤い安定剤は点滅を示します。"
     },
     "FlourBlock:0": {
-      "DisplayName": "Flour",
-      "Description": "Flour is white powder obtained by crushing grains of rye. Mix it with water to make dough.",
-      "CRDescription:0": "Crush rye grains to make flour"
+      "DisplayName": "小麦粉",
+      "Description": "小麦粉は、ライ麦の穀粒を粉砕して得られる白い粉です。水と混ぜて生地を作ることができます。",
+      "CRDescription:0": "ライ麦の穀粒を粉砕して小麦粉を作る"
     },
     "DoughBlock:0": {
-      "DisplayName": "Dough",
-      "Description": "Dough is obtained by mixing flour with various ingredients. It can be baked into bread.",
-      "CRDescription:0": "Mix flour and water to make bread dough"
+      "DisplayName": "生地",
+      "Description": "生地は、さまざまな材料を混ぜ合わせることで得られます。パンに焼くことができます。",
+      "CRDescription:0": "小麦粉と水を混ぜてパン生地を作る"
     },
     "RottenDoughBlock:0": {
-      "DisplayName": "Moldy Dough",
-      "Description": "A moldy piece of dough."
+      "DisplayName": "カビの生えた生地",
+      "Description": "カビの生えた生地のかけら。"
     },
     "BreadBlock:0": {
-      "DisplayName": "Bread",
-      "Description": "A loaf of bread. Very tasty and nutritious meal.",
-      "CRDescription:0": "Bake dough to make bread"
+      "DisplayName": "パン",
+      "Description": "パンの塊。非常に美味しく栄養価の高い食事です。",
+      "CRDescription:0": "生地を焼いてパンを作る"
     },
     "RottenBreadBlock:0": {
-      "DisplayName": "Moldy Bread",
-      "Description": "A moldy loaf of bread. Do not eat."
+      "DisplayName": "カビの生えたパン",
+      "Description": "カビの生えたパンの塊。食べないでください。"
     },
     "RawBirdBlock:0": {
-      "DisplayName": "Raw Bird",
-      "Description": "A bird carcass. Can be consumed raw, but is much more nutritious when cooked in a furnace."
+      "DisplayName": "生の鳥",
+      "Description": "鳥の死骸。生で消費できますが、炉で調理すると栄養価が大幅に高まります。"
     },
     "CookedBirdBlock:0": {
-      "DisplayName": "Cooked Bird",
-      "Description": "Cooked bird meat. Very tasty and nutritious meal.",
-      "CRDescription:0": "Cook raw bird to increase its nutritional value and make it preserve better"
+      "DisplayName": "調理済みの鳥",
+      "Description": "調理済みの鳥肉。非常に美味しく栄養価の高い食事です。",
+      "CRDescription:0": "生の鳥を調理して栄養価を高め、保存性を向上させる"
     },
     "RottenBirdBlock:0": {
-      "DisplayName": "Rotten Bird",
-      "Description": "Rotten bird meat. Do not eat."
+      "DisplayName": "腐った鳥",
+      "Description": "腐った鳥肉。食べないでください。"
     },
     "RawMeatBlock:0": {
-      "DisplayName": "Raw Meat",
-      "Description": "A piece of raw meat. Can be consumed raw, but is much more nutritious when cooked in a furnace."
+      "DisplayName": "生の肉",
+      "Description": "生の肉のかけら。生で消費できますが、炉で調理すると栄養価が大幅に高まります。"
     },
     "CookedMeatBlock:0": {
-      "DisplayName": "Cooked Meat",
-      "Description": "Cooked meat. A very tasty and nutritious meal.",
-      "CRDescription:0": "Cook raw meat to increase its nutritional value and make it preserve better"
+      "DisplayName": "調理済み肉",
+      "Description": "調理済みの肉。非常に美味しく栄養価の高い食事です。",
+      "CRDescription:0": "生の肉を調理して栄養価を高め、保存性を向上させる"
     },
     "RottenMeatBlock:0": {
-      "DisplayName": "Rotten Meat",
-      "Description": "Rotten meat. Do not eat."
+      "DisplayName": "腐った肉",
+      "Description": "腐った肉。食べないでください。"
     },
     "RawFishBlock:0": {
-      "DisplayName": "Raw Fish",
-      "Description": "A fish carcass. Can be consumed raw, but is much more nutritious when cooked in a furnace."
+      "DisplayName": "生の魚",
+      "Description": "魚の死骸。生で消費できますが、炉で調理すると栄養価が大幅に高まります。"
     },
     "CookedFishBlock:0": {
-      "DisplayName": "Cooked Fish",
-      "Description": "Cooked fish. A very tasty and nutritious meal.",
-      "CRDescription:0": "Cook raw fish to increase its nutritional value and make it preserve better"
+      "DisplayName": "調理済みの魚",
+      "Description": "調理済みの魚。非常に美味しく栄養価の高い食事です。",
+      "CRDescription:0": "生の魚を調理して栄養価を高め、保存性を向上させる"
     },
     "RottenFishBlock:0": {
-      "DisplayName": "Rotten Fish",
-      "Description": "Rotten fish. Do not eat."
+      "DisplayName": "腐った魚",
+      "Description": "腐った魚。食べないでください。"
     },
     "MilkBucketBlock:0": {
-      "DisplayName": "Milk",
-      "Description": "A bucket full of milk, can be consumed. Milk is obtained by milking a cow. Be careful of nearby bulls, because they will attack once they sense that someone is too near the cows. Once milked, a cow will slowly regenerate the milk, and after some time it will be available for milking again."
+      "DisplayName": "牛乳",
+      "Description": "牛乳がいっぱい入ったバケツ。消費できます。牛乳は牛を搾ることで得られます。近くの雄牛に注意してください。それらは、誰かが牛に近づきすぎると攻撃するためです。一度搾乳されると、牛はゆっくりと牛乳を再生し、しばらくすると再び搾乳可能になります。"
     },
     "RottenMilkBucketBlock:0": {
-      "DisplayName": "Spoiled Milk",
-      "Description": "A bucket full of spoiled milk, do not drink."
+      "DisplayName": "腐った牛乳",
+      "Description": "腐った牛乳がいっぱい入ったバケツ。飲まないでください。"
     },
     "RottenEggBlock:0": {
-      "DisplayName": "Rotten Egg",
-      "Description": "Rotten egg. Do not eat."
+      "DisplayName": "腐った卵",
+      "Description": "腐った卵。食べないでください。"
     },
     "PumpkinSoupBucketBlock:0": {
-      "DisplayName": "Pumpkin Soup",
-      "Description": "Pumpkin soup, tasty and nutritious. Can be made by cooking raw pumpkin in a bucket of water."
+      "DisplayName": "カボチャスープ",
+      "Description": "カボチャスープ、美味しくて栄養価が高い。生のカボチャをバケツに入れた水で調理することで作ることができます。"
     },
     "RottenPumpkinSoupBucketBlock:0": {
-      "DisplayName": "Rotten Pumpkin Soup",
-      "Description": "Rotten pumpkin soup, do not eat."
+      "DisplayName": "腐ったカボチャスープ",
+      "Description": "腐ったカボチャスープ。食べないでください。"
     },
     "WireBlock:0": {
-      "DisplayName": "Electric Wire",
-      "Description": "A thin wire made of copper, it conducts electricity very well. Used for making electric circuits. Wire can be placed on any surface and connections with all nearby wires will be created automatically. A wire will connect between edges of diagonally adjacent blocks, allowing you to make hidden connections.",
-      "CRDescription:0": "Work copper ingots into a length of electric wire"
+      "DisplayName": "電線",
+      "Description": "銅で作られた細いワイヤーで、電気を非常によく伝導します。電気回路の作成に使用されます。ワイヤーは任意の表面に配置でき、近くのすべてのワイヤーとの接続は自動的に作成されます。ワイヤーは対角線上に隣接するブロックの端の間で接続され、隠し接続を作成できます。",
+      "CRDescription:0": "銅インゴットを電線に加工する"
     },
     "NotGateBlock:0": {
-      "DisplayName": "Logic NOT Gate",
-      "Description": "Logic NOT gate. Has one input and one output. Inverts the electric signal coming on the input. The output is 1 when input is 0, otherwise it is 0. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic NOT gates from copper and germanium"
+      "DisplayName": "論理NOTゲート",
+      "Description": "論理NOTゲート。入力1つと出力1つがあります。入力で受け取る電気信号を反転させます。入力が0の場合、出力は1になり、それ以外の場合は0になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理NOTゲートをクラフトする"
     },
     "AndGateBlock:0": {
-      "DisplayName": "Logic AND Gate",
-      "Description": "Logic AND gate. Has two inputs on the sides and one output. The output is 1 when both inputs are 1, otherwise it is 0. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic AND gates from copper and germanium"
+      "DisplayName": "論理ANDゲート",
+      "Description": "論理ANDゲート。側面に2つの入力があり、1つの出力があります。両方の入力が1の場合、出力は1になり、それ以外の場合は0になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理ANDゲートをクラフトする"
     },
     "OrGateBlock:0": {
-      "DisplayName": "Logic OR Gate",
-      "Description": "Logic OR gate. Has two inputs on the sides and one output. The output is 1 when any of the inputs is 1, otherwise it is 0. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic OR gates from copper and germanium"
+      "DisplayName": "論理ORゲート",
+      "Description": "論理ORゲート。側面に2つの入力があり、1つの出力があります。いずれかの入力が1の場合、出力は1になり、それ以外の場合は0になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理ORゲートをクラフトする"
     },
     "XorGateBlock:0": {
-      "DisplayName": "Logic XOR Gate",
-      "Description": "Logic XOR gate. Has two inputs on the sides and one output. The output is 1 when exactly one of the inputs is 1, otherwise it is 0. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic XOR gates from copper and germanium"
+      "DisplayName": "論理XORゲート",
+      "Description": "論理XORゲート。側面に2つの入力があり、1つの出力があります。入力のいずれか1つが1の場合、出力は1になり、それ以外の場合は0になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理XORゲートをクラフトする"
     },
     "NandGateBlock:0": {
-      "DisplayName": "Logic NAND Gate",
-      "Description": "Logic NAND gate. Has two inputs on the sides and one output. The output is 0 when both inputs are 1, otherwise it is 1. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic NAND gates from copper and germanium"
+      "DisplayName": "論理NANDゲート",
+      "Description": "論理NANDゲート。側面に2つの入力があり、1つの出力があります。両方の入力が1の場合、出力は0になり、それ以外の場合は1になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理NANDゲートをクラフトする"
     },
     "NorGateBlock:0": {
-      "DisplayName": "Logic NOR Gate",
-      "Description": "Logic NOR gate. Has two inputs on the sides and one output. The output is 0 when any of the inputs is 1, otherwise it is 1. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic NOR gates from copper and germanium"
+      "DisplayName": "論理NORゲート",
+      "Description": "論理NORゲート。側面に2つの入力があり、1つの出力があります。いずれかの入力が1の場合、出力は0になり、それ以外の場合は1になります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理NORゲートをクラフトする"
     },
     "DelayGateBlock:0": {
-      "DisplayName": "Delay Gate",
-      "Description": "A delay gate with one input and one output. A single gate will delay any signal for about 0.2 seconds. Chaining 2 gates directly (without a wire in between), gives a delay of 1 second. Chaining 3 gates directly gives a delay of 5 seconds. Chaining delay gates with a wire between simply combines the delays. Two gates will give a delay of 0.4 seconds, 3 gates will give 0.6 seconds, and so on. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic Delay gates from copper and germanium"
+      "DisplayName": "遅延ゲート",
+      "Description": "入力1つ、出力1つの遅延ゲート。単一のゲートは約0.2秒信号を遅延させます。2つのゲートを直接（間にワイヤーなしで）連鎖させると、1秒の遅延が得られます。3つのゲートを直接連鎖させると、5秒の遅延が得られます。遅延ゲートを間にワイヤーを挟んで連鎖させると、単純に遅延が合計されます。2つのゲートで0.4秒、3つのゲートで0.6秒の遅延が得られます。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理遅延ゲートをクラフトする"
     },
     "AdjustableDelayGateBlock:0": {
-      "DisplayName": "Adjustable Delay Gate",
-      "Description": "An adjustable delay gate with one input and one output. The delay of the gate can be adjusted in 0.01s increments by editing it. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic Adjustable Delay gates from copper, germanium and iron"
+      "DisplayName": "調整可能遅延ゲート",
+      "Description": "入力1つ、出力1つの調整可能遅延ゲート。ゲートの遅延は、編集することで0.01秒単位で調整できます。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅、ゲルマニウム、鉄から論理調整可能遅延ゲートをクラフトする"
     },
     "SRLatchBlock:0": {
-      "DisplayName": "SR Latch",
-      "Description": "Logic SR latch. Can be used as a memory element holding a single bit. Has three inputs (S, R and clock), and one output. A signal on S input sets the state to 1. A signal on R input resets the state to 0. Output always indicates the current state of the latch. Can work in synchronous or asynchronous mode, depending on whether clock input is connected. In synchronous mode the states of S and R inputs are read only during a rising edge on the clock input. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Logic SR Latches from copper and germanium"
+      "DisplayName": "SRラッチ",
+      "Description": "論理SRラッチ。単一ビットを保持するメモリ要素として使用できます。3つの入力（S、R、クロック）と1つの出力があります。S入力の信号は状態を1に設定します。R入力の信号は状態を0にリセットします。出力は常にラッチの現在の状態を示します。クロック入力が接続されているかどうかに応じて、同期モードまたは非同期モードで動作できます。同期モードでは、SおよびR入力の状態はクロック入力の立ち上がりエッジでのみ読み取られます。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから論理SRラッチをクラフトする"
     },
     "CounterBlock:0": {
-      "DisplayName": "4-Bit Counter",
-      "Description": "An electric 4 bit counter with increment, decrement, reset and overflow detection capabilities (useful for chaining counters). Outputs its current value at the top via an analog signal. You can use analog-to-digital converter to extract the actual 4 bits, if needed. Signal on the right input increments the counter. Signal on the left input decrements it. Both increment and decrement wrap around when reach above 15 or below 0, in which case an overflow signal is generated at the bottom output. The back input (use wire-though-block element to access it) resets the counter to 0. Plus, minus and reset inputs are activated by rising edge of the signal. The counter can be mounted on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft 4-bit Counters from copper and germanium"
+      "DisplayName": "4ビットカウンタ",
+      "Description": "インクリメント、デクリメント、リセット、オーバーフロー検出機能（カウンタの連鎖に便利）を備えた電気式4ビットカウンタ。現在の値をトップのアナログ信号で出力します。必要に応じて、アナログ-デジタルコンバーターを使用して実際の4ビットを抽出できます。右入力の信号はカウンタをインクリメントします。左入力の信号はデクリメントします。インクリメントとデクリメントは、15を超えたり0を下回ったりするとラップアラウンドし、その場合、ボトム出力でオーバーフロー信号が生成されます。バック入力（ワイヤースルーブロック要素を使用してアクセス）はカウンタを0にリセットします。プラス、マイナス、リセット入力は信号の立ち上がりエッジによってアクティブになります。カウンタは任意の表面に取り付け、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから4ビットカウンタをクラフトする"
     },
     "MemoryBankBlock:0": {
-      "DisplayName": "Memory Bank",
-      "Description": "Writeable memory bank containing 256 4-bit words. The memory can be addressed using two 4-bit address lines placed on the left and right. If an address line is not connected, it's assumed to be zero. Value stored in the memory bank under the specified address can be read at the top output. Bottom input is used as a clock in a similar fashion to SR Latch. If the clock line is not connected, reads are immediate. To write to the memory bank, supply the value to be written on the back input (you must use wire-through-block). The write is triggered by setting clock input to a low voltage between 0.1 and 0.7 volts (a value of 0.8 and larger will trigger a read). The contents of memory block can be manually edited by tapping edit button when block is held in hand or looked at. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Memory Bank from copper and germanium"
+      "DisplayName": "メモリバンク",
+      "Description": "256個の4ビットワードを含む書き込み可能なメモリバンク。メモリは、左と右に配置された2つの4ビットアドレスラインを使用してアドレス指定できます。アドレスラインが接続されていない場合、ゼロと見なされます。指定されたアドレスの下のメモリバンクに格納されている値は、トップ出力で読み取ることができます。ボトム入力は、SRラッチと同様の方法でクロックとして使用されます。クロックラインが接続されていない場合、読み取りは即時です。メモリバンクに書き込むには、書き込む値をバック入力（ワイヤースルーブロックを使用する必要があります）に供給します。書き込みは、クロック入力を0.1ボルトから0.7ボルトの間の低電圧に設定することでトリガーされます（0.8ボルト以上の値は読み取りをトリガーします）。メモリブロックの内容は、ブロックを手に持っているか、見ているときに編集ボタンをタップすることで手動で編集できます。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムからメモリバンクをクラフトする"
     },
     "TruthTableCircuitBlock:0": {
-      "DisplayName": "Truth Table Circuit",
-      "Description": "A programmable circuit that uses a user-entered truth table to determine value of the output for all possible combination of the inputs. There are 4 inputs on all sides and one output at the back (to access the output element must be placed on a wire-through-block). The truth table must be entered manually by tapping edit button while holding the item in hand. Truth table contains output values for all possible input value combinations. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Truth Table Circuit from copper and germanium"
+      "DisplayName": "真理値表回路",
+      "Description": "ユーザーが入力した真理値表を使用して、すべての可能な入力の組み合わせに対する出力値を決定するプログラム可能な回路です。すべての側面に4つの入力があり、背面に1つの出力があります（出力要素にアクセスするには、ワイヤースルーブロックに配置する必要があります）。真理値表は、アイテムを手に持っている間に編集ボタンをタップして手動で入力する必要があります。真理値表には、すべての可能な入力値の組み合わせに対する出力値が含まれています。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムから真理値表回路をクラフトする"
     },
     "RealTimeClockBlock:0": {
-      "DisplayName": "Real Time Clock",
-      "Description": "A real time clock that provides an accurate and always up to date readout of time. The clock value changes even if it's far away from the player. Zero value of the clock is at the point when the game started. You cannot reset the clock, it always tells the time since the game started. The clock outputs time via 5 outputs, each of them 4-bit analog signal. Sixteen least significant bits are on the four sides, and the 5th output (containing the most significant 4 bits) is on the back (you must place the clock on a wire-through-block to access the 5th output). The clock is set up so that it advances by exactly 4096 ticks each day. That means each tick is about 0.3 seconds long and that 4th output contains number of days since the game started. Combined value of outputs 1, 2 and 3 contains time of day, to about 0.3 second accuracy. 4th output alone will overflow after 16 days. Use 5th output to extend the overflow period to 256 days. ",
-      "CRDescription:0": "Craft Real Time Clocks from copper, germanium and glass"
+      "DisplayName": "リアルタイムクロック",
+      "Description": "正確で常に最新の時刻表示を提供するリアルタイムクロックです。プレイヤーから遠く離れていてもクロック値は変化します。クロックのゼロ値は、ゲームが開始された時点です。クロックをリセットすることはできず、常にゲーム開始からの時間を表示します。クロックは5つの出力で時刻を出力します。それぞれが4ビットのアナログ信号です。最も低い16ビットは4つの側面にあり、5番目の出力（最も高い4ビットを含む）は背面にあります（5番目の出力にアクセスするには、クロックをワイヤースルーブロックに配置する必要があります）。クロックは、1日あたり正確に4096ティック進むように設定されています。つまり、各ティックは約0.3秒で、4番目の出力にはゲーム開始からの日数が入っています。出力1、2、3の組み合わせ値には、約0.3秒の精度で時刻が含まれています。4番目の出力だけでは、16日後にオーバーフローします。5番目の出力を使用して、オーバーフロー期間を256日に延長します。",
+      "CRDescription:0": "銅、ゲルマニウム、ガラスからリアルタイムクロックをクラフトする"
     },
     "RandomGeneratorBlock:0": {
-      "DisplayName": "Random Generator",
-      "Description": "Electric random generator. Can be used to generate random electric signals. Has a single clock input and one random output. Output is an analog signal and always indicates the latest result of the random generator. Can work in synchronous or asynchronous mode, depending on whether clock input is connected. In synchronous mode the random value is generated only during a rising edge on the clock input, otherwise it is generated continuously with average frequency of about 2 Hz. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Random Generators from copper and germanium"
+      "DisplayName": "ランダムジェネレーター",
+      "Description": "電気式ランダムジェネレーター。ランダムな電気信号を生成するために使用できます。単一のクロック入力と1つのランダム出力があります。出力はアナログ信号であり、常にランダムジェネレーターの最新の結果を示します。クロック入力が接続されているかどうかに応じて、同期モードまたは非同期モードで動作できます。同期モードでは、ランダム値はクロック入力の立ち上がりエッジでのみ生成されますが、それ以外の場合は約2Hzの平均周波数で連続的に生成されます。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムからランダムジェネレーターをクラフトする"
     },
     "DigitalToAnalogConverterBlock:0": {
-      "DisplayName": "Digital To Analog Converter",
-      "Description": "Electric DAC. Converts 4 digital signals fed to its sides to one analog signal at the back. You need to place DAC on a WireThroughBlock element to be able to access the output signal. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Digital To Analog Converters from copper and germanium"
+      "DisplayName": "デジタル-アナログコンバーター",
+      "Description": "電気式DAC。側面に供給される4つのデジタル信号を背面の1つのアナログ信号に変換します。出力信号を提供するには、DACをワイヤースルーブロック要素に配置する必要があります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムからデジタル-アナログコンバーターをクラフトする"
     },
     "AnalogToDigitalConverterBlock:0": {
-      "DisplayName": "Analog To Digital Converter",
-      "Description": "Electric ADC. Converts one analog signal fed to its back to 4 digital signals output through its sides. You need to place DAC on a WireThroughBlock element to be able provide the input signal. Can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Analog To Digital Converters from copper and germanium"
+      "DisplayName": "アナログ-デジタルコンバーター",
+      "Description": "電気式ADC。背面に供給される1つのアナログ信号を、側面から出力される4つのデジタル信号に変換します。入力信号を提供するには、DACをワイヤースルーブロック要素に配置する必要があります。任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅とゲルマニウムからアナログ-デジタルコンバーターをクラフトする"
     },
     "SoundGeneratorBlock:0": {
-      "DisplayName": "Sound Generator",
-      "Description": "Electric sound generator. Takes 4 inputs: pitch (left), octave (right), volume (top) and tone (bottom). All of these inputs are analog. The pitch ranges from C note (value of 0V) to D note in the next octave (value of 1.4V). 1.5V at pitch input means pause, no sound is played. The octave input can be used to shift the pitch by up to two octaves. The volume input sets the volume of played sound, with 0V being muted and 1.5V being the loudest. The actual sound is played whenever tone input goes from zero to non-zero. The value supplied to the tone input when it goes from zero to non-zero determines which instrument should be played: 0.1=bell, 0.2=Organ, 0.3=Ping, 0.4=String, 0.5=Trumpet, 0.6=Voice, 0.7=Piano, 0.8=PianoSustain, 0.9=Drums, 1.0=Bass. With drums, pitch input determines one of 10 drums: 0.0=Snare, 0.1=BassDrum, 0.2=ClosedHiHat, 0.3=PedalHiHat, 0.4=OpenHiHat, 0.5=LowTom, 0.6=HighTom, 0.7=Crash, 0.8=Ride, 0.9=HandClap. Some animals, especially birds, are afraid of the loud sounds. This element can be placed on any surface and rotated to desired orientation.",
-      "CRDescription:0": "Craft Sound Generators from copper, germanium and iron"
+      "DisplayName": "サウンドジェネレーター",
+      "Description": "電気式サウンドジェネレーター。4つの入力（ピッチ（左）、オクターブ（右）、ボリューム（上）、トーン（下））を取ります。これらの入力はすべてアナログです。ピッチはCノート（値0V）から次のオクターブのDノート（値1.4V）まで変化します。ピッチ入力で1.5Vは一時停止を意味し、音は鳴りません。オクターブ入力を使用して、最大2オクターブまでピッチをシフトできます。ボリューム入力は再生されるサウンドのボリュームを設定し、0Vはミュート、1.5Vは最大音量です。実際のサウンドは、トーン入力がゼロから非ゼロに移行するときに再生されます。ゼロから非ゼロに移行したときにトーン入力に供給される値は、どの楽器を演奏するかを決定します：0.1=ベル、0.2=オルガン、0.3=ピン、0.4=ストリング、0.5=トランペット、0.6=ボイス、0.7=ピアノ、0.8=ピアノサステイン、0.9=ドラム、1.0=ベース。ドラムの場合、ピッチ入力は10個のドラムのいずれかを決定します：0.0=スネア、0.1=バスドラム、0.2=クローズドハイハット、0.3=ペダルハイハット、0.4=オープンハイハット、0.5=ロータム、0.6=ハイトム、0.7=クラッシュ、0.8=ライド、0.9=ハンドクラップ。一部の動物、特に鳥は、大きな音を恐れます。この要素は任意の表面に配置でき、希望の向きに回転できます。",
+      "CRDescription:0": "銅、ゲルマニウム、鉄からサウンドジェネレーターをクラフトする"
     },
     "BatteryBlock:0": {
-      "DisplayName": "Battery",
-      "Description": "An electric battery used to power electric circuits. Will connect to any wire placed next to it and power it to a constant voltage, which is 1.5V by default. The voltage can be adjusted by editing the battery.",
-      "CRDescription:0": "Craft batteries from copper and coal"
+      "DisplayName": "バッテリー",
+      "Description": "電気回路に電力を供給するために使用される電気バッテリー。隣に配置されたワイヤーに接続され、デフォルトで一定電圧（1.5V）に電力を供給します。電圧はバッテリーを編集することで調整できます。",
+      "CRDescription:0": "銅と石炭からバッテリーをクラフトする"
     },
     "LightbulbBlock:0": {
-      "DisplayName": "Lightbulb",
-      "Description": "Electric lightbulb, emits a lot of light when connected to a source of electricity. Can be placed on any surface.",
-      "CRDescription:0": "Craft lightbulbs from copper and glass"
+      "DisplayName": "電球",
+      "Description": "電気電球。電力源に接続すると多くの光を放ちます。任意の表面に配置できます。",
+      "CRDescription:0": "銅とガラスから電球をクラフトする"
     },
     "SwitchBlock:0": {
-      "DisplayName": "Switch",
-      "Description": "An electric switch. It is used to set the state of an electric circuit to 1.5V (lever up) or 0V (lever down). The voltage remains in the selected state until the lever is moved again. A switch has outputs on all sides for easy connection, and can be placed on any surface.",
-      "CRDescription:0": "Craft electric switches from copper and sticks"
+      "DisplayName": "スイッチ",
+      "Description": "電気スイッチ。電気回路の状態を1.5V（レバーアップ）または0V（レバーダウン）に設定するために使用されます。選択された状態は、レバーが再び動かされるまで維持されます。スイッチは、接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。",
+      "CRDescription:0": "銅と棒から電気スイッチをクラフトする"
     },
     "ButtonBlock:0": {
-      "DisplayName": "Button",
-      "Description": "An electric button. Used to momentarily set the state of an electric circuit to 1.5V. The duration of the pulse generated by a single button click is about 1\/10 of a second, after which time the outputs return to 0V state. A button can be triggered by a projectile striking it. It has outputs on all sides for easy connection and can be placed on any surface.",
-      "CRDescription:0": "Craft electric buttons from copper and planks"
+      "DisplayName": "ボタン",
+      "Description": "電気ボタン。電気回路の状態を瞬間的に1.5Vに設定するために使用されます。単一のボタンクリックによって生成されるパルスの持続時間は約1/10秒で、その後出力は0V状態に戻ります。ボタンは、投射物が当たることによってトリガーできます。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。",
+      "CRDescription:0": "銅と板材から電気ボタンをクラフトする"
     },
     "PressurePlateBlock:0": {
-      "DisplayName": "Pressure Plate",
-      "Description": "Electric pressure plate. The pressure plate generates a signal when it is pressed, for example by something heavy resting on it, or by a projectile striking it. The voltage generated depends on the weight of item and is between 0.8V (lightest) and 1.5V (heaviest), therefore the pressure plate can be used as a weight. As soon as the pressure is removed, the output signal returns to 0V. The plate has outputs on all sides for easy connection. It can be placed on any surface.",
-      "CRDescription:0": "Craft electric pressure plates from copper and planks"
+      "DisplayName": "圧力プレート",
+      "Description": "電気圧力プレート。圧力プレートは、例えばその上に重いものが乗っている場合や、投射物が当たった場合に、信号を生成します。生成される電圧はアイテムの重量に依存し、0.8V（最も軽い）から1.5V（最も重い）の間です。したがって、圧力プレートは重量計として使用できます。圧力が除去されるとすぐに、出力信号は0Vに戻ります。プレートは、接続を容易にするためにすべての側面に接続があります。任意の表面に配置できます。",
+      "CRDescription:0": "銅と板材から電気圧力プレートをクラフトする"
     },
     "MotionDetectorBlock:0": {
-      "DisplayName": "Motion Detector",
-      "Description": "An electric motion detector. The detector will produce signal whenever it detects motion in front of its face, up to about 8 blocks away. When motion is detected, the output of the motion detector is between 0.8 and 1.5V, indicating how close to the detector the object is moving. It has outputs on all sides for easy connection and can be placed on any surface.",
-      "CRDescription:0": "Craft motion detectors from copper, glass and marble"
+      "DisplayName": "モーションディテクター",
+      "Description": "電気式モーションディテクター。ディテクターは、顔の前方約8ブロックまでの範囲で動きを検出すると信号を生成します。動きが検出されると、モーションディテクターの出力は0.8Vから1.5Vの間になり、オブジェクトがディテクターにどれだけ近づいているかを示します。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。",
+      "CRDescription:0": "銅、ガラス、大理石からモーションディテクターをクラフトする"
     },
     "PistonBlock:0": {
-      "DisplayName": "Piston",
-      "Description": "Pistons can be used to push and pull blocks. The extension of piston is controlled by voltage applied to it. 0.8V will make piston extend to one block, 0.9V to two etc. 1.5V will extend a piston to a maximum of 8 blocks. Pistons can also be edited to limit the maximum extension to lower values. If the piston is a pull piston, it will also pull blocks back when retracting. If the piston is a strict pull piston, it will not retract unless it is pulling back enough blocks. Number of pulled blocks can be adjusted by editing up to a maximum of 8."
+      "DisplayName": "ピストン",
+      "Description": "ピストンは、ブロックを押したり引いたりするために使用できます。ピストンの拡張は、それに印加される電圧によって制御されます。0.8Vはピストンを1ブロック拡張させ、0.9Vは2ブロックなどとします。1.5Vはピストンを最大8ブロックまで拡張させます。ピストンは、最大拡張を低い値に制限するように編集することもできます。ピストンがプルピストンである場合、収縮するときにブロックを後ろに引きます。ピストンが厳密なプルピストンである場合、十分なブロックを後ろに引かない限り収縮しません。引かれるブロックの数は、編集によって最大8まで調整できます。"
     },
     "PistonHeadBlock:0": {
-      "DisplayName": "Piston Head",
+      "DisplayName": "ピストンヘッド",
       "Description": ""
     },
     "WireThroughPlanksBlock:0": {
-      "DisplayName": "Wire Through Planks",
-      "Description": "A planks block with a wire running across a hole drilled through the middle. This block behaves exactly the same as planks, but can conduct electricity when both ends of the embedded wire are a connected to something. This block can be placed with ends pointing north\/south, east\/west or up\/down. It is very useful when there is a need to run electricity through solid walls, or to insulate the wire from unwanted connections with other wires.",
-      "CRDescription:0": "Drill a hole in the planks block and put an electric wire through it"
+      "DisplayName": "板材貫通ワイヤー",
+      "Description": "中央に穴が開けられた板材ブロック。このブロックは板材と全く同じように動作しますが、埋め込まれたワイヤーの両端が接続されている場合にのみ電気を伝導できます。このブロックは、北/南、東/西、または上下を向いた状態で配置できます。固体壁を通して電気を通す必要がある場合、または他のワイヤーからの不要な接続からワイヤーを絶縁する場合に非常に役立ちます。",
+      "CRDescription:0": "板材ブロックに穴を開け、電線を通す"
     },
     "WireThroughStoneBlock:0": {
-      "DisplayName": "Wire Through Stone",
-      "Description": "A granite block with a wire running across a hole drilled through the middle. This block behaves exactly the same as granite, but can conduct electricity when both ends of the embedded wire are a connected to something. This block can be placed with ends pointing north\/south, east\/west or up\/down. It is very useful when there is a need to run electricity through solid walls, or to insulate the wire from unwanted connections with other wires.",
-      "CRDescription:0": "Drill a hole in the stone block and put an electric wire through it"
+      "DisplayName": "石貫通ワイヤー",
+      "Description": "中央に穴が開けられた花崗岩ブロック。このブロックは花崗岩と全く同じように動作しますが、埋め込まれたワイヤーの両端が接続されている場合にのみ電気を伝導できます。このブロックは、北/南、東/西、または上下を向いた状態で配置できます。固体壁を通して電気を通す必要がある場合、または他のワイヤーからの不要な接続からワイヤーを絶縁する場合に非常に役立ちます。",
+      "CRDescription:0": "石ブロックに穴を開け、電線を通す"
     },
     "WireThroughBricksBlock:0": {
-      "DisplayName": "Wire Through Bricks",
-      "Description": "A bricks block with a wire running across a hole drilled through the middle. This block behaves exactly the same as bricks, but can conduct electricity when both ends of the embedded wire are a connected to something. This block can be placed with ends pointing north\/south, east\/west or up\/down. It is very useful when there is a need to run electricity through solid walls, or to insulate the wire from unwanted connections with other wires.",
-      "CRDescription:0": "Drill a hole in the bricks block and put an electric wire through it"
+      "DisplayName": "レンガ貫通ワイヤー",
+      "Description": "中央に穴が開けられたレンガブロック。このブロックはレンガと全く同じように動作しますが、埋め込まれたワイヤーの両端が接続されている場合にのみ電気を伝導できます。このブロックは、北/南、東/西、または上下を向いた状態で配置できます。固体壁を通して電気を通す必要がある場合、または他のワイヤーからの不要な接続からワイヤーを絶縁する場合に非常に役立ちます。",
+      "CRDescription:0": "レンガブロックに穴を開け、電線を通す"
     },
     "WireThroughSemiconductorBlock:0": {
-      "DisplayName": "Wire Through Semiconductor",
-      "Description": "A semiconductor block with a wire running across a hole drilled through the middle. This block can conduct electricity when both ends of the embedded wire are a connected to something. It can be placed with ends pointing north\/south, east\/west or up\/down. It is very useful when there is a need to run electricity through solid walls, or to insulate the wire from unwanted connections with other wires.",
-      "CRDescription:0": "Drill a hole in semiconductor block and put an electric wire through it"
+      "DisplayName": "半導体貫通ワイヤー",
+      "Description": "中央に穴が開けられた半導体ブロック。このブロックは、埋め込まれたワイヤーの両端が接続されている場合に電気を伝導できます。北/南、東/西、または上下を向いた状態で配置できます。固体壁を通して電気を通す必要がある場合、または他のワイヤーからの不要な接続からワイヤーを絶縁する場合に非常に役立ちます。",
+      "CRDescription:0": "半導体ブロックに穴を開け、電線を通す"
     },
     "WireThroughCobblestoneBlock:0": {
-      "DisplayName": "Wire Through Cobblestone",
-      "Description": "A cobblestone block with a wire running across a hole drilled through the middle. This block can conduct electricity when both ends of the embedded wire are a connected to something. It can be placed with ends pointing north\/south, east\/west or up\/down. It is very useful when there is a need to run electricity through solid walls, or to insulate the wire from unwanted connections with other wires.",
-      "CRDescription:0": "Drill a hole in cobblestone block and put an electric wire through it"
+      "DisplayName": "丸石貫通ワイヤー",
+      "Description": "中央に穴が開けられた丸石ブロック。このブロックは、埋め込まれたワイヤーの両端が接続されている場合に電気を伝導できます。北/南、東/西、または上下を向いた状態で配置できます。固体壁を通して電気を通す必要がある場合、または他のワイヤーからの不要な接続からワイヤーを絶縁する場合に非常に役立ちます。",
+      "CRDescription:0": "丸石ブロックに穴を開け、電線を通す"
     },
     "LedBlock:0": {
       "DisplayName": "LED",
-      "Description": "A light emitting diode. When connected to a power source emits weak colored light. The light is too weak to light up the surroundings, but it's easily visible. It has inputs on all sides for easy connection and can be placed on any surface."
+      "Description": "発光ダイオード。電力源に接続すると、弱い色の光を放出します。光は周囲を照らすには弱すぎますが、容易に見えます。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。"
     },
     "FourLedBlock:0": {
-      "DisplayName": "4-LED",
-      "Description": "A set of 4 square light emitting diodes. When connected to a power source, leds emit weak colored light. The element splits the analog signal into 4 bits to determine which of the 4 diodes should be lit. The light is too weak to light up the surroundings, but it's easily visible. Useful for creating high resolution screens. It has inputs on all sides for easy connection and can be placed on any surface."
+      "DisplayName": "4LED",
+      "Description": "4つの正方形の発光ダイオードのセット。電力源に接続すると、LEDは弱い色の光を放出します。要素はアナログ信号を4ビットに分割して、4つのLEDのうちどれを点灯させるかを決定します。光は周囲を照らすには弱すぎますが、容易に見えます。高解像度スクリーンを作成するのに役立ちます。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。"
     },
     "SevenSegmentDisplayBlock:0": {
-      "DisplayName": "7-Segment Display",
-      "Description": "A 7-segment display. Displays one of the 16 hexadecimal characters: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F based on a single analog input supplied to it. The input value is converted to 4-bit digital form and used as a hexadecimal character to be displayed. Can be placed on any vertical surface."
+      "DisplayName": "7セグメントディスプレイ",
+      "Description": "7セグメントディスプレイ。単一のアナログ入力に基づいて、16個の16進文字（0、1、2、3、4、5、6、7、8、9、A、B、C、D、E、F）のいずれかを表示します。入力値は4ビットデジタル形式に変換され、表示される16進文字として使用されます。任意の垂直表面に配置できます。"
     },
     "MulticoloredLedBlock:0": {
-      "DisplayName": "Multicolored LED",
-      "Description": "A light emitting diode. When connected to a power source emits weak colored light. The color of the light depends on the value of signal applied to the diode. 0.8V or above produces light of 8 different colors. The light is too weak to light up the surroundings, but it's easily visible. Useful for creating status lights. It has inputs on all sides for easy connection and can be placed on any surface."
+      "DisplayName": "多色LED",
+      "Description": "発光ダイオード。電力源に接続すると、弱い色の光を放出します。光の色は、ダイオードに適用される信号の値によって異なります。0.8V以上は8つの異なる色の光を生成します。光は周囲を照らすには弱すぎますが、容易に見えます。ステータスライトの作成に役立ちます。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。"
     },
     "OneLedBlock:0": {
-      "DisplayName": "1-LED",
-      "Description": "A large square light emitting diode. When connected to a power source, leds emit weak colored light. The color of the light depends on the value of signal applied to the diode. 0.8V or above produces light of 8 different colors. The light is too weak to light up the surroundings, but it's easily visible. Useful for creating color screens. It has inputs on all sides for easy connection and can be placed on any surface."
+      "DisplayName": "1LED",
+      "Description": "大きな正方形の発光ダイオード。電力源に接続すると、LEDは弱い色の光を放出します。光の色は、ダイオードに適用される信号の値によって異なります。0.8V以上は8つの異なる色の光を生成します。光は周囲を照らすには弱すぎますが、容易に見えます。カラー画面の作成に役立ちます。接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。"
     },
     "PhotodiodeBlock:0": {
-      "DisplayName": "Photodiode",
-      "Description": "An electric photodiode. Used to detect light. The diode will generate a signal when light is hitting its surface. The voltage depends on intensity of the light and is between 0.8V (dimmest) to 1.5V (brightest). 0V means no light. The diode has outputs on all sides for easy connection and can be placed on any surface.",
-      "CRDescription:0": "Craft photodiodes from copper and glass"
+      "DisplayName": "フォトダイオード",
+      "Description": "電気式フォトダイオード。光を検出するために使用されます。ダイオードは、光が表面に当たると信号を生成します。電圧は光の強度に依存し、0.8V（最も暗い）から1.5V（最も明るい）の間です。0Vは光がないことを意味します。ダイオードは、接続を容易にするためにすべての側面に接続があり、任意の表面に配置できます。",
+      "CRDescription:0": "銅とガラスからフォトダイオードをクラフトする"
     },
     "TargetBlock:0": {
-      "DisplayName": "Target",
-      "Description": "A target can be used for shooting practice. It will signal a hit with an analog electric signal. The voltage of the signal determines how close to the center the hit occurred, from 0.8V at the outside of the target to 1.5V at the center. Voltages below 0.8V indicate no hit has been registered.",
-      "CRDescription:0": "Put together white and black planks to make a shooting target."
+      "DisplayName": "ターゲット",
+      "Description": "ターゲットは射撃練習に使用できます。アナログ電気信号でヒットを知らせます。信号の電圧は、ターゲットの外側（0.8V）から中心（1.5V）までのヒットが中心にどれだけ近かったかによって決まります。0.8V未満の電圧は、ヒットが登録されなかったことを示します。",
+      "CRDescription:0": "白と黒の板を組み合わせて射撃ターゲットを作る"
     },
     "DetonatorBlock:0": {
-      "DisplayName": "Electric Detonator",
-      "Description": "A detonator contains a small amount of sensitive explosive and is used to initiate larger, less sensitive explosives, such as gunpowder kegs. Because it is very sensitive, it will explode when hit by a hard object, or when an electric current flows through it. Can be used to electrically initiate explosives, with instant explosion. Can be placed on any surface.",
-      "CRDescription:0": "Craft electric detonators from copper and gunpowder"
+      "DisplayName": "電気起爆装置",
+      "Description": "起爆装置には少量の敏感な爆発物が含まれており、火薬樽のような、より大きく感度の低い爆発物を起爆するために使用されます。非常に敏感なため、硬い物体に当たったとき、または電気電流が流れたときに爆発します。電気的に爆発物を起爆するために使用でき、瞬時に爆発します。任意の表面に配置できます。",
+      "CRDescription:0": "銅と火薬から電気起爆装置をクラフトする"
     },
     "ClothingBlock:32": {
       "DisplayName": "Old Hat",
