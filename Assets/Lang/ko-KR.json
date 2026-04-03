@@ -1396,756 +1396,756 @@
       "Description": ""
     },
     "CoalOreBlock:0": {
-      "DisplayName": "Coal Ore",
-      "Description": "Coal ore is a vein of coal embedded in granite rock. Gains coal chunks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost."
+      "DisplayName": "석탄 광석",
+      "Description": "석탄 광석은 화강암에 박혀 있는 석탄 맥입니다. 채굴하면 석탄 덩어리를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다."
     },
     "CopperOreBlock:0": {
-      "DisplayName": "Copper Ore",
-      "Description": "Copper ore is a vein of green copper carbonate embedded in granite rock. Gains malachite chunks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost. Further processing in the furnace is required to extract pure copper from the carbonate."
+      "DisplayName": "구리 광석",
+      "Description": "구리 광석은 화강암에 박혀 있는 녹색 탄산구리 맥입니다. 채굴하면 말라카이트 덩어리를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다. 탄산염에서 순수 구리를 추출하려면 용광로에서 추가 처리가 필요합니다."
     },
     "IronOreBlock:0": {
-      "DisplayName": "Iron Ore",
-      "Description": "Iron ore is a vein of iron oxide embedded in basalt rock. Gains iron ore chunks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost. Further processing in the furnace is required to extract pure iron from the oxide."
+      "DisplayName": "철 광석",
+      "Description": "철 광석은 현무암에 박혀 있는 산화철 맥입니다. 채굴하면 철광석 덩어리를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다. 산화물에서 순수 철을 추출하려면 용광로에서 추가 처리가 필요합니다."
     },
     "SulphurOreBlock:0": {
-      "DisplayName": "Sulphur Ore",
-      "Description": "Sulphur ore is a vein of elemental sulphur embedded in basalt rock. Gains sulphur chunks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost. Sulphur can be used to make pyrotechnic substances, like gunpowder or matches."
+      "DisplayName": "황 광석",
+      "Description": "황 광석은 현무암에 박혀 있는 원소 황 맥입니다. 채굴하면 황 덩어리를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다. 황은 화약이나 성냥과 같은 화약류 제조에 사용할 수 있습니다."
     },
     "DiamondOreBlock:0": {
-      "DisplayName": "Diamond Ore",
-      "Description": "Diamond ore are diamond crystals embedded in basalt rock. Gains diamonds when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost."
+      "DisplayName": "다이아몬드 광석",
+      "Description": "다이아몬드 광석은 현무암에 박혀 있는 다이아몬드 결정입니다. 채굴하면 다이아몬드를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다."
     },
     "GermaniumOreBlock:0": {
-      "DisplayName": "Germanium Ore",
-      "Description": "Germanium ore are veins of germanium oxide embedded in basalt rock. Gains germanium ore blocks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost."
+      "DisplayName": "게르마늄 광석",
+      "Description": "게르마늄 광석은 현무암에 박혀 있는 산화게르마늄 맥입니다. 채굴하면 게르마늄 광석 블록을 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다."
     },
     "SaltpeterOreBlock:0": {
-      "DisplayName": "Saltpeter Ore",
-      "Description": "Saltpeter ore is a vein of potassium nitrate embedded in sandstone rock. Gains saltpeter chunks when mined. Be careful, because certain ores require special tools for successful mining of the mineral. If improper tools are used, the mineral is lost. Saltpeter can be used to make explosives."
+      "DisplayName": "질산칼륨 광석",
+      "Description": "질산칼륨 광석은 사암에 박혀 있는 질산칼륨 맥입니다. 채굴하면 질산칼륨 덩어리를 얻을 수 있습니다. 주의하십시오. 특정 광석은 광물을 성공적으로 채굴하기 위해 특수 도구가 필요합니다. 부적절한 도구를 사용하면 광물이 손실됩니다. 질산칼륨은 폭발물 제조에 사용할 수 있습니다."
     },
     "CoalBlock:0": {
-      "DisplayName": "Solid Coal Block",
-      "Description": "A block of coal. If set on fire in the open, it will burn for a very long time. Good as a long lasting fuel in the furnace. You can craft it from a number of coal chunks, or split it back into them. Blocks of coal can sometimes be found underground inside of rich coal seams.",
-      "CRDescription:0": "Combine many coal chunks into a large block"
+      "DisplayName": "고체 석탄 블록",
+      "Description": "석탄 블록입니다. 열린 공간에서 불을 붙이면 매우 오랫동안 타오릅니다. 용광로에서 오래가는 연료로 좋습니다. 많은 석탄 덩어리로 제작하거나 다시 분해할 수 있습니다. 석탄 블록은 때때로 지하의 풍부한 석탄층에서 발견될 수 있습니다.",
+      "CRDescription:0": "많은 석탄 덩어리를 결합하여 큰 블록 만들기"
     },
     "StoneChunkBlock:0": {
-      "DisplayName": "Stone Chunk",
-      "Description": "A stone can be a formidable weapon in the hands of a skilled thrower. They are plentiful and easy to obtain. The best stones are found by digging in gravel blocks."
-    },
-    "CoalChunkBlock:0": {
-      "DisplayName": "Coal Chunk",
-      "Description": "A chunk of pure coal. Can be used for fuelling the furnace and as an ingredient of various substances, like gunpowder. Used as a reagent when reducing metal ores to pure metals. Also used as a pigment for making darker hues of paint. In absence of mineral coal, you can burn wood in an oxygen-poor atmosphere in the furnace and obtain a similar substance: charcoal.",
-      "CRDescription:0": "Make charcoal by burning wood in oxygenless atmosphere",
-      "CRDescription:1": "Dismantle coal block into chunks"
-    },
-    "MalachiteChunkBlock:0": {
-      "DisplayName": "Malachite Chunk",
-      "Description": "A chunk of copper carbonate with beautiful green color. When smelted in the furnace will turn into pure copper. Multiple chunks can be combined and form a large block of malachite, a beautiful decorative material.",
-      "CRDescription:0": "Dismantle malachite block into chunks"
-    },
-    "IronOreChunkBlock:0": {
-      "DisplayName": "Iron Ore Chunk",
-      "Description": "A chunk of iron ore. When smelted in the furnace will turn into pure iron useful for making durable tools and armor."
-    },
-    "SaltpeterChunkBlock:0": {
-      "DisplayName": "Saltpeter Chunk",
-      "Description": "A chunk of potassium nitrate. This is a white substance with high oxygen content that can be used as an oxidizer for making explosives or, when sprinkled over soil, as a fertilizer to speed up growth of plants and increase yields."
-    },
-    "SulphurChunkBlock:0": {
-      "DisplayName": "Sulphur Chunk",
-      "Description": "A chunk of elemental sulphur. Can be used as an ingredient in paints and pyrotechnic substances like gunpowder or matches."
-    },
-    "GermaniumOreChunkBlock:0": {
-      "DisplayName": "Germanium Ore Chunk",
-      "Description": "A chunk of germanium ore. When smelted in the furnace will turn into a pure germanium crystal useful for making electronic logic gates."
-    },
-    "GermaniumChunkBlock:0": {
-      "DisplayName": "Germanium Crystal",
-      "Description": "Germanium crystal is a crystal of pure electronic-grade germanium. It is a semiconductor and can be used to make electronic logic gates.",
-      "CRDescription:0": "Smelt germanium ore to obtain germanium crystals"
-    },
-    "DiamondChunkBlock:0": {
-      "DisplayName": "Diamond",
-      "Description": "Diamond is a crystal of pure carbon. Very rare and beautiful, it is found deep underground. It can be used for making extremely hard and durable tools. Being carbon, can also be burned as fuel in the furnace, but only fools waste this precious substance for such a mundane purpose.",
-      "CRDescription:0": "Dismantle diamond block into diamonds"
-    },
+    "DisplayName": "돌 조각",
+    "Description": "돌은 숙련된 투척자의 손에 들어가면 강력한 무기가 될 수 있습니다. 풍부하고 쉽게 구할 수 있습니다. 가장 좋은 돌은 자갈 블록을 파서 얻을 수 있습니다."
+  },
+  "CoalChunkBlock:0": {
+    "DisplayName": "석탄 조각",
+    "Description": "순수한 석탄 덩어리입니다. 화로의 연료로 사용할 수 있으며, 화약과 같은 다양한 물질의 재료로도 쓰입니다. 금속 광석을 순수 금속으로 환원할 때 시약으로도 사용됩니다. 또한 어두운 색의 물감을 만드는 안료로도 사용됩니다. 광물 석탄이 없다면, 산소가 부족한 환경에서 나무를 태워 비슷한 물질인 목탄을 얻을 수 있습니다.",
+    "CRDescription:0": "산소 없는 환경에서 나무를 태워 목탄 만들기",
+    "CRDescription:1": "석탄 블록을 분해하여 조각으로 만들기"
+  },
+  "MalachiteChunkBlock:0": {
+    "DisplayName": "말라카이트 조각",
+    "Description": "아름다운 녹색의 탄산구리 덩어리입니다. 화로에서 제련하면 순수한 구리로 변합니다. 여러 조각을 결합하여 큰 말라카이트 블록을 만들 수 있으며, 장식용으로 매우 아름답습니다.",
+    "CRDescription:0": "말라카이트 블록을 분해하여 조각으로 만들기"
+  },
+  "IronOreChunkBlock:0": {
+    "DisplayName": "철광석 조각",
+    "Description": "철광석 덩어리입니다. 화로에서 제련하면 순수한 철이 되어 내구성이 높은 도구와 방어구 제작에 유용합니다."
+  },
+  "SaltpeterChunkBlock:0": {
+    "DisplayName": "초석 조각",
+    "Description": "질산칼륨 덩어리입니다. 산소 함량이 높은 흰색 물질로 폭발물의 산화제로 사용할 수 있습니다. 또한 토양에 뿌리면 비료로 작용하여 식물의 성장을 촉진하고 수확량을 증가시킵니다."
+  },
+  "SulphurChunkBlock:0": {
+    "DisplayName": "유황 조각",
+    "Description": "원소 유황 덩어리입니다. 물감이나 화약, 성냥과 같은 화공 물질의 재료로 사용할 수 있습니다."
+  },
+  "GermaniumOreChunkBlock:0": {
+    "DisplayName": "게르마늄 광석 조각",
+    "Description": "게르마늄 광석 덩어리입니다. 화로에서 제련하면 순수한 게르마늄 결정이 되어 전자 논리 게이트 제작에 유용합니다."
+  },
+  "GermaniumChunkBlock:0": {
+    "DisplayName": "게르마늄 결정",
+    "Description": "순수한 전자급 게르마늄 결정입니다. 반도체이며 전자 논리 게이트 제작에 사용됩니다.",
+    "CRDescription:0": "게르마늄 광석을 제련하여 결정 얻기"
+  },
+  "DiamondChunkBlock:0": {
+    "DisplayName": "다이아몬드",
+    "Description": "다이아몬드는 순수한 탄소 결정입니다. 매우 희귀하고 아름다우며 지하 깊은 곳에서 발견됩니다. 매우 단단하고 내구성이 높은 도구 제작에 사용됩니다. 탄소이기 때문에 화로의 연료로 태울 수도 있지만, 이런 귀중한 자원을 그런 용도로 쓰는 것은 어리석은 일입니다.",
+    "CRDescription:0": "다이아몬드 블록을 분해하여 다이아몬드로 만들기"
+  },
     "OakWoodBlock:0": {
-      "DisplayName": "Oak Wood",
-      "Description": "Oak wood grows in trunks of oak trees, which grow in warm and humid areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "참나무 목재",
+      "Description": "참나무 목재는 따뜻하고 습한 지역에서 자라는 참나무의 줄기에서 나옵니다. 다용도 건축 및 제작 재료인 판자로 제작할 수 있습니다. 용광로의 연료로도 사용할 수 있습니다. 나무를 다시 심으려면 잎에서 묘목을 얻어야 합니다."
     },
     "BirchWoodBlock:0": {
-      "DisplayName": "Birch Wood",
-      "Description": "Birch wood grows in trunks of birch trees, which grow in temperate and humid areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "자작나무 목재",
+      "Description": "자작나무 목재는 온대 및 습한 지역에서 자라는 자작나무의 줄기에서 나옵니다. 다용도 건축 및 제작 재료인 판자로 제작할 수 있습니다. 용광로의 연료로도 사용할 수 있습니다. 나무를 다시 심으려면 잎에서 묘목을 얻어야 합니다."
     },
     "SpruceWoodBlock:0": {
-      "DisplayName": "Spruce Wood",
-      "Description": "Spruce wood grows in trunks of spruce trees, which grow in cool areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "가문비나무 목재",
+      "Description": "가문비나무 목재는 시원한 지역에서 자라는 가문비나무의 줄기에서 나옵니다. 다용도 건축 및 제작 재료인 판자로 제작할 수 있습니다. 용광로의 연료로도 사용할 수 있습니다. 나무를 다시 심으려면 잎에서 묘목을 얻어야 합니다."
     },
     "MimosaWoodBlock:0": {
-      "DisplayName": "Mimosa Wood",
-      "Description": "Mimosa wood grows in trunks of mimosa trees, which grow in dry areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "미모사 목재",
+      "Description": "미모사 목재는 건조한 지역에서 자라는 미모사 나무의 줄기에서 나옵니다. 다용도 건축 및 제작 재료인 판자로 제작할 수 있습니다. 용광로의 연료로도 사용할 수 있습니다. 나무를 다시 심으려면 잎에서 묘목을 얻어야 합니다."
     },
     "OakLeavesBlock:0": {
-      "DisplayName": "Oak Leaves",
-      "Description": "Oak leaves grow on oak trees and can be used to obtain oak saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. Grass traps that can deceive both man and a beast can be crafted from these leaves."
+      "DisplayName": "참나무 잎",
+      "Description": "참나무 잎은 참나무에서 나며 참나무 묘목을 얻는 데 사용할 수 있습니다. 타서 저렴한 연료로 사용할 수 있습니다. 줄기에서 멀리 떨어뜨려 놓으면 썩습니다. 사람과 짐승을 속일 수 있는 풀 함정을 이 잎으로 만들 수 있습니다."
     },
     "BirchLeavesBlock:0": {
-      "DisplayName": "Birch Leaves",
-      "Description": "Birch leaves grow on birch trees and can used to obtain birch saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. "
+      "DisplayName": "자작나무 잎",
+      "Description": "자작나무 잎은 자작나무에서 나며 자작나무 묘목을 얻는 데 사용할 수 있습니다. 타서 저렴한 연료로 사용할 수 있습니다. 줄기에서 멀리 떨어뜨려 놓으면 썩습니다."
     },
     "SpruceLeavesBlock:0": {
-      "DisplayName": "Spruce Leaves",
-      "Description": "Spruce leaves grow on spruce trees and can be used to obtain spruce saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. During Christmas time, a Christmas Tree can be crafted from them."
+      "DisplayName": "가문비나무 잎",
+      "Description": "가문비나무 잎은 가문비나무에서 나며 가문비나무 묘목을 얻는 데 사용할 수 있습니다. 타서 저렴한 연료로 사용할 수 있습니다. 줄기에서 멀리 떨어뜨려 놓으면 썩습니다. 크리스마스 시즌에는 이 잎으로 크리스마스 트리를 만들 수 있습니다."
     },
     "TallSpruceLeavesBlock:0": {
-      "DisplayName": "Tall Spruce Leaves",
-      "Description": "Tall spruce leaves grow on tall spruce trees and can be used to obtain tall spruce saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
+      "DisplayName": "키 큰 가문비나무 잎",
+      "Description": "키 큰 가문비나무 잎은 키 큰 가문비나무에서 나며 키 큰 가문비나무 묘목을 얻는 데 사용할 수 있습니다. 타서 저렴한 연료로 사용할 수 있습니다. 줄기에서 멀리 떨어뜨려 놓으면 썩습니다."
     },
     "MimosaLeavesBlock:0": {
-      "DisplayName": "Mimosa Leaves",
-      "Description": "Mimosa leaves grow on mimosa trees and can be used to obtain mimosa saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
+      "DisplayName": "미모사 잎",
+      "Description": "미모사 잎은 미모사 나무에서 나며 미모사 묘목을 얻는 데 사용할 수 있습니다. 타서 저렴한 연료로 사용할 수 있습니다. 줄기에서 멀리 떨어뜨려 놓으면 썩습니다."
     },
     "TallGrassBlock:0": {
-      "DisplayName": "Tall Grass",
-      "Description": "Tall grass randomly grows on well lit and humid grass blocks. You can obtain grass seeds from it, which can be used to plant more grass. Can be used as a decorative plant."
+      "DisplayName": "키 큰 풀",
+      "Description": "키 큰 풀은 밝고 습한 잔디 블록에 무작위로 자랍니다. 여기에서 풀 씨앗을 얻을 수 있으며, 이를 사용하여 더 많은 풀을 심을 수 있습니다. 장식용 식물로 사용할 수 있습니다."
     },
     "RyeBlock:0": {
-      "DisplayName": "Rye",
-      "Description": "Plant rye on tilled, moist and fertilized soil to obtain full grown plants. Harvesting the plants will yield large number of rye seeds. Rye also grows naturally in form or wild rye. You can obtain wild seeds by harvesting it."
+      "DisplayName": "호밀",
+      "Description": "잘 경작되고 습하며 비료가 주어진 토양에 호밀을 심으면 완전히 자란 식물을 얻을 수 있습니다. 식물을 수확하면 다량의 호밀 씨앗을 얻을 수 있습니다. 호밀은 야생 호밀 형태로 자연적으로도 자랍니다. 수확하여 야생 씨앗을 얻을 수 있습니다."
     },
     "RedFlowerBlock:0": {
-      "DisplayName": "Red Flower",
-      "Description": "Red flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant."
+      "DisplayName": "붉은 꽃",
+      "Description": "붉은 꽃은 밝고 습한 잔디 블록에 무작위로 자랍니다. 장식용 식물로 사용할 수 있습니다."
     },
     "PurpleFlowerBlock:0": {
-      "DisplayName": "Purple Flower",
-      "Description": "Purple flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant and contains purple pigment that makes magenta paint"
+      "DisplayName": "보라색 꽃",
+      "Description": "보라색 꽃은 밝고 습한 잔디 블록에 무작위로 자랍니다. 장식용 식물로 사용할 수 있으며 마젠타색 페인트를 만드는 보라색 안료를 함유하고 있습니다."
     },
     "WhiteFlowerBlock:0": {
-      "DisplayName": "White Flower",
-      "Description": "White flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant."
+      "DisplayName": "흰색 꽃",
+      "Description": "흰색 꽃은 밝고 습한 잔디 블록에 무작위로 자랍니다. 장식용 식물로 사용할 수 있습니다."
     },
     "DryBushBlock:0": {
-      "DisplayName": "Dry Bush",
-      "Description": "Dry bushes are commonly found on the edges of deserts or in cold places. Whenever a plant does not have enough humidity or sunlight to sustain itself, it will turn into a dry bush. "
+      "DisplayName": "마른 덤불",
+      "Description": "마른 덤불은 사막 가장자리나 추운 장소에서 흔히 발견됩니다. 식물이 자체를 유지할 만큼 충분한 습도나 햇빛이 없으면 마른 덤불로 변합니다."
     },
     "LargeDryBushBlock:0": {
-      "DisplayName": "Large Dry Bush",
-      "Description": "Dry bushes are commonly found on the edges of deserts or in cold places. Whenever a plant does not have enough humidity or sunlight to sustain itself, it will turn into a dry bush. "
+      "DisplayName": "큰 마른 덤불",
+      "Description": "마른 덤불은 사막 가장자리나 추운 장소에서 흔히 발견됩니다. 식물이 자체를 유지할 만큼 충분한 습도나 햇빛이 없으면 마른 덤불로 변합니다."
     },
     "SaplingBlock:0": {
-      "DisplayName": "Oak Sapling",
-      "Description": "Saplings are used to plant trees. You can obtain them by crafting from the leaves of trees. When planting, be careful to place the saplings in a well lit place, full of moisture and of correct temperature. Use hygrometer and thermometer to measure these quantities. Oaks like it warm, birches moderately cool and spruces cold. All trees need a lot of humidity. If you plant a sapling in a wrong spot, it will wilt into a dry bush.",
-      "CRDescription:0": "Cut saplings from oak leaves"
+      "DisplayName": "참나무 묘목",
+      "Description": "묘목은 나무를 심는 데 사용됩니다. 나무 잎에서 제작하여 얻을 수 있습니다. 심을 때는 밝고 습기가 많으며 적절한 온도의 장소에 묘목을 배치하도록 주의하십시오. 습도계와 온도계를 사용하여 이러한 양을 측정하십시오. 참나무는 따뜻한 것을 좋아하고, 자작나무는 적당히 시원한 것을, 가문비나무는 추운 것을 좋아합니다. 모든 나무는 많은 습기가 필요합니다. 묘목을 잘못된 장소에 심으면 시들어 마른 덤불이 됩니다.",
+      "CRDescription:0": "참나무 잎에서 묘목 자르기"
     },
     "CactusBlock:0": {
-      "DisplayName": "Cactus",
-      "Description": "Cacti are large plants very tolerant to dry conditions, and will often be found growing to large sizes in the desert. They are prickly and cause injuries on touch, so be careful. They will regrow to up to 3 blocks high when only the top part is harvested. A cruel hunter may line their trap pit with these for a more effective kill."
+      "DisplayName": "선인장",
+      "Description": "선인장은 건조한 환경에 매우 잘 견디는 큰 식물이며 사막에서 크게 자라는 것을 자주 볼 수 있습니다. 가시가 있어서 만지면 상처를 입히므로 주의하십시오. 위쪽 부분만 수확하면 최대 3블록 높이까지 다시 자랍니다. 잔인한 사냥꾼은 더 효과적인 살상을 위해 이 선인장으로 함정 구덩이를 둘러쌀 수 있습니다."
     },
     "IvyBlock:0": {
-      "DisplayName": "Ivy",
-      "Description": "Ivy is a plant that grows and clings to vertical surfaces. It does not require much light to stay alive, but needs a humid and warm climate."
+      "DisplayName": "담쟁이덩굴",
+      "Description": "담쟁이덩굴은 수직 표면에 자라 붙는 식물입니다. 살아남기 위해 많은 빛을 필요로 하지는 않지만 습하고 따뜻한 기후가 필요합니다."
     },
     "PumpkinBlock:0": {
-      "DisplayName": "Pumpkin",
-      "Description": "Pumpkins are large, orange vegetables that grow in groups of 5 to 10 plants. When collected, they can be eaten, cooked into pumpkin soup or crafted into Jack O'Lanterns."
+      "DisplayName": "호박",
+      "Description": "호박은 5~10개씩 무리를 지어 자라는 크고 주황색인 채소입니다. 수확하면 먹거나, 호박 수프로 요리하거나, 잭오랜턴으로 만들 수 있습니다."
     },
     "RottenPumpkinBlock:0": {
-      "DisplayName": "Rotten Pumpkin",
-      "Description": "Rotten pumpkin, do not eat."
+      "DisplayName": "썩은 호박",
+      "Description": "썩은 호박, 먹지 마세요."
     },
     "SeedsBlock:0": {
-      "DisplayName": "Tall Grass Seeds",
-      "Description": "Seeds are used to plant various types of plants, such as grass, flowers and rye. Some plants need well tilled, moist and fertilized soil to grow properly. Otherwise their growth will be stunted and they will not reach full size.",
-      "CRDescription:0": "Extract seeds from tall grass"
+      "DisplayName": "키 큰 풀 씨앗",
+      "Description": "씨앗은 풀, 꽃, 호밀 등 다양한 종류의 식물을 심는 데 사용됩니다. 일부 식물은 제대로 자라기 위해 잘 경작되고 습하며 비료가 주어진 토양이 필요합니다. 그렇지 않으면 성장이 더디고 완전한 크기에 도달하지 못할 것입니다.",
+      "CRDescription:0": "키 큰 풀에서 씨앗 추출"
     },
     "CottonBlock:0": {
-      "DisplayName": "Cotton",
-      "Description": "Cotton is a plant that grows in warm areas. When harvested, provides a number of cotton wads which can be further processed into cotton products."
+      "DisplayName": "면",
+      "Description": "면은 따뜻한 지역에서 자라는 식물입니다. 수확하면 여러 개의 솜 뭉치를 얻을 수 있으며, 이를 가공하여 면 제품을 만들 수 있습니다."
     },
     "CottonWadBlock:0": {
-      "DisplayName": "Cotton Wad",
-      "Description": "Cotton wads are small chunks of packed cotton fibers. They can be processed further into cotton products."
+      "DisplayName": "솜 뭉치",
+      "Description": "솜 뭉치는 압축된 면 섬유의 작은 덩어리입니다. 추가 가공하여 면 제품을 만들 수 있습니다."
     },
     "SeaUrchinBlock:0": {
-      "DisplayName": "Sea Urchin",
-      "Description": "Sea urchins are small, spiny animals that attach themselves to the sea floor and make a living by filtering nutrients from seawater. They are edible but not very tasty or nutritious."
+      "DisplayName": "성게",
+      "Description": "성게는 해저에 달라붙어 해수에서 영양분을 걸러내며 살아가는 작고 가시가 많은 동물입니다. 식용 가능하지만 맛이 좋거나 영양가가 높지는 않습니다."
     },
     "StarfishBlock:0": {
-      "DisplayName": "Starfish",
-      "Description": "Starfish are underwater predators that move slowly over the sea bottom."
+      "DisplayName": "불가사리",
+      "Description": "불가사리는 해저를 천천히 이동하는 수중 포식자입니다."
     },
     "KelpBlock:0": {
-      "DisplayName": "Kelp",
-      "Description": "Kelp is undersea plant anchored to the sea bottom that reaches up to get access to sunlight. Watch out when swimming because you can get entangled and drown."
+      "DisplayName": "다시마",
+      "Description": "다시마는 햇빛을 받기 위해 위로 뻗어 있는 해저에 고정된 해저 식물입니다. 헤엄칠 때 얽혀 익사할 수 있으니 조심하십시오."
     },
     "SeagrassBlock:0": {
-      "DisplayName": "Seagrass",
-      "Description": "Seagrass is undersea plant anchored to the sea bottom that reaches up to get access to sunlight. Watch out when swimming because you can get entangled and drown."
+      "DisplayName": "해초",
+      "Description": "해초는 햇빛을 받기 위해 위로 뻗어 있는 해저에 고정된 해저 식물입니다. 헤엄칠 때 얽혀 익사할 수 있으니 조심하십시오."
     },
     "PlanksBlock:0": {
-      "DisplayName": "Planks",
-      "Description": "Planks are a versatile construction material that can be obtained by cutting wood blocks into pieces. A multitude of useful objects, such as a workbench or a chest can be made from planks. Planks are flammable and can be used as a fuel in the furnace. Can be painted.",
-      "CRDescription:0": "Cut a block of wood into planks",
-      "CRDescription:1": "Dismantle wicker lamp"
+      "DisplayName": "판자",
+      "Description": "판자는 나무 블록을 조각으로 잘라 얻을 수 있는 다용도 건축 자재입니다. 작업대나 상자와 같은 수많은 유용한 물체를 판자로 만들 수 있습니다. 판자는 가연성이 있으며 용광로에서 연료로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "나무 블록을 판자로 자르기",
+      "CRDescription:1": "등나무 램프 분해"
     },
     "CobblestoneBlock:0": {
-      "DisplayName": "Cobblestone",
-      "Description": "Cobblestone is a tough stone obtained by mining granite. It is a strong, rugged material that works well when used in construction of walls and floors. By smelting it in a furnace you can obtain pure granite of which it is made. Can be painted."
+      "DisplayName": "조약돌",
+      "Description": "조약돌은 화강암을 채굴하여 얻는 단단한 돌입니다. 벽과 바닥 건설에 효과적인 강하고 견고한 재료입니다. 용광로에서 제련하면 구성된 순수 화강암을 얻을 수 있습니다. 칠할 수 있습니다."
     },
     "StoneBrickBlock:0": {
-      "DisplayName": "Stone Bricks",
-      "Description": "Stone bricks can be made by binding together several stones of regular shape. They are a strong building material, very resilient to explosions and digging.",
-      "CRDescription:0": "Make stone bricks out of stones"
+      "DisplayName": "돌 벽돌",
+      "Description": "돌 벽돌은 여러 개의 규칙적인 모양의 돌을 결합하여 만들 수 있습니다. 폭발과 채굴에 매우 강한 강력한 건축 자재입니다.",
+      "CRDescription:0": "돌로 돌 벽돌 만들기"
     },
     "BricksBlock:0": {
-      "DisplayName": "Brick Wall",
-      "Description": "Brick wall can be made by combining several bricks together and binding them with mortar. It is a versatile, strong and good looking building material. Brick walls which are no longer needed can be recycled back into constituent bricks. Can be painted.",
-      "CRDescription:0": "Make brick wall out of bricks"
+      "DisplayName": "벽돌 벽",
+      "Description": "벽돌 벽은 여러 개의 벽돌을 결합하고 모르타르로 접합하여 만들 수 있습니다. 다용도이며 강하고 보기 좋은 건축 자재입니다. 더 이상 필요하지 않은 벽돌 벽은 구성 벽돌로 재활용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "벽돌로 벽돌 벽 만들기"
     },
     "MarbleBlock:0": {
-      "DisplayName": "Marble",
-      "Description": "A beautiful decorative stone that can be obtained by melting together sand and limestone in a furnace. It is a brittle material that breaks easily.",
-      "CRDescription:0": "Melt sand with limestone to obtain marble"
+      "DisplayName": "대리석",
+      "Description": "용광로에서 모래와 석회암을 함께 녹여 얻을 수 있는 아름다운 장식용 돌입니다. 부서지기 쉬운 재료로 쉽게 부서집니다.",
+      "CRDescription:0": "모래와 석회암을 녹여 대리석 얻기"
     },
     "MalachiteBlock:0": {
-      "DisplayName": "Malachite Block",
-      "Description": "A block of malachite can be made by combining together many smaller malachite chunks. This material is very decorative but also brittle.",
-      "CRDescription:0": "Combine many malachite chunks into a large block"
+      "DisplayName": "말라카이트 블록",
+      "Description": "말라카이트 블록은 여러 개의 작은 말라카이트 덩어리를 결합하여 만들 수 있습니다. 이 재료는 매우 장식적이지만 부서지기 쉽습니다.",
+      "CRDescription:0": "많은 말라카이트 덩어리를 결합하여 큰 블록 만들기"
     },
     "DiamondBlock:0": {
-      "DisplayName": "Solid Diamond Block",
-      "Description": "A block of diamond. Extremely valuable, contains multiple diamond crystals combined into one large block. Good for decorative purposes. Be careful, because diamond is flammable and will burn when touched by magma or set on fire by a lightning.",
-      "CRDescription:0": "Combine many diamonds into a large block"
+      "DisplayName": "고체 다이아몬드 블록",
+      "Description": "다이아몬드 블록입니다. 매우 귀중하며 여러 다이아몬드 결정이 하나의 큰 블록으로 결합되어 있습니다. 장식용으로 좋습니다. 주의하십시오. 다이아몬드는 가연성이며 마그마에 닿거나 번개에 의해 불이 붙으면 타버립니다.",
+      "CRDescription:0": "많은 다이아몬드를 결합하여 큰 블록 만들기"
     },
     "IronBlock:0": {
-      "DisplayName": "Solid Iron Block",
-      "Description": "A block of pure iron. Very heavy and durable. Extremely resilient to digging and explosions. Can be crafted from multiple iron ingots. Can be painted.",
-      "CRDescription:0": "Combine many iron ingots into a large block"
+      "DisplayName": "고체 철 블록",
+      "Description": "순수 철 블록입니다. 매우 무겁고 내구성이 뛰어납니다. 채굴 및 폭발에 매우 강합니다. 여러 개의 철괴로 제작할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "많은 철괴를 결합하여 큰 블록 만들기"
     },
     "CopperBlock:0": {
-      "DisplayName": "Solid Copper Block",
-      "Description": "A block of pure copper. Very heavy and durable. Extremely resilient to digging and explosions. Can be crafted from multiple copper ingots. Can be painted.",
-      "CRDescription:0": "Combine many copper ingots into a large block"
+      "DisplayName": "고체 구리 블록",
+      "Description": "순수 구리 블록입니다. 매우 무겁고 내구성이 뛰어납니다. 채굴 및 폭발에 매우 강합니다. 여러 개의 구리괴로 제작할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "많은 구리괴를 결합하여 큰 블록 만들기"
     },
     "SemiconductorBlock:0": {
-      "DisplayName": "Semiconductor Block",
-      "Description": "A block of semiconductor.",
-      "CRDescription:0": "Combine many germanium crystals into a semiconductor block"
+      "DisplayName": "반도체 블록",
+      "Description": "반도체 블록입니다.",
+      "CRDescription:0": "많은 게르마늄 결정을 결합하여 반도체 블록 만들기"
     },
     "GlassBlock:0": {
-      "DisplayName": "Glass",
-      "Description": "Transparent block made by smelting sand in the furnace. Very useful for making windows and brightening up dark rooms. It is a very brittle material that will irrecoverably shatter when hit by something hard.",
-      "CRDescription:0": "Melt sand to obtain glass"
+      "DisplayName": "유리",
+      "Description": "용광로에서 모래를 제련하여 만든 투명한 블록입니다. 창문을 만들고 어두운 방을 밝히는 데 매우 유용합니다. 매우 부서지기 쉬운 재료로, 단단한 물체에 부딪히면 복구 불가능하게 산산조각납니다.",
+      "CRDescription:0": "모래를 녹여 유리 얻기"
     },
     "FramedGlassBlock:0": {
-      "DisplayName": "Framed Glass",
-      "Description": "A glass block can be made stronger and more decorative by framing it in wooden sticks. Perfect for making windows.",
-      "CRDescription:0": "Frame glass with wood"
+      "DisplayName": "틀이 있는 유리",
+      "Description": "유리 블록은 나무 막대기로 틀을 만들어 더 튼튼하고 장식적으로 만들 수 있습니다. 창문을 만드는 데 완벽합니다.",
+      "CRDescription:0": "나무로 유리에 틀 만들기"
     },
     "WindowBlock:0": {
-      "DisplayName": "Window",
-      "Description": "A glass block can be made stronger and more decorative by framing it in wooden sticks. Perfect for making windows.",
-      "CRDescription:0": "Frame glass with wood"
+      "DisplayName": "창문",
+      "Description": "유리 블록은 나무 막대기로 틀을 만들어 더 튼튼하고 장식적으로 만들 수 있습니다. 창문을 만드는 데 완벽합니다.",
+      "CRDescription:0": "나무로 유리에 틀 만들기"
     },
     "WoodenStairsBlock:0": {
-      "DisplayName": "Wooden Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "나무 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "StoneStairsBlock:0": {
-      "DisplayName": "Stone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "돌 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "CobblestoneStairsBlock:0": {
-      "DisplayName": "Cobblestone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "조약돌 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "StoneBrickStairsBlock:0": {
-      "DisplayName": "Stone Brick Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "돌 벽돌 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "BrickStairsBlock:0": {
-      "DisplayName": "Brick Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "벽돌 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "SandstoneStairsBlock:0": {
-      "DisplayName": "Sandstone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "사암 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "MarbleStairsBlock:0": {
-      "DisplayName": "Marble Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "대리석 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "BasaltStairsBlock:0": {
-      "DisplayName": "Basalt Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "현무암 계단",
+      "Description": "계단은 경사면을 쉽게 오를 수 있게 해줍니다. 더 이상 점프하고 수직 면을 오르내릴 필요 없이 더 빨리 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 계단은 천장에 거꾸로 설치할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "높은 곳을 더 빨리 오를 수 있도록 계단 만들기"
     },
     "WoodenSlabBlock:0": {
-      "DisplayName": "Wooden Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "나무 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "StoneSlabBlock:0": {
-      "DisplayName": "Stone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "돌 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "CobblestoneSlabBlock:0": {
-      "DisplayName": "Cobblestone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "조약돌 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "StoneBrickSlabBlock:0": {
-      "DisplayName": "Stone Brick Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "돌 벽돌 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "BrickSlabBlock:0": {
-      "DisplayName": "Brick Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "벽돌 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "SandstoneSlabBlock:0": {
-      "DisplayName": "Sandstone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "사암 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "MarbleSlabBlock:0": {
-      "DisplayName": "Marble Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "대리석 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "BasaltSlabBlock:0": {
-      "DisplayName": "Basalt Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "현무암 판재",
+      "Description": "판재는 다양한 재료로 제작할 수 있는 반 높이 블록입니다. 일반 크기 블록보다 저렴한 비용으로 바닥을 덮는 데 사용할 수 있습니다. 또한 길이 단위마다 높이가 절반씩 올라가는 긴 계단을 만드는 데 사용할 수도 있습니다. 판재는 천장에 부착할 수도 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "장식용 판재 만들기"
     },
     "BrickBlock:0": {
-      "DisplayName": "Brick",
-      "Description": "Bricks are obtained by firing clay blocks in the furnace. They are the most versatile building material available, because objects constructed from bricks can be broken down into the constituent bricks if no longer needed.",
-      "CRDescription:0": "Fire clay to make bricks",
-      "CRDescription:1": "Recycle bricks from a brick wall",
-      "CRDescription:2": "Recycle bricks from brick stairs",
-      "CRDescription:3": "Recycle bricks from a brick slab"
+      "DisplayName": "벽돌",
+      "Description": "벽돌은 점토 블록을 용광로에서 구워 얻습니다. 벽돌로 만든 물체는 더 이상 필요하지 않은 경우 구성 벽돌로 분해할 수 있으므로 가장 다재다능한 건축 자재입니다.",
+      "CRDescription:0": "점토를 구워 벽돌 만들기",
+      "CRDescription:1": "벽돌 벽에서 벽돌 재활용",
+      "CRDescription:2": "벽돌 계단에서 벽돌 재활용",
+      "CRDescription:3": "벽돌 판재에서 벽돌 재활용"
     },
     "SnowballBlock:0": {
-      "DisplayName": "Snowball",
-      "Description": "Snowballs are made by compacting snow in one's hands. Soft and light, they can be thrown without risk of inflicting damage on the surroundings or injuries in the bystanders. Perfect for fun fights. Be careful when throwing them at dangerous animals, they will usually take a dim view of that."
+      "DisplayName": "눈덩이",
+      "Description": "눈덩이는 손으로 눈을 뭉쳐 만듭니다. 부드럽고 가벼워서 주변에 피해를 주거나 구경꾼에게 부상을 입힐 위험 없이 던질 수 있습니다. 재미있는 싸움에 완벽합니다. 위험한 동물에게 던질 때는 조심하십시오. 보통 그들은 그것을 탐탁지 않게 여길 것입니다."
     },
     "WoodenDoorBlock:0": {
-      "DisplayName": "Wooden Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make doors from wood"
+      "DisplayName": "나무 문",
+      "Description": "문은 건물 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 철제 문은 전기적으로 연결된 경우 수동으로 작동할 수 없습니다.",
+      "CRDescription:0": "나무로 문 만들기"
     },
     "IronDoorBlock:0": {
-      "DisplayName": "Iron Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make strong doors from iron"
+      "DisplayName": "철제 문",
+      "Description": "문은 건물 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 철제 문은 전기적으로 연결된 경우 수동으로 작동할 수 없습니다.",
+      "CRDescription:0": "철로 튼튼한 문 만들기"
     },
     "CellDoorBlock:0": {
-      "DisplayName": "Cell Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make cell doors from rods"
+      "DisplayName": "감옥 문",
+      "Description": "문은 건물 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 철제 문은 전기적으로 연결된 경우 수동으로 작동할 수 없습니다.",
+      "CRDescription:0": "봉으로 감옥 문 만들기"
     },
     "WoodenTrapdoorBlock:0": {
-      "DisplayName": "Wooden Trapdoor",
-      "Description": "Trapdoors are used to make vertical entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, trapdoors will open or close on the rising edge of electric signal. Iron trapdoors cannot be operated manually when electrically connected. They can be placed normally or upside-down, depending whether they are attached to top or bottom side of the block. Upside-down trapdoors will stop falling blocks.",
-      "CRDescription:0": "Make trapdoors from wood"
+      "DisplayName": "나무 덧문",
+      "Description": "덧문은 건물의 수직 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 덧문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 철제 덧문은 전기적으로 연결된 경우 수동으로 작동할 수 없습니다. 블록의 위쪽 또는 아래쪽에 부착되었는지에 따라 일반 또는 거꾸로 설치할 수 있습니다. 거꾸로 설치된 덧문은 떨어지는 블록을 멈춥니다.",
+      "CRDescription:0": "나무로 덧문 만들기"
     },
     "CellTrapdoorBlock:0": {
-      "DisplayName": "Cell Trapdoor",
-      "Description": "Trapdoors are used to make vertical entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, trapdoors will open or close on the rising edge of electric signal. Iron trapdoors cannot be operated manually when electrically connected. They can be placed normally or upside-down, depending whether they are attached to top or bottom side of the block. Upside-down trapdoors will stop falling blocks.",
-      "CRDescription:0": "Make strong trapdoors from iron"
+      "DisplayName": "감옥 덧문",
+      "Description": "덧문은 건물의 수직 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 덧문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 철제 덧문은 전기적으로 연결된 경우 수동으로 작동할 수 없습니다. 블록의 위쪽 또는 아래쪽에 부착되었는지에 따라 일반 또는 거꾸로 설치할 수 있습니다. 거꾸로 설치된 덧문은 떨어지는 블록을 멈춥니다.",
+      "CRDescription:0": "철로 튼튼한 덧문 만들기"
     },
     "WoodenLadderBlock:0": {
-      "DisplayName": "Wooden Ladder",
-      "Description": "Ladders are made from sticks or rods. They make it easy to climb and descend tall walls safely. It's safest to climb both up and down facing the wall. That means you have to approach backwards when entering the ladder from the top.",
-      "CRDescription:0": "Make wooden ladders to be able to climb vertical surfaces"
+      "DisplayName": "나무 사다리",
+      "Description": "사다리는 막대기나 봉으로 만들어집니다. 높은 벽을 안전하게 오르내리기 쉽게 해줍니다. 벽을 향해 위아래로 오르는 것이 가장 안전합니다. 즉, 위에서 사다리에 진입할 때는 뒤로 접근해야 합니다.",
+      "CRDescription:0": "수직 표면을 오를 수 있도록 나무 사다리 만들기"
     },
     "IronLadderBlock:0": {
-      "DisplayName": "Iron Ladder",
-      "Description": "Ladders are made from sticks or rods. They make it easy to climb and descend tall walls safely. It's safest to climb both up and down facing the wall. That means you have to approach backwards when entering the ladder from the top.",
-      "CRDescription:0": "Make iron ladders to be able to climb vertical surfaces"
+      "DisplayName": "철 사다리",
+      "Description": "사다리는 막대기나 봉으로 만들어집니다. 높은 벽을 안전하게 오르내리기 쉽게 해줍니다. 벽을 향해 위아래로 오르는 것이 가장 안전합니다. 즉, 위에서 사다리에 진입할 때는 뒤로 접근해야 합니다.",
+      "CRDescription:0": "수직 표면을 오를 수 있도록 철 사다리 만들기"
     },
     "WickerLampBlock:0": {
-      "DisplayName": "Wicker Lamp",
-      "Description": "Wicker lamp is a torch placed inside a wooden and wicker shade. It gives off slightly more light than the pure torch and is a nice, decorative item.",
-      "CRDescription:0": "Put a torch inside of a shade to make a lamp"
+      "DisplayName": "등나무 등불",
+      "Description": "등나무 등불은 나무와 등나무 갓 안에 놓인 횃불입니다. 순수 횃불보다 약간 더 많은 빛을 내며 멋진 장식 아이템입니다.",
+      "CRDescription:0": "횃불을 갓 안에 넣어 등불 만들기"
     },
     "TorchBlock:0": {
-      "DisplayName": "Torch",
-      "Description": "Torch is a piece of flammable coal affixed to a wooden stick. When attached to a wall or placed on the floor, it emits light. It is the easiest and cheapest way to light interiors of buildings or underground corridors.",
-      "CRDescription:0": "Affix a burning coal to a stick to make a torch"
+      "DisplayName": "횃불",
+      "Description": "횃불은 나무 막대기에 부착된 가연성 석탄 조각입니다. 벽에 부착되거나 바닥에 놓이면 빛을 방출합니다. 건물 내부나 지하 복도를 밝히는 가장 쉽고 저렴한 방법입니다.",
+      "CRDescription:0": "타는 석탄을 막대기에 부착하여 횃불 만들기"
     },
     "StickBlock:0": {
-      "DisplayName": "Stick",
-      "Description": "Sticks are made by cutting wooden planks into pieces. They are a versatile building material used in construction of many items, such as torches, ladders or fences. They can also be used as a last resort weapon or tool, although their attack power is low.",
-      "CRDescription:0": "Cut a wooden plank into sticks"
+      "DisplayName": "막대기",
+      "Description": "막대기는 나무 판자를 조각으로 잘라 만듭니다. 횃불, 사다리 또는 울타리와 같은 많은 아이템 제작에 사용되는 다용도 건축 자재입니다. 마지막 수단으로 무기나 도구로 사용할 수도 있지만 공격력은 낮습니다.",
+      "CRDescription:0": "나무 판자를 막대기로 자르기"
     },
     "IronIngotBlock:0": {
-      "DisplayName": "Iron Ingot",
-      "Description": "An ingot of pure iron. Can be crafted into very durable and strong iron tools. Only diamond-edged tools can best them. Combine multiple ingots to form an iron block.",
-      "CRDescription:0": "Smelt iron ore to obtain iron",
-      "CRDescription:1": "Dismantle iron block into ingots"
-    },
-    "CopperIngotBlock:0": {
-      "DisplayName": "Copper Ingot",
-      "Description": "An ingot of pure copper. Can be crafted into copper tools, such as buckets, wires and other electric devices. Combine multiple ingots to form a copper block.",
-      "CRDescription:0": "Smelt copper ore to obtain copper",
-      "CRDescription:1": "Dismantle copper block into ingots"
-    },
-    "RodBlock:0": {
-      "DisplayName": "Rod",
-      "Description": "Rods are made by forging iron into shape. They are useful for making fences, doors and other things.",
-      "CRDescription:0": "Forge an iron ingot into rods"
-    },
-    "CraftingTableBlock:0": {
-      "DisplayName": "Workbench",
-      "Description": "Workbench is a piece of workshop furniture made of wood. It is a very important item, because it allows you to craft items that require more than 2x2 crafting slots. All craftable items can be made on it, provided that you have the required materials.",
-      "CRDescription:0": "Make a crafting table from planks"
-    },
-    "FurnaceBlock:0": {
-      "DisplayName": "Furnace",
-      "Description": "A furnace is an enclosure made from fire resistant stone, in which a high temperature is maintained by burning combustible fuel. It is an important item that allows smelting, cooking and other forms of heat processing. The best fuel for the furnace are coal chunks, but wood and even leaves can be used if coal is unavailable. Furnace can be left unattended while working. It also emits a small amount of light.",
-      "CRDescription:0": "Make a furnace from stone"
-    },
+  "DisplayName": "철 주괴",
+  "Description": "순수한 철로 만든 주괴입니다. 매우 튼튼하고 강한 철 도구로 제작할 수 있습니다. 다이아몬드 날이 있는 도구만이 이를 능가할 수 있습니다. 여러 개를 결합하여 철 블록을 만들 수 있습니다.",
+  "CRDescription:0": "철 광석을 제련하여 철을 얻기",
+  "CRDescription:1": "철 블록을 분해하여 주괴로 만들기"
+},
+"CopperIngotBlock:0": {
+  "DisplayName": "구리 주괴",
+  "Description": "순수한 구리로 만든 주괴입니다. 양동이, 전선 및 기타 전기 장치 같은 구리 도구를 제작할 수 있습니다. 여러 개를 결합하여 구리 블록을 만들 수 있습니다.",
+  "CRDescription:0": "구리 광석을 제련하여 구리 얻기",
+  "CRDescription:1": "구리 블록을 분해하여 주괴로 만들기"
+},
+"RodBlock:0": {
+  "DisplayName": "막대",
+  "Description": "막대는 철을 단조하여 만들어집니다. 울타리, 문 및 기타 물건을 만드는 데 유용합니다.",
+  "CRDescription:0": "철 주괴를 단조하여 막대를 만들기"
+},
+"CraftingTableBlock:0": {
+  "DisplayName": "작업대",
+  "Description": "작업대는 나무로 만든 작업용 가구입니다. 매우 중요한 아이템으로, 2x2 이상의 제작 슬롯이 필요한 아이템을 만들 수 있습니다. 필요한 재료가 있다면 모든 제작 가능한 아이템을 만들 수 있습니다.",
+  "CRDescription:0": "판자로 작업대를 만들기"
+},
+"FurnaceBlock:0": {
+  "DisplayName": "용광로",
+  "Description": "용광로는 내열성 돌로 만들어진 구조로, 연료를 태워 높은 온도를 유지합니다. 제련, 요리 및 기타 열처리를 가능하게 하는 중요한 아이템입니다. 가장 좋은 연료는 석탄이지만, 나무나 잎도 사용할 수 있습니다. 작업 중에도 계속 작동하며 약간의 빛을 냅니다.",
+  "CRDescription:0": "돌로 용광로 만들기"
+},
     "LitFurnaceBlock:0": {
-      "DisplayName": "Furnace",
-      "Description": "A furnace is an enclosure made from fire resistant stone, in which a high temperature is maintained by burning combustible fuel. It is an important item that allows smelting, cooking and other forms of heat processing. The best fuel for the furnace are coal chunks, but wood and even leaves can be used if coal is unavailable. Furnace can be left unattended while working. It also emits a small amount of light."
+      "DisplayName": "용광로",
+      "Description": "용광로는 내화석으로 만들어진 인클로저로, 가연성 연료를 태워 고온을 유지합니다. 제련, 요리 및 기타 열처리를 가능하게 하는 중요한 아이템입니다. 용광로의 최상의 연료는 석탄 덩어리이지만, 석탄이 없을 경우 나무나 잎도 사용할 수 있습니다. 용광로는 작동 중에 방치할 수 있습니다. 또한 약간의 빛을 방출합니다."
     },
     "ChestBlock:0": {
-      "DisplayName": "Chest",
-      "Description": "A chest made of wood is a good place to store excess items that you can't or don't want to carry. It will hold up to 16 stacks of items.",
-      "CRDescription:0": "Make a storage chest from planks"
+      "DisplayName": "상자",
+      "Description": "나무로 만든 상자는 가지고 다닐 수 없거나 가지고 다니고 싶지 않은 잉여 아이템을 보관하기에 좋은 장소입니다. 최대 16개의 아이템 스택을 보관할 수 있습니다.",
+      "CRDescription:0": "판자로 보관 상자 만들기"
     },
     "DispenserBlock:0": {
-      "DisplayName": "Dispenser",
-      "Description": "A dispenser stores items in a similar way to a chest, but allows dispensing them through the hole when triggered via rising edge of an electric signal. It can either dispense the item or shoot it as projectile, depending on the setting.",
-      "CRDescription:0": "Make a dispenser from planks, bow and germanium"
+      "DisplayName": "분배기",
+      "Description": "분배기는 상자와 유사한 방식으로 아이템을 저장하지만, 전기 신호의 상승 에지를 통해 트리거될 때 구멍을 통해 아이템을 분배할 수 있습니다. 설정에 따라 아이템을 분배하거나 투사체로 발사할 수 있습니다.",
+      "CRDescription:0": "판자, 활, 게르마늄으로 분배기 만들기"
     },
     "SpikedPlankBlock:0": {
-      "DisplayName": "Spiked Plank",
-      "Description": "Wooden spikes penetrate flesh. The spiked planks can be placed on the floor, on the walls and on the ceiling. Touching them will cause injury. Trap pits are often lined with them. Spikes can be electrically controlled and will extend\/retract on a rising edge of an electric signal.",
-      "CRDescription:0": "Make sharp spiked planks from wood and sticks"
+      "DisplayName": "가시 박힌 판자",
+      "Description": "나무 가시는 살을 꿰뚫습니다. 가시 박힌 판자는 바닥, 벽, 천장에 설치할 수 있습니다. 만지면 부상을 입습니다. 함정 구덩이는 종종 이 판자로 둘러싸여 있습니다. 가시는 전기적으로 제어할 수 있으며 전기 신호의 상승 에지에서 확장/수축됩니다.",
+      "CRDescription:0": "나무와 막대기로 날카로운 가시 박힌 판자 만들기"
     },
     "GrassTrapBlock:0": {
-      "DisplayName": "Grass Trap",
-      "Description": "Grass trap is a deception device that resembles grass but collapses when something heavy stands on it. It's used for concealing traps so that an animal, unwary of the trap will walk on it and fall into the pit. It can only be crafted from oak leaves, no other leaves will work.",
-      "CRDescription:0": "Make grass trap from oak leaves to conceal deep pits"
+      "DisplayName": "잔디 함정",
+      "Description": "잔디 함정은 잔디와 비슷하지만 무거운 것이 올라서면 무너지는 속임수 장치입니다. 함정을 숨기는 데 사용되어, 함정을 모르는 동물이 그 위를 걸어 구덩이로 떨어지게 합니다. 참나무 잎으로만 제작할 수 있으며 다른 잎은 작동하지 않습니다.",
+      "CRDescription:0": "깊은 구덩이를 숨기기 위해 참나무 잎으로 잔디 함정 만들기"
     },
     "WoodenFenceBlock:0": {
-      "DisplayName": "Wooden Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from wooden sticks to enclose areas"
+      "DisplayName": "나무 울타리",
+      "Description": "울타리는 구역을 둘러싸고 동물이 밖으로 나가는 것과 포식자가 들어오는 것을 방지하는 데 사용됩니다. 울타리 기둥은 기둥이나 가구 요소로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "구역을 둘러싸기 위해 나무 막대기로 울타리 만들기"
     },
     "WoodenFenceGateBlock:0": {
-      "DisplayName": "Wooden Fence Gate",
-      "Description": "Gates are used to make entrances to fenced areas. They can be opened and closed by clicking on them. When connected to a copper wire, gates will open or close on the rising edge of electric signal. Animals can't jump a fence gate. Can be painted.",
-      "CRDescription:0": "Make a fence gate from wooden sticks and planks"
+      "DisplayName": "나무 울타리 문",
+      "Description": "문은 울타리 구역으로의 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 동물은 울타리 문을 뛰어넘을 수 없습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "나무 막대기와 판자로 울타리 문 만들기"
     },
     "IronFenceBlock:0": {
-      "DisplayName": "Iron Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from rods to enclose areas"
+      "DisplayName": "철제 울타리",
+      "Description": "울타리는 구역을 둘러싸고 동물이 밖으로 나가는 것과 포식자가 들어오는 것을 방지하는 데 사용됩니다. 울타리 기둥은 기둥이나 가구 요소로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "구역을 둘러싸기 위해 봉으로 울타리 만들기"
     },
     "IronFenceGateBlock:0": {
-      "DisplayName": "Iron Fence Gate",
-      "Description": "Gates are used to make entrances to fenced areas. They can be opened and closed by clicking on them. When connected to a copper wire, gates will open or close on the rising edge of electric signal. Animals can't jump a fence gate. Can be painted.",
-      "CRDescription:0": "Make a fence gate from rods and ingots"
+      "DisplayName": "철제 울타리 문",
+      "Description": "문은 울타리 구역으로의 입구를 만드는 데 사용됩니다. 클릭하여 열고 닫을 수 있습니다. 구리선에 연결하면 문이 전기 신호의 상승 에지에서 열리거나 닫힙니다. 동물은 울타리 문을 뛰어넘을 수 없습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "봉과 주괴로 울타리 문 만들기"
     },
     "StoneFenceBlock:0": {
-      "DisplayName": "Stone Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from stone to enclose areas"
+      "DisplayName": "돌 울타리",
+      "Description": "울타리는 구역을 둘러싸고 동물이 밖으로 나가는 것과 포식자가 들어오는 것을 방지하는 데 사용됩니다. 울타리 기둥은 기둥이나 가구 요소로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "구역을 둘러싸기 위해 돌로 울타리 만들기"
     },
     "BrickFenceBlock:0": {
-      "DisplayName": "Brick Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from bricks to enclose areas"
+      "DisplayName": "벽돌 울타리",
+      "Description": "울타리는 구역을 둘러싸고 동물이 밖으로 나가는 것과 포식자가 들어오는 것을 방지하는 데 사용됩니다. 울타리 기둥은 기둥이나 가구 요소로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "구역을 둘러싸기 위해 벽돌로 울타리 만들기"
     },
     "BasaltFenceBlock:0": {
-      "DisplayName": "Basalt Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from basalt to enclose areas"
+      "DisplayName": "현무암 울타리",
+      "Description": "울타리는 구역을 둘러싸고 동물이 밖으로 나가는 것과 포식자가 들어오는 것을 방지하는 데 사용됩니다. 울타리 기둥은 기둥이나 가구 요소로 사용할 수 있습니다. 칠할 수 있습니다.",
+      "CRDescription:0": "구역을 둘러싸기 위해 현무암으로 울타리 만들기"
     },
     "WoodenPostedSignBlock:0": {
-      "DisplayName": "Wooden Sign",
-      "Description": "Signs can contain up to 4 lines of black or colored text. They can be affixed to a vertical surface, placed on a post anchored in the ground, or hung from the ceiling. A sign can be made to act as an internet link by specifying a URL (URLs only work in Adventure mode). When attached to a copper wire, the sign message will be displayed on the screen on the rising edge of an electric signal. Use \\ (backslash) to continue message in the same line. Can be painted.",
-      "CRDescription:0": "Make printable wooden signs from wood"
+      "DisplayName": "나무 팻말",
+      "Description": "팻말에는 최대 4줄의 검은색 또는 색상 텍스트를 포함할 수 있습니다. 수직 표면에 부착하거나, 땅에 고정된 기둥에 세우거나, 천장에 매달 수 있습니다. URL을 지정하여 팻말을 인터넷 링크로 사용할 수 있습니다(URL은 모험 모드에서만 작동). 구리선에 연결하면 전기 신호의 상승 에지에서 팻말 메시지가 화면에 표시됩니다. 같은 줄에서 메시지를 계속하려면 \\(백슬래시)를 사용하십시오. 칠할 수 있습니다.",
+      "CRDescription:0": "나무로 인쇄 가능한 나무 팻말 만들기"
     },
     "WoodenAttachedSignBlock:0": {
-      "DisplayName": "Wooden Sign",
+      "DisplayName": "나무 팻말",
       "Description": ""
     },
     "IronPostedSignBlock:0": {
-      "DisplayName": "Iron Sign",
-      "Description": "Signs can contain up to 4 lines of black or colored text. They can be affixed to a vertical surface, placed on a post anchored in the ground, or hung from the ceiling. A sign can be made to act as an internet link by specifying a URL (URLs only work in Adventure mode). When attached to a copper wire, the sign message will be displayed on the screen on the rising edge of an electric signal. Use \\ (backslash) to continue message in the same line. Can be painted.",
-      "CRDescription:0": "Make printable metal signs from iron"
+      "DisplayName": "철제 팻말",
+      "Description": "팻말에는 최대 4줄의 검은색 또는 색상 텍스트를 포함할 수 있습니다. 수직 표면에 부착하거나, 땅에 고정된 기둥에 세우거나, 천장에 매달 수 있습니다. URL을 지정하여 팻말을 인터넷 링크로 사용할 수 있습니다(URL은 모험 모드에서만 작동). 구리선에 연결하면 전기 신호의 상승 에지에서 팻말 메시지가 화면에 표시됩니다. 같은 줄에서 메시지를 계속하려면 \\(백슬래시)를 사용하십시오. 칠할 수 있습니다.",
+      "CRDescription:0": "철로 인쇄 가능한 금속 팻말 만들기"
     },
     "IronAttachedSignBlock:0": {
-      "DisplayName": "Iron Sign",
+      "DisplayName": "철제 팻말",
       "Description": ""
     },
     "SmallGunpowderKegBlock:0": {
-      "DisplayName": "Small Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "소형 화약통",
+      "Description": "화약통은 밀봉된 나무 용기로, 화약이 채워져 있고 위에 짧은 도화선이 붙어 있습니다. 도화선은 성냥으로 점화하거나 전기적으로 작동시킬 수 있습니다. 통은 몇 초 후에 엄청난 힘으로 폭발하여 블록을 파괴하고 폭발 범위 내의 모든 생명체를 죽입니다. 돌, 철, 다이아몬드와 같은 특정 블록은 다른 블록보다 폭발에 더 강합니다. 즉각적인 폭발을 위해 점화 장치를 사용하십시오.",
+      "CRDescription:0": "밀봉된 통에 화약 넣어 폭발시키기"
     },
     "MediumGunpowderKegBlock:0": {
-      "DisplayName": "Medium Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "중형 화약통",
+      "Description": "화약통은 밀봉된 나무 용기로, 화약이 채워져 있고 위에 짧은 도화선이 붙어 있습니다. 도화선은 성냥으로 점화하거나 전기적으로 작동시킬 수 있습니다. 통은 몇 초 후에 엄청난 힘으로 폭발하여 블록을 파괴하고 폭발 범위 내의 모든 생명체를 죽입니다. 돌, 철, 다이아몬드와 같은 특정 블록은 다른 블록보다 폭발에 더 강합니다. 즉각적인 폭발을 위해 점화 장치를 사용하십시오.",
+      "CRDescription:0": "밀봉된 통에 화약 넣어 폭발시키기"
     },
     "LargeGunpowderKegBlock:0": {
-      "DisplayName": "Large Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "대형 화약통",
+      "Description": "화약통은 밀봉된 나무 용기로, 화약이 채워져 있고 위에 짧은 도화선이 붙어 있습니다. 도화선은 성냥으로 점화하거나 전기적으로 작동시킬 수 있습니다. 통은 몇 초 후에 엄청난 힘으로 폭발하여 블록을 파괴하고 폭발 범위 내의 모든 생명체를 죽입니다. 돌, 철, 다이아몬드와 같은 특정 블록은 다른 블록보다 폭발에 더 강합니다. 즉각적인 폭발을 위해 점화 장치를 사용하십시오.",
+      "CRDescription:0": "밀봉된 통에 화약 넣어 폭발시키기"
     },
     "SmallIncendiaryKegBlock:0": {
-      "DisplayName": "Small Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "소형 소이통",
+      "Description": "소이통은 가연성 물질이 추가된 화약통입니다. 일반 화약통보다 약하지만 파편이 가연성 물체에 불을 붙입니다. 숲 근처에서는 사용하지 마십시오!",
+      "CRDescription:0": "화약통에 황을 넣어 소이통 만들기"
     },
     "MediumIncendiaryKegBlock:0": {
-      "DisplayName": "Medium Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "중형 소이통",
+      "Description": "소이통은 가연성 물질이 추가된 화약통입니다. 일반 화약통보다 약하지만 파편이 가연성 물체에 불을 붙입니다. 숲 근처에서는 사용하지 마십시오!",
+      "CRDescription:0": "화약통에 황을 넣어 소이통 만들기"
     },
     "LargeIncendiaryKegBlock:0": {
-      "DisplayName": "Large Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "대형 소이통",
+      "Description": "소이통은 가연성 물질이 추가된 화약통입니다. 일반 화약통보다 약하지만 파편이 가연성 물체에 불을 붙입니다. 숲 근처에서는 사용하지 마십시오!",
+      "CRDescription:0": "화약통에 황을 넣어 소이통 만들기"
     },
     "GravestoneBlock:0": {
-      "DisplayName": "Gravestone",
-      "Description": "Gravestone marks a final resting place of past inhabitant of this land.",
-      "CRDescription:0": "Craft gravestone from granite"
+      "DisplayName": "묘비",
+      "Description": "묘비는 이 땅의 과거 거주자의 마지막 안식처를 표시합니다.",
+      "CRDescription:0": "화강암으로 묘비 만들기"
     },
     "BoatBlock:0": {
-      "DisplayName": "Boat",
-      "Description": "Boat allows you to cross large areas of water safely and quickly.",
-      "CRDescription:0": "Craft boat from planks"
+      "DisplayName": "보트",
+      "Description": "보트를 사용하면 넓은 수역을 안전하고 빠르게 건널 수 있습니다.",
+      "CRDescription:0": "판자로 보트 만들기"
     },
     "FeatherBlock:0": {
-      "DisplayName": "Feather",
-      "Description": "Feathers come from birds' tails and can be used as stabilizers in arrows."
+      "DisplayName": "깃털",
+      "Description": "깃털은 새의 꼬리에서 나오며 화살의 안정화 장치로 사용할 수 있습니다."
     },
     "StringBlock:0": {
-      "DisplayName": "String",
-      "Description": "Strings can be made from ivy.",
-      "CRDescription:0": "Make a string from ivy",
-      "CRDescription:1": "Make strings from cotton"
+      "DisplayName": "실",
+      "Description": "실은 담쟁이덩굴로 만들 수 있습니다.",
+      "CRDescription:0": "담쟁이덩굴로 실 만들기",
+      "CRDescription:1": "면으로 실 만들기"
     },
     "CanvasBlock:0": {
-      "DisplayName": "Canvas",
-      "Description": "Canvas is a heavy fabric woven of cotton threads. It is good for making light clothes.",
-      "CRDescription:0": "Make sheets of canvas from cotton"
+      "DisplayName": "캔버스",
+      "Description": "캔버스는 면실로 짠 튼튼한 직물입니다. 가벼운 옷을 만드는 데 좋습니다.",
+      "CRDescription:0": "면으로 캔버스 시트 만들기"
     },
     "CarpetBlock:0": {
-      "DisplayName": "Carpet",
-      "Description": "Carpet is a decorative material laid on the floor. Can be dyed by bathing in a paint bucket in a heated furnace.",
-      "CRDescription:0": "Make carpet from canvas"
+      "DisplayName": "카펫",
+      "Description": "카펫은 바닥에 까는 장식 재료입니다. 가열된 용광로에서 페인트통에 담가 염색할 수 있습니다.",
+      "CRDescription:0": "캔버스로 카펫 만들기"
     },
     "CampfireBlock:0": {
-      "DisplayName": "Campfire",
-      "Description": "Campfire is easy to construct, provides heat, light and keeps predators away. You can make it bigger by throwing combustible items on top, such as sticks, leaves, wood blocks, planks etc.",
-      "CRDescription:0": "Craft campfire from sticks"
+      "DisplayName": "캠프파이어",
+      "Description": "캠프파이어는 건설하기 쉽고, 열과 빛을 제공하며, 포식자를 멀리합니다. 막대기, 잎, 나무 블록, 판자 등 가연성 아이템을 위에 던져 더 크게 만들 수 있습니다.",
+      "CRDescription:0": "막대기로 캠프파이어 만들기"
     },
     "GunpowderBlock:0": {
-      "DisplayName": "Gunpowder",
-      "Description": "A substance capable of burning in an oxygenless environment because it contains its own source of oxygen, saltpeter. When burning, gunpowder emits large amounts of hot gases. Will explode with devastating force if confined in a small volume, such as a keg, and ignited.",
-      "CRDescription:0": "Combine coal, sulphur and saltpeter to make gunpowder"
+      "DisplayName": "화약",
+      "Description": "산소 공급원인 질산칼륨을 포함하고 있어 산소가 없는 환경에서도 연소될 수 있는 물질입니다. 연소 시 화약은 많은 양의 뜨거운 가스를 방출합니다. 통과 같이 작은 부피에 갇혀 점화되면 엄청난 힘으로 폭발합니다.",
+      "CRDescription:0": "석탄, 황, 질산칼륨을 결합하여 화약 만들기"
     },
     "PigmentBlock:0": {
-      "DisplayName": "White Pigment",
-      "Description": "Pigment is the main constituent of paints. It can be obtained by firing limestone in the furnace until it turns to white powder. To make white paint, boil the pigment in water using the furnace.",
-      "CRDescription:0": "Fire limestone to make white pigment"
+      "DisplayName": "백색 안료",
+      "Description": "안료는 페인트의 주요 구성 요소입니다. 석회암을 용광로에서 구워 흰색 가루로 만들어 얻을 수 있습니다. 흰색 페인트를 만들려면 용광로를 사용하여 안료를 물에 끓입니다.",
+      "CRDescription:0": "석회암을 구워 백색 안료 만들기"
     },
     "JackOLanternBlock:0": {
-      "DisplayName": "Jack O'Lantern",
-      "Description": "Jack O'Lanterns are usually carved from ripe pumpkins during Halloween. They emit weak light.",
-      "CRDescription:0": "When Halloween comes, carve Jack O'Lanterns from pumpkins and torches"
+      "DisplayName": "잭오랜턴",
+      "Description": "잭오랜턴은 보통 할로윈 기간 동안 잘 익은 호박으로 조각됩니다. 약한 빛을 방출합니다.",
+      "CRDescription:0": "할로윈이 오면 호박과 횃불로 잭오랜턴 조각하기"
     },
     "MagnetBlock:0": {
-      "DisplayName": "Magnet",
-      "Description": "Magnets attract compass needle allowing you to find direction home while out in the wild. Don't forget to place one close to your house! The compass will show direction to the nearest magnet, or to spawn location if there are no magnets. You can only place a limited number of magnets in the world.",
-      "CRDescription:0": "Make a magnet to set attraction point for the compass"
+      "DisplayName": "자석",
+      "Description": "자석은 나침반 바늘을 끌어당겨 야생에서 집 방향을 찾는 데 도움이 됩니다. 집 근처에 하나 두는 것을 잊지 마세요! 나침반은 가장 가까운 자석 또는 자석이 없는 경우 스폰 위치를 가리킵니다. 월드에 배치할 수 있는 자석의 수는 제한되어 있습니다.",
+      "CRDescription:0": "나침반의 인력 지점을 설정하기 위해 자석 만들기"
     },
     "FurBlock:0": {
-      "DisplayName": "Fur",
-      "Description": "Fur can be obtained by killing furry animals such as bears. It is a strong material with good insulating properties, perfect for making winter clothes."
+      "DisplayName": "모피",
+      "Description": "모피는 곰과 같은 털 달린 동물에게서 얻을 수 있습니다. 단열성이 좋은 튼튼한 소재로 겨울옷 제작에 적합합니다."
     },
     "LeatherBlock:0": {
-      "DisplayName": "Leather",
-      "Description": "Leather can be obtained by killing certain animals. It is a versatile material that can be used as a extremely durable, wear and tear resistant and waterproof fabric. It is also used to make saddles."
+      "DisplayName": "가죽",
+      "Description": "가죽은 특정 동물에게서 얻을 수 있습니다. 매우 튼튼하고 마모에 강하며 방수 기능이 있는 직물로 사용할 수 있는 다용도 소재입니다. 안장 제작에도 사용됩니다."
     },
     "SaddleBlock:0": {
-      "DisplayName": "Saddle",
-      "Description": "Saddle makes it possible to ride horses and other animals. A horse without a saddle will quickly dump the rider and run away.",
-      "CRDescription:0": "Craft saddle from leather to be able to ride on other animals"
+      "DisplayName": "안장",
+      "Description": "안장을 사용하면 말과 다른 동물을 탈 수 있습니다. 안장이 없는 말은 빠르게 기수을 떨어뜨리고 도망갈 것입니다.",
+      "CRDescription:0": "가죽으로 안장 제작하여 다른 동물 타기"
     },
     "ChristmasTreeBlock:0": {
-      "DisplayName": "Christmas Tree",
-      "Description": "A must have for Christmas! A Christmas Tree is made from spruce leaves.",
-      "CRDescription:0": "Make a Christmas Tree from spruce cuttings"
+      "DisplayName": "크리스마스 트리",
+      "Description": "크리스마스 필수품! 크리스마스 트리는 가문비나무 잎으로 만들어집니다.",
+      "CRDescription:0": "가문비나무 가지로 크리스마스 트리 만들기"
     },
     "FurnitureBlock:0": {
-      "DisplayName": "Furniture",
-      "Description": "Furniture blocks consist of small sub-blocks that can be made of different materials. Create new furniture by using hammer on a design created in the world from full size blocks. Furniture can be made interactive or work with electricity by combining it with other items on the crafting table."
+      "DisplayName": "가구",
+      "Description": "가구 블록은 다양한 재료로 만들 수 있는 작은 하위 블록으로 구성됩니다. 월드에서 풀 사이즈 블록으로 만든 디자인에 망치를 사용하여 새로운 가구를 만드십시오. 가구는 제작대에서 다른 아이템과 결합하여 상호작용하거나 전기로 작동하도록 만들 수 있습니다."
     },
     "TreasureGeneratorBlock:0": {
-      "DisplayName": "Treasure Generator",
+      "DisplayName": "보물 생성기",
       "Description": ""
     },
     "CairnBlock:0": {
-      "DisplayName": "Cairn",
-      "Description": "Cairns are usually found at tops of mountains and contain huge amounts of experience"
+      "DisplayName": "돌무지",
+      "Description": "돌무지는 보통 산 정상에서 발견되며 엄청난 양의 경험치를 포함하고 있습니다."
     },
     "ExperienceBlock:0": {
-      "DisplayName": "Experience Orb",
-      "Description": "Gives experience when collected by a player"
+      "DisplayName": "경험치 구슬",
+      "Description": "플레이어가 수집하면 경험치를 제공합니다."
     },
     "ClothingBlock:0": {
-      "DisplayName": "Old Pants",
-      "Description": "Old pants you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "낡은 바지",
+      "Description": "이 땅에 버려졌을 때 입었던 낡은 바지입니다. 염색 가능. 보호 기능 거의 없음. 단열성 낮음."
     },
     "EggBlock:0": {
-      "DisplayName": "Egg",
-      "Description": "Spawner egg. Bird eggs are occasionally laid by adult birds. If you look carefully, you may find and eat them. Cooking an egg will increase its nutritional value. Non-bird eggs are available in creative mode only and can be used to spawn all other animals. To spawn an animal in creative mode, throw the egg against a hard surface to smash it. Spawner eggs of some exotic animals are unavailable even in creative mode."
+      "DisplayName": "알",
+      "Description": "스포너 알. 새알은 성조에게서 가끔 낳습니다. 자세히 살펴보면 발견하고 먹을 수 있습니다. 알을 요리하면 영양가가 높아집니다. 새가 아닌 알은 창의 모드에서만 사용할 수 있으며 다른 모든 동물을 생성하는 데 사용할 수 있습니다. 창의 모드에서 동물을 생성하려면 알을 단단한 표면에 던져 깨뜨리십시오. 일부 이국적인 동물의 스포너 알은 창의 모드에서도 사용할 수 없습니다."
     },
     "StoneAxeBlock:0": {
-      "DisplayName": "Stone Axe",
-      "Description": "Stone axe is a primitive tool that can equally be used for digging, cutting wood and quarrying rocks. It greatly speeds up the process, but it will quickly get damaged and fail. Stone axe is a poor melee weapon, make a club if you want to fight. You should progress to specialized tools made of metals.",
-      "CRDescription:0": "Make a stone tool",
-      "CRDescription:1": "Make a stone tool",
-      "CRDescription:2": "Make a stone tool"
+      "DisplayName": "돌 도끼",
+      "Description": "돌 도끼는 채굴, 벌목, 암석 채석에 동등하게 사용할 수 있는 원시적인 도구입니다. 공정을 크게 가속화하지만, 빨리 손상되고 고장납니다. 돌 도끼는 좋지 않은 근접 무기이므로, 싸우고 싶다면 곤봉을 만드십시오. 금속으로 만든 전문 도구로 진행해야 합니다.",
+      "CRDescription:0": "돌 도구 만들기",
+      "CRDescription:1": "돌 도구 만들기",
+      "CRDescription:2": "돌 도구 만들기"
     },
     "CopperAxeBlock:0": {
-      "DisplayName": "Copper Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "구리 도끼",
+      "Description": "도끼는 나무, 가구, 잎과 같은 부드러운 블록을 자르는 도구입니다. 절단 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 도끼는 더 오래 지속되고 더 빨리 자릅니다. 도끼는 또한 강력한 무기이지만 움직이는 표적을 맞추는 것은 매우 어렵습니다.",
+      "CRDescription:0": "구리 도구 만들기"
     },
     "IronAxeBlock:0": {
-      "DisplayName": "Iron Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "철 도끼",
+      "Description": "도끼는 나무, 가구, 잎과 같은 부드러운 블록을 자르는 도구입니다. 절단 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 도끼는 더 오래 지속되고 더 빨리 자릅니다. 도끼는 또한 강력한 무기이지만 움직이는 표적을 맞추는 것은 매우 어렵습니다.",
+      "CRDescription:0": "철 도구 만들기"
     },
     "DiamondAxeBlock:0": {
-      "DisplayName": "Diamond Edge Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "다이아몬드 날 도끼",
+      "Description": "도끼는 나무, 가구, 잎과 같은 부드러운 블록을 자르는 도구입니다. 절단 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 도끼는 더 오래 지속되고 더 빨리 자릅니다. 도끼는 또한 강력한 무기이지만 움직이는 표적을 맞추는 것은 매우 어렵습니다.",
+      "CRDescription:0": "도구의 작업 날에 다이아몬드 추가"
     },
-    "CopperShovelBlock:0": {
-      "DisplayName": "Copper Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Make a copper tool"
+   "CopperShovelBlock:0": {
+      "DisplayName": "구리 삽",
+      "Description": "삽은 모래나 자갈과 같은 느슨한 재료로 된 블록을 파는 도구입니다. 채굴 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 삽은 더 오래 지속되고 더 빨리 파냅니다.",
+      "CRDescription:0": "구리 도구 만들기"
     },
     "IronShovelBlock:0": {
-      "DisplayName": "Iron Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "철 삽",
+      "Description": "삽은 모래나 자갈과 같은 느슨한 재료로 된 블록을 파는 도구입니다. 채굴 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 삽은 더 오래 지속되고 더 빨리 파냅니다.",
+      "CRDescription:0": "철 도구 만들기"
     },
     "DiamondShovelBlock:0": {
-      "DisplayName": "Diamond Edge Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "다이아몬드 날 삽",
+      "Description": "삽은 모래나 자갈과 같은 느슨한 재료로 된 블록을 파는 도구입니다. 채굴 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 삽은 더 오래 지속되고 더 빨리 파냅니다.",
+      "CRDescription:0": "도구의 작업 날에 다이아몬드 추가"
     },
     "CopperPickaxeBlock:0": {
-      "DisplayName": "Copper Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "구리 곡괭이",
+      "Description": "곡괭이는 돌이나 얼음과 같은 단단한 블록을 채석하는 도구입니다. 채석 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 곡괭이는 더 오래 지속되고 더 빨리 채석합니다.",
+      "CRDescription:0": "구리 도구 만들기"
     },
     "IronPickaxeBlock:0": {
-      "DisplayName": "Iron Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "철 곡괭이",
+      "Description": "곡괭이는 돌이나 얼음과 같은 단단한 블록을 채석하는 도구입니다. 채석 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 곡괭이는 더 오래 지속되고 더 빨리 채석합니다.",
+      "CRDescription:0": "철 도구 만들기"
     },
     "DiamondPickaxeBlock:0": {
-      "DisplayName": "Diamond Tip Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "다이아몬드 날 곡괭이",
+      "Description": "곡괭이는 돌이나 얼음과 같은 단단한 블록을 채석하는 도구입니다. 채석 과정을 크게 가속화하지만 결국 손상되어 고장납니다. 더 나은 재료로 만든 곡괭이는 더 오래 지속되고 더 빨리 채석합니다.",
+      "CRDescription:0": "도구의 작업 날에 다이아몬드 추가"
     },
     "WoodenRakeBlock:0": {
-      "DisplayName": "Wooden Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make a wooden tool"
+      "DisplayName": "나무 갈퀴",
+      "Description": "갈퀴는 흙을 토양으로 바꾸는 도구입니다. 갈퀴로 토양이 만들어진 후에는 심을 준비가 됩니다. 갈퀴는 결국 손상되어 고장납니다. 더 나은 재료로 만든 갈퀴는 더 오래 지속됩니다.",
+      "CRDescription:0": "나무 도구 만들기"
     },
     "CopperRakeBlock:0": {
-      "DisplayName": "Copper Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "구리 갈퀴",
+      "Description": "갈퀴는 흙을 토양으로 바꾸는 도구입니다. 갈퀴로 토양이 만들어진 후에는 심을 준비가 됩니다. 갈퀴는 결국 손상되어 고장납니다. 더 나은 재료로 만든 갈퀴는 더 오래 지속됩니다.",
+      "CRDescription:0": "구리 도구 만들기"
     },
     "IronRakeBlock:0": {
-      "DisplayName": "Iron Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "철 갈퀴",
+      "Description": "갈퀴는 흙을 토양으로 바꾸는 도구입니다. 갈퀴로 토양이 만들어진 후에는 심을 준비가 됩니다. 갈퀴는 결국 손상되어 고장납니다. 더 나은 재료로 만든 갈퀴는 더 오래 지속됩니다.",
+      "CRDescription:0": "철 도구 만들기"
     },
     "DiamondRakeBlock:0": {
-      "DisplayName": "Diamond Spikes Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "다이아몬드 가시 갈퀴",
+      "Description": "갈퀴는 흙을 토양으로 바꾸는 도구입니다. 갈퀴로 토양이 만들어진 후에는 심을 준비가 됩니다. 갈퀴는 결국 손상되어 고장납니다. 더 나은 재료로 만든 갈퀴는 더 오래 지속됩니다.",
+      "CRDescription:0": "도구의 작업 날에 다이아몬드 추가"
     },
     "EmptyBucketBlock:0": {
-      "DisplayName": "Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block.",
-      "CRDescription:0": "Make a copper tool",
-      "CRDescription:1": "Empty the bucket"
+      "DisplayName": "양동이",
+      "Description": "양동이는 구리로 만들어진 용기로, 물, 마그마, 우유와 같은 유체를 운반하는 데 사용됩니다. 양동이는 수원 블록에서 유체로 채워 운반할 수 있으며, 새로운 유체 덩어리를 시작하기 위해 수원 블록을 배치할 수 있습니다. 수원 블록이 아닌 곳에서는 양동이를 채울 수 없습니다.",
+      "CRDescription:0": "구리 도구 만들기",
+      "CRDescription:1": "양동이 비우기"
     },
     "WaterBucketBlock:0": {
-      "DisplayName": "Water Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block."
+      "DisplayName": "물 양동이",
+      "Description": "양동이는 구리로 만들어진 용기로, 물, 마그마, 우유와 같은 유체를 운반하는 데 사용됩니다. 양동이는 수원 블록에서 유체로 채워 운반할 수 있으며, 새로운 유체 덩어리를 시작하기 위해 수원 블록을 배치할 수 있습니다. 수원 블록이 아닌 곳에서는 양동이를 채울 수 없습니다."
     },
     "MagmaBucketBlock:0": {
-      "DisplayName": "Magma Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block."
+      "DisplayName": "마그마 양동이",
+      "Description": "양동이는 구리로 만들어진 용기로, 물, 마그마, 우유와 같은 유체를 운반하는 데 사용됩니다. 양동이는 수원 블록에서 유체로 채워 운반할 수 있으며, 새로운 유체 덩어리를 시작하기 위해 수원 블록을 배치할 수 있습니다. 수원 블록이 아닌 곳에서는 양동이를 채울 수 없습니다."
     },
     "PaintStripperBucketBlock:0": {
-      "DisplayName": "Paint Stripper Bucket",
-      "Description": "A bucket full of paint stripper. Can be used to strip paint from previously painted surfaces and bring them to original appearance.",
-      "CRDescription:0": "Dissolve saltpeter in water to make paint stripper"
+      "DisplayName": "페인트 제거제 양동이",
+      "Description": "페인트 제거제가 담긴 양동이입니다. 이전에 칠해진 표면에서 페인트를 제거하고 원래 모습으로 되돌리는 데 사용할 수 있습니다.",
+      "CRDescription:0": "질산칼륨을 물에 녹여 페인트 제거제 만들기"
     },
     "PaintBucketBlock:0": {
-      "DisplayName": "Paint Bucket",
-      "Description": "A bucket full of paint. Can be used to paint surfaces for decorative purposes. Different colors of paint are obtained by dissolving colored ingredients, such as malachite or purple flowers into white paint.",
-      "CRDescription:0": "Dissolve white pigment in water to make white paint"
+      "DisplayName": "페인트 양동이",
+      "Description": "페인트가 담긴 양동이입니다. 장식용으로 표면에 페인트를 칠하는 데 사용할 수 있습니다. 다양한 색상의 페인트는 말라카이트나 보라색 꽃과 같은 착색 재료를 흰색 페인트에 녹여 얻습니다.",
+      "CRDescription:0": "백색 안료를 물에 녹여 흰색 페인트 만들기"
     },
     "MatchBlock:0": {
-      "DisplayName": "Match",
-      "Description": "A piece of sulphur on a stick, can be used to start fires. Be very careful when walking with matches because it is very easy to accidentally start a fire that may go out of control. Can be used to ignite fuses and as a weapon to set other animals on fire.",
-      "CRDescription:0": "Make a match to be able to start fires"
+      "DisplayName": "성냥",
+      "Description": "막대기에 붙은 황 조각으로 불을 붙이는 데 사용할 수 있습니다. 성냥을 가지고 걸을 때는 매우 조심하십시오. 실수로 통제 불능의 불을 붙일 수 있기 때문입니다. 도화선을 점화하는 데 사용하거나 다른 동물을 불태우는 무기로 사용할 수 있습니다.",
+      "CRDescription:0": "불을 붙이기 위해 성냥 만들기"
     },
     "CompassBlock:0": {
-      "DisplayName": "Compass",
-      "Description": "Compass points to the location of the place of last sleep or to the nearest magnet, if present. It is indispensable when finding your way home on far away journeys.",
-      "CRDescription:0": "Make a compass to always know the way home"
+      "DisplayName": "나침반",
+      "Description": "나침반은 마지막 수면 장소 또는 존재하는 경우 가장 가까운 자석을 가리킵니다. 먼 여정에서 집으로 가는 길을 찾는 데 필수적입니다.",
+      "CRDescription:0": "집으로 가는 길을 항상 알기 위해 나침반 만들기"
     },
     "ThermometerBlock:0": {
-      "DisplayName": "Thermometer",
-      "Description": "Thermometer displays ambient temperature. It is an important tool when planting trees. Oaks like it warm, birches moderately cool and spruces cold. Planting a tree in a wrong ambient temperature will cause the sapling to wilt. It is also an electric element that outputs analog signal corresponding to the surrounding temperature.",
-      "CRDescription:0": "Make a thermometer to measure ambient temperature"
+      "DisplayName": "온도계",
+      "Description": "온도계는 주변 온도를 표시합니다. 나무를 심을 때 중요한 도구입니다. 참나무는 따뜻한 것을 좋아하고, 자작나무는 적당히 시원한 것을, 가문비나무는 추운 것을 좋아합니다. 잘못된 주변 온도에 나무를 심으면 묘목이 시들게 됩니다. 또한 주변 온도에 해당하는 아날로그 신호를 출력하는 전기 요소입니다.",
+      "CRDescription:0": "주변 온도 측정을 위한 온도계 만들기"
     },
     "HygrometerBlock:0": {
-      "DisplayName": "Hygrometer",
-      "Description": "Hygrometer displays humidity of the surrounding area. It is an important tool when planting trees. All trees need a lot of humidity to grow. When a tree is planted an area which is too dry, the sapling will wilt. It is also an electric element that outputs analog signal corresponding to the surrounding humidity.",
-      "CRDescription:0": "Make a hydrometer to measure ambient humidity"
+      "DisplayName": "습도계",
+      "Description": "습도계는 주변 지역의 습도를 표시합니다. 나무를 심을 때 중요한 도구입니다. 모든 나무는 자라기 위해 많은 습기가 필요합니다. 나무가 너무 건조한 지역에 심어지면 묘목이 시들게 됩니다. 또한 주변 습도에 해당하는 아날로그 신호를 출력하는 전기 요소입니다.",
+      "CRDescription:0": "주변 습도 측정을 위한 습도계 만들기"
     },
     "IronHammerBlock:0": {
-      "DisplayName": "Iron Hammer",
-      "Description": "Hammer is used to create furniture from blocks placed in the world.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "철 망치",
+      "Description": "망치는 월드에 배치된 블록으로 가구를 만드는 데 사용됩니다.",
+      "CRDescription:0": "철 도구 만들기"
     },
     "WhistleBlock:0": {
-      "DisplayName": "Whistle",
-      "Description": "Whistle can be used to summon nearby steeds or drive cattle. Cattle will clump together and move away from the whistling person. You can control them by riding behind and directing them with controlled whistle blows from the sides. Whistle is also perfect for scaring birds.",
-      "CRDescription:0": "Craft whistle from iron"
+      "DisplayName": "호루라기",
+      "Description": "호루라기는 근처의 말을 소환하거나 소를 몰아내는 데 사용할 수 있습니다. 소는 뭉쳐서 호루라기 부는 사람에게서 멀어집니다. 뒤에서 따라가면서 옆에서 조절된 호루라기 소리로 방향을 지시하여 제어할 수 있습니다. 호루라기는 새를 쫓는 데도 완벽합니다.",
+      "CRDescription:0": "철로 호루라기 만들기"
     },
     "WoodenClubBlock:0": {
       "DisplayName": "Wooden Club",
