@@ -1,0 +1,11 @@
+{
+  "Name": "Japanese and Korean language MOD",
+  "Version": "1.0.0",
+  "ApiVersion": "1.9.0.0",
+  "Description": "Japanese and Korean translation for Survivalcraft 2",
+  "ScVersion": "2.4.0.0",
+  "Link": "https://github.com/Samuelsan03/Japanese-and-Korean-translation-for-Survivalcraft-2",
+  "Author": "Samuelsan03",
+  "PackageName": "japanesekoreanmod",
+  "Dependencies": {}
+}
