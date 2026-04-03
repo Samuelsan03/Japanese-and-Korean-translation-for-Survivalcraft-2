@@ -2507,320 +2507,320 @@
       "CRDescription:0": "구리와 화약으로 전기 점화 장치 제작하기"
     },
     "ClothingBlock:32": {
-      "DisplayName": "Old Hat",
-      "Description": "Old hat you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "낡은 모자",
+      "Description": "이 땅에 버려졌을 때 입었던 낡은 모자입니다. 염색 가능. 보호 기능 거의 없음. 단열성 낮음."
     },
     "ClothingBlock:37": {
-      "DisplayName": "Old Tank Top",
-      "Description": "Old tank top you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "낡은 민소매 티셔츠",
+      "Description": "이 땅에 버려졌을 때 입었던 낡은 민소매 티셔츠입니다. 염색 가능. 보호 기능 거의 없음. 단열성 낮음."
     },
     "ClothingBlock:1": {
-      "DisplayName": "Old Shirt",
-      "Description": "Old shirt you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "낡은 셔츠",
+      "Description": "이 땅에 버려졌을 때 입었던 낡은 셔츠입니다. 염색 가능. 보호 기능 거의 없음. 단열성 낮음."
     },
     "ClothingBlock:30": {
-      "DisplayName": "Fedora",
-      "Description": "A had made of cotton. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton fedora from canvas"
+      "DisplayName": "페도라",
+      "Description": "면으로 만든 모자. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스로 면 페도라 재단하기"
     },
     "ClothingBlock:13": {
-      "DisplayName": "Shirt",
-      "Description": "Long-sleeved cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton shirt from canvas"
+      "DisplayName": "셔츠",
+      "Description": "긴 소매 면 셔츠. 염색 가능. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스로 면 셔츠 재단하기"
     },
     "ClothingBlock:14": {
-      "DisplayName": "T-shirt",
-      "Description": "Short-sleeved cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton t-shirt from canvas"
+      "DisplayName": "티셔츠",
+      "Description": "반팔 면 셔츠. 염색 가능. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스로 면 티셔츠 재단하기"
     },
     "ClothingBlock:15": {
-      "DisplayName": "Tank Top",
-      "Description": "No sleeves cotton shirt. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor a cotton tank top from canvas"
+      "DisplayName": "민소매 티셔츠",
+      "Description": "소매 없는 면 셔츠. 염색 가능. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스로 면 민소매 티셔츠 재단하기"
     },
     "ClothingBlock:16": {
-      "DisplayName": "Pants",
-      "Description": "Long pants made of canvas. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor cotton pants from canvas and string"
+      "DisplayName": "바지",
+      "Description": "캔버스로 만든 긴 바지. 염색 가능. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스와 실로 면 바지 재단하기"
     },
     "ClothingBlock:17": {
-      "DisplayName": "Shorts",
-      "Description": "Short pants made of canvas. Can be dyed. Almost no protection. Weak insulation.",
-      "CRDescription:0": "Tailor cotton shorts from canvas and string"
+      "DisplayName": "반바지",
+      "Description": "캔버스로 만든 짧은 바지. 염색 가능. 보호 기능 거의 없음. 단열성 낮음.",
+      "CRDescription:0": "캔버스와 실로 면 반바지 재단하기"
     },
     "ClothingBlock:24": {
-      "DisplayName": "Sweater",
-      "Description": "Sweater made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor a sweater from canvas"
+      "DisplayName": "스웨터",
+      "Description": "캔버스로 만든 스웨터. 염색 가능. 보호 기능 거의 없음. 단열성 좋음.",
+      "CRDescription:0": "캔버스로 스웨터 재단하기"
     },
     "ClothingBlock:25": {
-      "DisplayName": "Long Johns",
-      "Description": "Long Johns made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor long johns from canvas"
+      "DisplayName": "내복",
+      "Description": "캔버스로 만든 내복. 염색 가능. 보호 기능 거의 없음. 단열성 좋음.",
+      "CRDescription:0": "캔버스로 내복 재단하기"
     },
     "ClothingBlock:26": {
-      "DisplayName": "Socks",
-      "Description": "Socks made of canvas. Can be dyed. Almost no protection. Good insulation.",
-      "CRDescription:0": "Tailor socks from canvas"
+      "DisplayName": "양말",
+      "Description": "캔버스로 만든 양말. 염색 가능. 보호 기능 거의 없음. 단열성 좋음.",
+      "CRDescription:0": "캔버스로 양말 재단하기"
     },
     "ClothingBlock:31": {
-      "DisplayName": "Cowboy Hat",
-      "Description": "A cowboy hat made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Tailor a cowboy hat from leather"
+      "DisplayName": "카우보이 모자",
+      "Description": "가죽으로 만든 카우보이 모자. 염색 가능. 약간의 보호. 약간의 단열성.",
+      "CRDescription:0": "가죽으로 카우보이 모자 재단하기"
     },
     "ClothingBlock:11": {
-      "DisplayName": "Leather Hat",
-      "Description": "A hat made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Tailor a hat from leather"
+      "DisplayName": "가죽 모자",
+      "Description": "가죽으로 만든 모자. 염색 가능. 약간의 보호. 약간의 단열성.",
+      "CRDescription:0": "가죽으로 모자 재단하기"
     },
     "ClothingBlock:5": {
-      "DisplayName": "Leather Jerkin",
-      "Description": "A jerkin vest made of leather. Can be dyed. Some protection. Weak insulation.",
-      "CRDescription:0": "Tailor a jerkin from leather"
+      "DisplayName": "가죽 조끼",
+      "Description": "가죽으로 만든 조끼. 염색 가능. 약간의 보호. 단열성 낮음.",
+      "CRDescription:0": "가죽으로 조끼 재단하기"
     },
     "ClothingBlock:12": {
-      "DisplayName": "Leather Pants",
-      "Description": "Long pants made of leather. Can be dyed. Weak protection. Some insulation.",
-      "CRDescription:0": "Tailor pants from leather"
+      "DisplayName": "가죽 바지",
+      "Description": "가죽으로 만든 긴 바지. 염색 가능. 보호 기능 약함. 약간의 단열성.",
+      "CRDescription:0": "가죽으로 바지 재단하기"
     },
     "ClothingBlock:29": {
-      "DisplayName": "Leather Sandals",
-      "Description": "Sandals made of leather. Can be dyed. Some protection. Some insulation.",
-      "CRDescription:0": "Make leather sandals from leather and planks"
+      "DisplayName": "가죽 샌들",
+      "Description": "가죽으로 만든 샌들. 염색 가능. 약간의 보호. 약간의 단열성.",
+      "CRDescription:0": "가죽과 판자로 가죽 샌들 만들기"
     },
     "ClothingBlock:8": {
-      "DisplayName": "Leather Boots",
-      "Description": "Boots made of leather. Can be dyed. Some protection. Some insulation. Make you move faster.",
-      "CRDescription:0": "Make leather boots from leather and planks"
+      "DisplayName": "가죽 부츠",
+      "Description": "가죽으로 만든 부츠. 염색 가능. 약간의 보호. 약간의 단열성. 이동 속도를 빠르게 합니다.",
+      "CRDescription:0": "가죽과 판자로 가죽 부츠 만들기"
     },
     "ClothingBlock:27": {
-      "DisplayName": "Cavalry Boots",
-      "Description": "Long boots made of leather. Good protection. Good insulation. Makes your horse run faster.",
-      "CRDescription:0": "Make cavalry boots from leather and planks"
+      "DisplayName": "기병 부츠",
+      "Description": "가죽으로 만든 긴 부츠. 보호 기능 좋음. 단열성 좋음. 말을 더 빨리 달리게 합니다.",
+      "CRDescription:0": "가죽과 판자로 기병 부츠 만들기"
     },
     "ClothingBlock:18": {
-      "DisplayName": "Fur Hat",
-      "Description": "Thick, warm hat made of fur. Weak protection. Good insulation.",
-      "CRDescription:0": "Tailor a hat from fur"
+      "DisplayName": "털 모자",
+      "Description": "두껍고 따뜻한 모피로 만든 모자. 보호 기능 약함. 단열성 좋음.",
+      "CRDescription:0": "모피로 모자 재단하기"
     },
     "ClothingBlock:6": {
-      "DisplayName": "Fur Coat",
-      "Description": "Thick, warm coat made of fur. Weak protection. Good insulation. Slows you down.",
-      "CRDescription:0": "Tailor a coat from fur"
+      "DisplayName": "모피 코트",
+      "Description": "두껍고 따뜻한 모피로 만든 코트. 보호 기능 약함. 단열성 좋음. 이동 속도를 느리게 합니다.",
+      "CRDescription:0": "모피로 코트 재단하기"
     },
     "ClothingBlock:7": {
-      "DisplayName": "Fur Leggings",
-      "Description": "Thick, warm leggings made of fur. Weak protection. Good insulation. Slows you down.",
-      "CRDescription:0": "Tailor leggings from fur"
+      "DisplayName": "모피 레깅스",
+      "Description": "두껍고 따뜻한 모피로 만든 레깅스. 보호 기능 약함. 단열성 좋음. 이동 속도를 느리게 합니다.",
+      "CRDescription:0": "모피로 레깅스 재단하기"
     },
     "ClothingBlock:23": {
-      "DisplayName": "Wooden Chest Plate",
-      "Description": "Makeshift chest armor made of wooden sticks and string. Some protection. No insulation.",
-      "CRDescription:0": "Tie sticks together to make wooden chest armor"
+      "DisplayName": "나무 흉갑",
+      "Description": "나무 막대기와 실로 만든 임시 흉갑. 약간의 보호. 단열성 없음.",
+      "CRDescription:0": "나무 막대기를 묶어 나무 흉갑 만들기"
     },
     "ClothingBlock:28": {
-      "DisplayName": "Wooden Leggings",
-      "Description": "Makeshift legs armor made of wooden sticks and string. Some protection. No insulation.",
-      "CRDescription:0": "Tie sticks together to make wooden legs armor"
+      "DisplayName": "나무 다리 보호대",
+      "Description": "나무 막대기와 실로 만든 임시 다리 보호대. 약간의 보호. 단열성 없음.",
+      "CRDescription:0": "나무 막대기를 묶어 나무 다리 보호대 만들기"
     },
     "ClothingBlock:33": {
-      "DisplayName": "Copper Helmet",
-      "Description": "Heavy helmet made of copper. Average protection. Weak insulation.",
-      "CRDescription:0": "Make armored helmet from copper and leather cap"
+      "DisplayName": "구리 투구",
+      "Description": "구리로 만든 무거운 투구. 평균적인 보호. 단열성 낮음.",
+      "CRDescription:0": "구리와 가죽 모자로 갑옷 투구 만들기"
     },
     "ClothingBlock:34": {
-      "DisplayName": "Copper Chest Plate",
-      "Description": "Heavy chest armor made of copper. Average protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored chest plate from copper and leather jerkin"
+      "DisplayName": "구리 흉갑",
+      "Description": "구리로 만든 무거운 흉갑. 평균적인 보호. 단열성 낮음. 이동 속도를 느리게 함.",
+      "CRDescription:0": "구리와 가죽 조끼로 갑옷 흉갑 만들기"
     },
     "ClothingBlock:35": {
-      "DisplayName": "Copper Leggings",
-      "Description": "Heavy leg plates made of copper. Average protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored leggings from copper and fur leggings"
+      "DisplayName": "구리 다리 보호대",
+      "Description": "구리로 만든 무거운 다리 보호대. 평균적인 보호. 단열성 낮음. 이동 속도를 느리게 함.",
+      "CRDescription:0": "구리와 모피 레깅스로 갑옷 다리 보호대 만들기"
     },
     "ClothingBlock:36": {
-      "DisplayName": "Copper Boots",
-      "Description": "Heavy protective boots made of copper. Average protection. Weak insulation.",
-      "CRDescription:0": "Make armored boots from copper and leather boots"
+      "DisplayName": "구리 부츠",
+      "Description": "구리로 만든 무거운 보호 부츠. 평균적인 보호. 단열성 낮음.",
+      "CRDescription:0": "구리와 가죽 부츠로 갑옷 부츠 만들기"
     },
     "ClothingBlock:2": {
-      "DisplayName": "Chain Mail",
-      "Description": "Light iron armor that can be worn under outer clothes and does not slow you down. Good protection. No insulation.",
-      "CRDescription:0": "Make chain mail from iron"
+      "DisplayName": "사슬 갑옷",
+      "Description": "겉옷 아래에 입을 수 있고 이동 속도를 늦추지 않는 가벼운 철 갑옷. 보호 기능 좋음. 단열성 없음.",
+      "CRDescription:0": "철로 사슬 갑옷 만들기"
     },
     "ClothingBlock:10": {
-      "DisplayName": "Iron Helmet",
-      "Description": "Heavy helmet made of iron. Good protection. Weak insulation.",
-      "CRDescription:0": "Make armored helmet from iron and leather cap"
+      "DisplayName": "철 투구",
+      "Description": "철로 만든 무거운 투구. 보호 기능 좋음. 단열성 낮음.",
+      "CRDescription:0": "철과 가죽 모자로 갑옷 투구 만들기"
     },
     "ClothingBlock:3": {
-      "DisplayName": "Iron Chest Plate",
-      "Description": "Heavy chest armor made of iron. Good protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored chest plate from iron and leather jerkin"
+      "DisplayName": "철 흉갑",
+      "Description": "철로 만든 무거운 흉갑. 보호 기능 좋음. 단열성 낮음. 이동 속도를 느리게 함.",
+      "CRDescription:0": "철과 가죽 조끼로 갑옷 흉갑 만들기"
     },
     "ClothingBlock:4": {
-      "DisplayName": "Iron Leggings",
-      "Description": "Heavy leg plates made of iron. Good protection. Weak insulation. Slows you down.",
-      "CRDescription:0": "Make armored leggings from iron and fur leggings"
+      "DisplayName": "철 다리 보호대",
+      "Description": "철로 만든 무거운 다리 보호대. 보호 기능 좋음. 단열성 낮음. 이동 속도를 느리게 함.",
+      "CRDescription:0": "철과 모피 레깅스로 갑옷 다리 보호대 만들기"
     },
     "ClothingBlock:9": {
-      "DisplayName": "Iron Boots",
-      "Description": "Heavy protective boots made of iron. Good protection. Weak insulation.",
-      "CRDescription:0": "Make armored boots from iron and leather boots"
+      "DisplayName": "철 부츠",
+      "Description": "철로 만든 무거운 보호 부츠. 보호 기능 좋음. 단열성 낮음.",
+      "CRDescription:0": "철과 가죽 부츠로 갑옷 부츠 만들기"
     },
     "ClothingBlock:21": {
-      "DisplayName": "Diamond Helmet",
-      "Description": "Exquisite, strong helmet made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond helmet from iron helmet and diamonds"
+      "DisplayName": "다이아몬드 투구",
+      "Description": "다이아몬드로 만든 정교하고 튼튼한 투구. 뛰어난 보호. 단열성 없음.",
+      "CRDescription:0": "철 투구와 다이아몬드로 다이아몬드 투구 만들기"
     },
     "ClothingBlock:19": {
-      "DisplayName": "Diamond Chest Plate",
-      "Description": "Exquisite, strong chest armor made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond chest plate from iron chest plate and diamonds"
+      "DisplayName": "다이아몬드 흉갑",
+      "Description": "다이아몬드로 만든 정교하고 튼튼한 흉갑. 뛰어난 보호. 단열성 없음.",
+      "CRDescription:0": "철 흉갑과 다이아몬드로 다이아몬드 흉갑 만들기"
     },
     "ClothingBlock:20": {
-      "DisplayName": "Diamond Leggings",
-      "Description": "Exquisite, strong leg plates made of diamond. Excellent protection. No insulation.",
-      "CRDescription:0": "Make diamond leggings from iron leggings and diamonds"
+      "DisplayName": "다이아몬드 다리 보호대",
+      "Description": "다이아몬드로 만든 정교하고 튼튼한 다리 보호대. 뛰어난 보호. 단열성 없음.",
+      "CRDescription:0": "철 다리 보호대와 다이아몬드로 다이아몬드 다리 보호대 만들기"
     },
     "ClothingBlock:22": {
-      "DisplayName": "Diamond Boots",
-      "Description": "Exquisite, strong protective boots made of diamond. Excellent protection. No insulation. Make you move faster.",
-      "CRDescription:0": "Make diamond boots from iron boots and diamonds"
+      "DisplayName": "다이아몬드 부츠",
+      "Description": "다이아몬드로 만든 정교하고 튼튼한 보호 부츠. 뛰어난 보호. 단열성 없음. 이동 속도를 빠르게 함.",
+      "CRDescription:0": "철 부츠와 다이아몬드로 다이아몬드 부츠 만들기"
     },
     "SaplingBlock:1": {
-      "DisplayName": "Birch Sapling",
-      "CRDescription:0": "Cut saplings from birch leaves"
+      "DisplayName": "자작나무 묘목",
+      "CRDescription:0": "자작나무 잎에서 묘목 자르기"
     },
     "SaplingBlock:2": {
-      "DisplayName": "Spruce Sapling",
-      "CRDescription:0": "Cut saplings from spruce leaves"
+      "DisplayName": "가문비나무 묘목",
+      "CRDescription:0": "가문비나무 잎에서 묘목 자르기"
     },
     "SaplingBlock:3": {
-      "DisplayName": "Tall Spruce Sapling",
-      "CRDescription:0": "Cut saplings from tall spruce leaves"
+      "DisplayName": "키 큰 가문비나무 묘목",
+      "CRDescription:0": "키 큰 가문비나무 잎에서 묘목 자르기"
     },
     "SaplingBlock:4": {
-      "DisplayName": "Mimosa Sapling",
-      "CRDescription:0": "Cut saplings from mimosa leaves"
+      "DisplayName": "미모사 묘목",
+      "CRDescription:0": "미모사 잎에서 묘목 자르기"
     },
     "SaplingBlock:5": {
-      "DisplayName": "Poplar Sapling",
-      "CRDescription:0": "Cut saplings from poplar leaves"
+      "DisplayName": "포플러 묘목",
+      "CRDescription:0": "포플러 잎에서 묘목 자르기"
     },
     "SeedsBlock:1": {
-      "DisplayName": "Red Flower Seeds",
-      "CRDescription:0": "Extract seeds from red flower"
+      "DisplayName": "붉은 꽃 씨앗",
+      "CRDescription:0": "붉은 꽃에서 씨앗 추출"
     },
     "SeedsBlock:2": {
-      "DisplayName": "Purple Flower Seeds",
-      "CRDescription:0": "Extract seeds from purple flower"
+      "DisplayName": "보라색 꽃 씨앗",
+      "CRDescription:0": "보라색 꽃에서 씨앗 추출"
     },
     "SeedsBlock:3": {
-      "DisplayName": "White Flower Seeds",
-      "CRDescription:0": "Extract seeds from white flower"
+      "DisplayName": "흰색 꽃 씨앗",
+      "CRDescription:0": "흰색 꽃에서 씨앗 추출"
     },
     "SeedsBlock:4": {
-      "DisplayName": "Wild Rye Seeds"
+      "DisplayName": "야생 호밀 씨앗"
     },
     "SeedsBlock:5": {
-      "DisplayName": "Rye Seeds"
+      "DisplayName": "호밀 씨앗"
     },
     "SeedsBlock:6": {
-      "DisplayName": "Cotton Seeds"
+      "DisplayName": "면 씨앗"
     },
     "SeedsBlock:7": {
-      "DisplayName": "Pumpkin Seeds",
-      "CRDescription:0": "Extract seeds from a fully grown pumpkin",
-      "CRDescription:1": "Extract seeds from a fully grown pumpkin"
+      "DisplayName": "호박 씨앗",
+      "CRDescription:0": "완전히 자란 호박에서 씨앗 추출",
+      "CRDescription:1": "완전히 자란 호박에서 씨앗 추출"
     },
     "ArrowBlock:1": {
-      "CRDescription:0": "Make stone-tipped arrow from stick, feathers and stone"
-    },
-    "ArrowBlock:2": {
-      "CRDescription:0": "Make iron-tipped arrow from stick, feathers and iron"
-    },
-    "ArrowBlock:3": {
-      "CRDescription:0": "Make diamond-tipped arrow from iron arrow and a diamond"
-    },
-    "ArrowBlock:4": {
-      "CRDescription:0": "Make fire arrow from wooden arrow and sulphur"
-    },
-    "ArrowBlock:5": {
-      "CRDescription:0": "Make iron bolt from rod and feather"
-    },
-    "ArrowBlock:6": {
-      "CRDescription:0": "Make diamond-tipped bolt from iron bolt and a diamond"
-    },
-    "ArrowBlock:7": {
-      "CRDescription:0": "Make explosive bolt from iron bolt and gunpowder"
-    },
-    "ArrowBlock:8": {
-      "CRDescription:0": "Make copper-tipped arrow from stick, feathers and copper"
-    },
-    "BulletBlock:1": {
-      "CRDescription:0": "Make buckshot from musket balls",
-      "CRDescription:1": "Make buckshot from buckshot balls"
-    },
-    "BulletBlock:2": {
-      "CRDescription:0": "Extract buckshot balls from buckshot"
-    },
-    "GravestoneBlock:1": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:2": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:3": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:4": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:5": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:6": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "GravestoneBlock:7": {
-      "CRDescription:0": "Craft gravestone from granite"
-    },
-    "PressurePlateBlock:1": {
-      "CRDescription:0": "Craft electric pressure plates from copper and stone"
-    },
-    "PistonBlock:448": {
-      "CRDescription:0": "Use planks, semiconductor and copper to make a piston"
-    },
-    "PistonBlock:450": {
-      "CRDescription:0": "Add iron hooks to piston to make a pulling piston"
-    },
-    "PistonBlock:452": {
-      "CRDescription:0": "Add copper hooks to piston to make a strict pulling piston"
-    },
-    "DirtStairsBlock:0": {
-      "DisplayName": "Dirt Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
-    },
-    "DirtSlabBlock:0": {
-      "DisplayName": "Dirt Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings.",
-      "CRDescription:0": "Make slabs for decoration purposes"
-    },
-    "PoplarWoodBlock:0": {
-      "DisplayName": "Poplar Wood",
-      "Description": "Poplar wood grows in trunks of poplar trees, which grow in temperate areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
-    },
-    "PoplarLeavesBlock:0": {
-      "DisplayName": "Poplar Leaves",
-      "Description": "Poplar leaves grow on poplar trees and can be used to obtain poplar saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
-    },
-    "FallenLeavesBlock:0": {
-      "DisplayName": "Fallen Leaves",
-      "Description": "Leaves which fell from a tree in the autumn"
-    }
+    "CRDescription:0": "막대기, 깃털, 돌로 돌 화살을 제작"
   },
+  "ArrowBlock:2": {
+    "CRDescription:0": "막대기, 깃털, 철로 철 화살을 제작"
+  },
+  "ArrowBlock:3": {
+    "CRDescription:0": "철 화살과 다이아몬드로 다이아 화살을 제작"
+  },
+  "ArrowBlock:4": {
+    "CRDescription:0": "나무 화살과 유황으로 불 화살을 제작"
+  },
+  "ArrowBlock:5": {
+    "CRDescription:0": "막대기와 깃털로 철 볼트를 제작"
+  },
+  "ArrowBlock:6": {
+    "CRDescription:0": "철 볼트와 다이아몬드로 다이아 볼트를 제작"
+  },
+  "ArrowBlock:7": {
+    "CRDescription:0": "철 볼트와 화약으로 폭발 볼트를 제작"
+  },
+  "ArrowBlock:8": {
+    "CRDescription:0": "막대기, 깃털, 구리로 구리 화살을 제작"
+  },
+    "BulletBlock:1": {
+    "CRDescription:0": "머스킷 탄환으로 벅샷 제작",
+    "CRDescription:1": "벅샷 탄환으로 벅샷 제작"
+  },
+  "BulletBlock:2": {
+    "CRDescription:0": "벅샷에서 벅샷 탄환 추출"
+  },
+  "GravestoneBlock:1": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:2": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:3": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:4": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:5": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:6": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+  "GravestoneBlock:7": {
+    "CRDescription:0": "화강암으로 묘비 제작"
+  },
+    "PressurePlateBlock:1": {
+    "CRDescription:0": "구리와 돌을 사용해 전기 압력판을 제작하세요"
+  },
+  "PistonBlock:448": {
+    "CRDescription:0": "목재 판자, 반도체, 구리를 사용해 피스톤을 만드세요"
+  },
+  "PistonBlock:450": {
+    "CRDescription:0": "피스톤에 철 갈고리를 추가하여 끌어당기는 피스톤을 만드세요"
+  },
+  "PistonBlock:452": {
+    "CRDescription:0": "피스톤에 구리 갈고리를 추가하여 강력한 끌어당기는 피스톤을 만드세요"
+  },
+    "DirtStairsBlock:0": {
+    "DisplayName": "흙 계단",
+    "Description": "계단은 경사를 오르기 쉽게 만들어 줍니다. 계속 점프하거나 수직 벽을 오를 필요가 없어지고, 더 빠르게 이동하여 시간과 에너지를 절약할 수 있습니다. 계단은 다양한 재료로 제작할 수 있습니다. 또한 천장에 거꾸로 설치할 수도 있습니다. 도색이 가능합니다.",
+    "CRDescription:0": "더 빠르게 높이를 오르기 위해 계단을 만드세요"
+  },
+  "DirtSlabBlock:0": {
+    "DisplayName": "흙 반 블록",
+    "Description": "슬랩은 높이가 절반인 블록으로, 다양한 재료로 제작할 수 있습니다. 일반 블록보다 저렴한 비용으로 바닥을 덮을 수 있습니다. 또한 길이 한 칸마다 높이가 반 칸씩 올라가는 긴 계단을 만드는 데 사용할 수 있습니다. 천장에도 부착할 수 있습니다.",
+    "CRDescription:0": "장식용으로 슬랩을 만드세요"
+  },
+  "PoplarWoodBlock:0": {
+    "DisplayName": "포플러 목재",
+    "Description": "포플러 목재는 온대 지역에서 자라는 포플러 나무의 줄기에서 얻을 수 있습니다. 판자로 제작할 수 있으며, 건축과 제작에 유용한 재료입니다. 또한 화로의 연료로도 사용할 수 있습니다. 나무를 다시 심으려면 잎에서 묘목을 얻어야 합니다."
+  },
+  "PoplarLeavesBlock:0": {
+    "DisplayName": "포플러 잎",
+    "Description": "포플러 잎은 포플러 나무에서 자라며, 묘목을 얻는 데 사용할 수 있습니다. 불에 탈 수 있으며 저렴한 연료로 사용할 수 있습니다. 줄기에서 떨어져 설치되면 사라집니다."
+  },
+  "FallenLeavesBlock:0": {
+    "DisplayName": "낙엽",
+    "Description": "가을에 나무에서 떨어진 잎"
+  }
+},
   "Help": {
     "1": {
       "value": "",
