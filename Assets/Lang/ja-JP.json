@@ -1429,723 +1429,723 @@
       "CRDescription:0": "多くの石炭の塊を組み合わせて大きなブロックにする"
     },
     "StoneChunkBlock:0": {
-      "DisplayName": "Stone Chunk",
-      "Description": "A stone can be a formidable weapon in the hands of a skilled thrower. They are plentiful and easy to obtain. The best stones are found by digging in gravel blocks."
-    },
-    "CoalChunkBlock:0": {
-      "DisplayName": "Coal Chunk",
-      "Description": "A chunk of pure coal. Can be used for fuelling the furnace and as an ingredient of various substances, like gunpowder. Used as a reagent when reducing metal ores to pure metals. Also used as a pigment for making darker hues of paint. In absence of mineral coal, you can burn wood in an oxygen-poor atmosphere in the furnace and obtain a similar substance: charcoal.",
-      "CRDescription:0": "Make charcoal by burning wood in oxygenless atmosphere",
-      "CRDescription:1": "Dismantle coal block into chunks"
-    },
-    "MalachiteChunkBlock:0": {
-      "DisplayName": "Malachite Chunk",
-      "Description": "A chunk of copper carbonate with beautiful green color. When smelted in the furnace will turn into pure copper. Multiple chunks can be combined and form a large block of malachite, a beautiful decorative material.",
-      "CRDescription:0": "Dismantle malachite block into chunks"
-    },
-    "IronOreChunkBlock:0": {
-      "DisplayName": "Iron Ore Chunk",
-      "Description": "A chunk of iron ore. When smelted in the furnace will turn into pure iron useful for making durable tools and armor."
-    },
-    "SaltpeterChunkBlock:0": {
-      "DisplayName": "Saltpeter Chunk",
-      "Description": "A chunk of potassium nitrate. This is a white substance with high oxygen content that can be used as an oxidizer for making explosives or, when sprinkled over soil, as a fertilizer to speed up growth of plants and increase yields."
-    },
-    "SulphurChunkBlock:0": {
-      "DisplayName": "Sulphur Chunk",
-      "Description": "A chunk of elemental sulphur. Can be used as an ingredient in paints and pyrotechnic substances like gunpowder or matches."
-    },
-    "GermaniumOreChunkBlock:0": {
-      "DisplayName": "Germanium Ore Chunk",
-      "Description": "A chunk of germanium ore. When smelted in the furnace will turn into a pure germanium crystal useful for making electronic logic gates."
-    },
-    "GermaniumChunkBlock:0": {
-      "DisplayName": "Germanium Crystal",
-      "Description": "Germanium crystal is a crystal of pure electronic-grade germanium. It is a semiconductor and can be used to make electronic logic gates.",
-      "CRDescription:0": "Smelt germanium ore to obtain germanium crystals"
-    },
-    "DiamondChunkBlock:0": {
-      "DisplayName": "Diamond",
-      "Description": "Diamond is a crystal of pure carbon. Very rare and beautiful, it is found deep underground. It can be used for making extremely hard and durable tools. Being carbon, can also be burned as fuel in the furnace, but only fools waste this precious substance for such a mundane purpose.",
-      "CRDescription:0": "Dismantle diamond block into diamonds"
-    },
+    "DisplayName": "石のかけら",
+    "Description": "石は熟練した投げ手にとって強力な武器となり得ます。豊富にあり簡単に入手できます。最良の石は砂利ブロックを掘ることで見つかります。"
+  },
+  "CoalChunkBlock:0": {
+    "DisplayName": "石炭のかけら",
+    "Description": "純粋な石炭の塊。炉の燃料として使用できるほか、火薬など様々な物質の材料になります。金属鉱石を純金属に還元する際の試薬としても使用されます。また、暗い色合いの塗料を作るための顔料としても使われます。鉱物石炭がない場合、炉内で酸素の少ない状態で木材を燃やすことで、同様の物質である木炭を得ることができます。",
+    "CRDescription:0": "酸素のない環境で木材を燃やして木炭を作る",
+    "CRDescription:1": "石炭ブロックを分解してかけらにする"
+  },
+  "MalachiteChunkBlock:0": {
+    "DisplayName": "マラカイトのかけら",
+    "Description": "美しい緑色をした炭酸銅の塊。炉で精錬すると純粋な銅になります。複数のかけらを組み合わせることで、大きなマラカイトブロックとなり、装飾用の美しい素材になります。",
+    "CRDescription:0": "マラカイトブロックを分解してかけらにする"
+  },
+  "IronOreChunkBlock:0": {
+    "DisplayName": "鉄鉱石のかけら",
+    "Description": "鉄鉱石の塊。炉で精錬すると純粋な鉄になり、耐久性の高い道具や防具の作成に役立ちます。"
+  },
+  "SaltpeterChunkBlock:0": {
+    "DisplayName": "硝石のかけら",
+    "Description": "硝酸カリウムの塊。酸素含有量が高い白い物質で、爆発物の酸化剤として使用できます。また、土壌にまくことで肥料として働き、植物の成長を促進し収穫量を増やします。"
+  },
+  "SulphurChunkBlock:0": {
+    "DisplayName": "硫黄のかけら",
+    "Description": "元素硫黄の塊。塗料や火薬、マッチなどの火工品の材料として使用できます。"
+  },
+  "GermaniumOreChunkBlock:0": {
+    "DisplayName": "ゲルマニウム鉱石のかけら",
+    "Description": "ゲルマニウム鉱石の塊。炉で精錬すると純粋なゲルマニウム結晶となり、電子論理ゲートの作成に役立ちます。"
+  },
+  "GermaniumChunkBlock:0": {
+    "DisplayName": "ゲルマニウム結晶",
+    "Description": "純粋な電子グレードのゲルマニウム結晶。半導体であり、電子論理ゲートの作成に使用できます。",
+    "CRDescription:0": "ゲルマニウム鉱石を精錬して結晶を得る"
+  },
+  "DiamondChunkBlock:0": {
+    "DisplayName": "ダイヤモンド",
+    "Description": "ダイヤモンドは純粋な炭素の結晶です。非常に希少で美しく、地下深くで発見されます。非常に硬く耐久性のある道具の作成に使用できます。炭素であるため炉の燃料として燃やすこともできますが、この貴重な物質をそのような用途に使うのは愚かなことです。",
+    "CRDescription:0": "ダイヤモンドブロックを分解してダイヤモンドにする"
+  },
     "OakWoodBlock:0": {
-      "DisplayName": "Oak Wood",
-      "Description": "Oak wood grows in trunks of oak trees, which grow in warm and humid areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "オークの木材",
+      "Description": "オークの木材は、暖かく湿った地域で育つオークの木の幹から得られます。建築やクラフトに汎用性の高い材料である板材に加工できます。炉の燃料としても使用できます。木を再植するには、葉から苗木を入手する必要があります。"
     },
     "BirchWoodBlock:0": {
-      "DisplayName": "Birch Wood",
-      "Description": "Birch wood grows in trunks of birch trees, which grow in temperate and humid areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "白樺の木材",
+      "Description": "白樺の木材は、温帯で湿った地域で育つ白樺の木の幹から得られます。建築やクラフトに汎用性の高い材料である板材に加工できます。炉の燃料としても使用できます。木を再植するには、葉から苗木を入手する必要があります。"
     },
     "SpruceWoodBlock:0": {
-      "DisplayName": "Spruce Wood",
-      "Description": "Spruce wood grows in trunks of spruce trees, which grow in cool areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "トウヒの木材",
+      "Description": "トウヒの木材は、涼しい地域で育つトウヒの木の幹から得られます。建築やクラフトに汎用性の高い材料である板材に加工できます。炉の燃料としても使用できます。木を再植するには、葉から苗木を入手する必要があります。"
     },
     "MimosaWoodBlock:0": {
-      "DisplayName": "Mimosa Wood",
-      "Description": "Mimosa wood grows in trunks of mimosa trees, which grow in dry areas. It can be crafted into planks, which are a versatile building and crafting material. It can also be used as a fuel in the furnace. To replant trees you need to obtain saplings from the leaves."
+      "DisplayName": "ミモザの木材",
+      "Description": "ミモザの木材は、乾燥した地域で育つミモザの木の幹から得られます。建築やクラフトに汎用性の高い材料である板材に加工できます。炉の燃料としても使用できます。木を再植するには、葉から苗木を入手する必要があります。"
     },
     "OakLeavesBlock:0": {
-      "DisplayName": "Oak Leaves",
-      "Description": "Oak leaves grow on oak trees and can be used to obtain oak saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. Grass traps that can deceive both man and a beast can be crafted from these leaves."
+      "DisplayName": "オークの葉",
+      "Description": "オークの葉はオークの木に生え、オークの苗木を入手するために使用できます。燃焼し、安価な燃料として使用できます。幹から離して配置すると、腐 decayします。人間と獣を欺くことができる草の罠は、これらの葉から作ることができます。"
     },
     "BirchLeavesBlock:0": {
-      "DisplayName": "Birch Leaves",
-      "Description": "Birch leaves grow on birch trees and can used to obtain birch saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. "
+      "DisplayName": "白樺の葉",
+      "Description": "白樺の葉は白樺の木に生え、白樺の苗木を入手するために使用できます。燃焼し、安価な燃料として使用できます。幹から離して配置すると、腐 decayします。"
     },
     "SpruceLeavesBlock:0": {
-      "DisplayName": "Spruce Leaves",
-      "Description": "Spruce leaves grow on spruce trees and can be used to obtain spruce saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay. During Christmas time, a Christmas Tree can be crafted from them."
+      "DisplayName": "トウヒの葉",
+      "Description": "トウヒの葉はトウヒの木に生え、トウヒの苗木を入手するために使用できます。燃焼し、安価な燃料として使用できます。幹から離して配置すると、腐 decayします。クリスマスには、これらの葉からクリスマスツリーをクラフトできます。"
     },
     "TallSpruceLeavesBlock:0": {
-      "DisplayName": "Tall Spruce Leaves",
-      "Description": "Tall spruce leaves grow on tall spruce trees and can be used to obtain tall spruce saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
+      "DisplayName": "背の高いトウヒの葉",
+      "Description": "背の高いトウヒの葉は、背の高いトウヒの木に生え、背の高いトウヒの苗木を入手するために使用できます。燃焼し、安価な燃料として使用できます。幹から離して配置すると、腐 decayします。"
     },
     "MimosaLeavesBlock:0": {
-      "DisplayName": "Mimosa Leaves",
-      "Description": "Mimosa leaves grow on mimosa trees and can be used to obtain mimosa saplings. They will burn and can be used as a cheap fuel. When placed away from the trunk, they will decay."
+      "DisplayName": "ミモザの葉",
+      "Description": "ミモザの葉はミモザの木に生え、ミモザの苗木を入手するために使用できます。燃焼し、安価な燃料として使用できます。幹から離して配置すると、腐 decayします。"
     },
     "TallGrassBlock:0": {
-      "DisplayName": "Tall Grass",
-      "Description": "Tall grass randomly grows on well lit and humid grass blocks. You can obtain grass seeds from it, which can be used to plant more grass. Can be used as a decorative plant."
+      "DisplayName": "背の高い草",
+      "Description": "背の高い草は、明るく湿った草ブロックにランダムに生えます。そこから草の種を取得でき、それを使ってさらに草を植えることができます。装飾植物として使用できます。"
     },
     "RyeBlock:0": {
-      "DisplayName": "Rye",
-      "Description": "Plant rye on tilled, moist and fertilized soil to obtain full grown plants. Harvesting the plants will yield large number of rye seeds. Rye also grows naturally in form or wild rye. You can obtain wild seeds by harvesting it."
+      "DisplayName": "ライ麦",
+      "Description": "耕され、湿っており、肥料が与えられた土壌にライ麦を植えると、完全に成長した植物が得られます。植物を収穫すると、大量のライ麦の種が得られます。ライ麦は野生のライ麦の形でも自然に成長します。収穫することで野生の種を取得できます。"
     },
     "RedFlowerBlock:0": {
-      "DisplayName": "Red Flower",
-      "Description": "Red flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant."
+      "DisplayName": "赤い花",
+      "Description": "赤い花は、明るく湿った草ブロックにランダムに生えます。装飾植物として使用できます。"
     },
     "PurpleFlowerBlock:0": {
-      "DisplayName": "Purple Flower",
-      "Description": "Purple flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant and contains purple pigment that makes magenta paint"
+      "DisplayName": "紫の花",
+      "Description": "紫の花は、明るく湿った草ブロックにランダムに生えます。装飾植物として使用でき、マゼンタ色の塗料を作る紫色の顔料を含んでいます。"
     },
     "WhiteFlowerBlock:0": {
-      "DisplayName": "White Flower",
-      "Description": "White flowers randomly grow on well lit and humid grass blocks. Can be used as a decorative plant."
+      "DisplayName": "白い花",
+      "Description": "白い花は、明るく湿った草ブロックにランダムに生えます。装飾植物として使用できます。"
     },
     "DryBushBlock:0": {
-      "DisplayName": "Dry Bush",
-      "Description": "Dry bushes are commonly found on the edges of deserts or in cold places. Whenever a plant does not have enough humidity or sunlight to sustain itself, it will turn into a dry bush. "
+      "DisplayName": "枯れ木",
+      "Description": "枯れ木は、砂漠の端や寒い場所で一般的に見られます。植物が自身を維持するのに十分な湿度や日光がない場合、枯れ木に変わります。"
     },
     "LargeDryBushBlock:0": {
-      "DisplayName": "Large Dry Bush",
-      "Description": "Dry bushes are commonly found on the edges of deserts or in cold places. Whenever a plant does not have enough humidity or sunlight to sustain itself, it will turn into a dry bush. "
+      "DisplayName": "大きな枯れ木",
+      "Description": "枯れ木は、砂漠の端や寒い場所で一般的に見られます。植物が自身を維持するのに十分な湿度や日光がない場合、枯れ木に変わります。"
     },
     "SaplingBlock:0": {
-      "DisplayName": "Oak Sapling",
-      "Description": "Saplings are used to plant trees. You can obtain them by crafting from the leaves of trees. When planting, be careful to place the saplings in a well lit place, full of moisture and of correct temperature. Use hygrometer and thermometer to measure these quantities. Oaks like it warm, birches moderately cool and spruces cold. All trees need a lot of humidity. If you plant a sapling in a wrong spot, it will wilt into a dry bush.",
-      "CRDescription:0": "Cut saplings from oak leaves"
+      "DisplayName": "オークの苗木",
+      "Description": "苗木は木を植えるために使用されます。木の葉からクラフトすることで入手できます。植える際は、明るく、湿気が多く、適切な温度の場所に苗木を配置するように注意してください。これらの量を測定するには、湿度計と温度計を使用してください。オークは暖かい場所を好み、白樺は適度に涼しい場所、トウヒは寒い場所を好みます。すべての木は多くの湿度を必要とします。苗木を間違った場所に植えると、枯れて枯れ木になります。",
+      "CRDescription:0": "オークの葉から苗木を採取する"
     },
     "CactusBlock:0": {
-      "DisplayName": "Cactus",
-      "Description": "Cacti are large plants very tolerant to dry conditions, and will often be found growing to large sizes in the desert. They are prickly and cause injuries on touch, so be careful. They will regrow to up to 3 blocks high when only the top part is harvested. A cruel hunter may line their trap pit with these for a more effective kill."
+      "DisplayName": "サボテン",
+      "Description": "サボテンは乾燥に非常に強い大きな植物で、砂漠で大きく成長しているのによく見られます。棘があり、触れると怪我をするので注意してください。上部だけを収穫すると、最大3ブロックの高さまで再生します。残酷な狩人は、より効果的な殺害のために、このサボテンを罠の穴に並べることがあります。"
     },
     "IvyBlock:0": {
-      "DisplayName": "Ivy",
-      "Description": "Ivy is a plant that grows and clings to vertical surfaces. It does not require much light to stay alive, but needs a humid and warm climate."
+      "DisplayName": "ツタ",
+      "Description": "ツタは、垂直な表面に成長し、付着する植物です。生きているためにはあまり多くの光を必要としませんが、湿潤で暖かい気候が必要です。"
     },
     "PumpkinBlock:0": {
-      "DisplayName": "Pumpkin",
-      "Description": "Pumpkins are large, orange vegetables that grow in groups of 5 to 10 plants. When collected, they can be eaten, cooked into pumpkin soup or crafted into Jack O'Lanterns."
+      "DisplayName": "カボチャ",
+      "Description": "カボチャは、5〜10株のグループで育つ、大きくてオレンジ色の野菜です。収穫すると、食べたり、カボチャスープに調理したり、ジャック・オー・ランタンにクラフトしたりできます。"
     },
     "RottenPumpkinBlock:0": {
-      "DisplayName": "Rotten Pumpkin",
-      "Description": "Rotten pumpkin, do not eat."
+      "DisplayName": "腐ったカボチャ",
+      "Description": "腐ったカボチャ、食べないでください。"
     },
     "SeedsBlock:0": {
-      "DisplayName": "Tall Grass Seeds",
-      "Description": "Seeds are used to plant various types of plants, such as grass, flowers and rye. Some plants need well tilled, moist and fertilized soil to grow properly. Otherwise their growth will be stunted and they will not reach full size.",
-      "CRDescription:0": "Extract seeds from tall grass"
+      "DisplayName": "背の高い草の種",
+      "Description": "種は、草、花、ライ麦など、さまざまな種類の植物を植えるために使用されます。一部の植物は、適切に成長するために、よく耕され、湿っており、肥料が与えられた土壌を必要とします。そうでなければ、成長は妨げられ、完全なサイズに達しません。",
+      "CRDescription:0": "背の高い草から種を抽出する"
     },
     "CottonBlock:0": {
-      "DisplayName": "Cotton",
-      "Description": "Cotton is a plant that grows in warm areas. When harvested, provides a number of cotton wads which can be further processed into cotton products."
+      "DisplayName": "綿",
+      "Description": "綿は暖かい地域で育つ植物です。収穫すると、綿の塊が数個得られ、さらに綿製品に加工できます。"
     },
     "CottonWadBlock:0": {
-      "DisplayName": "Cotton Wad",
-      "Description": "Cotton wads are small chunks of packed cotton fibers. They can be processed further into cotton products."
+      "DisplayName": "綿の塊",
+      "Description": "綿の塊は、詰められた綿繊維の小さな塊です。さらに綿製品に加工できます。"
     },
     "SeaUrchinBlock:0": {
-      "DisplayName": "Sea Urchin",
-      "Description": "Sea urchins are small, spiny animals that attach themselves to the sea floor and make a living by filtering nutrients from seawater. They are edible but not very tasty or nutritious."
+      "DisplayName": "ウニ",
+      "Description": "ウニは、海底に付着し、海水を濾過して栄養を摂取して生きる、小さく棘のある動物です。食用ですが、あまり美味しくなく、栄養価も高くありません。"
     },
     "StarfishBlock:0": {
-      "DisplayName": "Starfish",
-      "Description": "Starfish are underwater predators that move slowly over the sea bottom."
+      "DisplayName": "ヒトデ",
+      "Description": "ヒトデは、海底をゆっくりと移動する水中捕食者です。"
     },
     "KelpBlock:0": {
-      "DisplayName": "Kelp",
-      "Description": "Kelp is undersea plant anchored to the sea bottom that reaches up to get access to sunlight. Watch out when swimming because you can get entangled and drown."
+      "DisplayName": "昆布",
+      "Description": "昆布は、日光に当たるために上に伸びる、海底に固定された海中の植物です。泳いでいるときは、絡まって溺れる可能性があるので注意してください。"
     },
     "SeagrassBlock:0": {
-      "DisplayName": "Seagrass",
-      "Description": "Seagrass is undersea plant anchored to the sea bottom that reaches up to get access to sunlight. Watch out when swimming because you can get entangled and drown."
+      "DisplayName": "海草",
+      "Description": "海草は、日光に当たるために上に伸びる、海底に固定された海中の植物です。泳いでいるときは、絡まって溺れる可能性があるので注意してください。"
     },
     "PlanksBlock:0": {
-      "DisplayName": "Planks",
-      "Description": "Planks are a versatile construction material that can be obtained by cutting wood blocks into pieces. A multitude of useful objects, such as a workbench or a chest can be made from planks. Planks are flammable and can be used as a fuel in the furnace. Can be painted.",
-      "CRDescription:0": "Cut a block of wood into planks",
-      "CRDescription:1": "Dismantle wicker lamp"
+      "DisplayName": "板材",
+      "Description": "板材は、木材ブロックを細断して得られる汎用性の高い建築材料です。作業台やチェストなど、多くの便利なオブジェクトを板材から作ることができます。板材は燃えやすく、炉の燃料として使用できます。塗装可能です。",
+      "CRDescription:0": "木材ブロックを板材に切断する",
+      "CRDescription:1": "つるランプを分解する"
     },
     "CobblestoneBlock:0": {
-      "DisplayName": "Cobblestone",
-      "Description": "Cobblestone is a tough stone obtained by mining granite. It is a strong, rugged material that works well when used in construction of walls and floors. By smelting it in a furnace you can obtain pure granite of which it is made. Can be painted."
+      "DisplayName": "丸石",
+      "Description": "丸石は、花崗岩を採掘して得られる丈夫な石です。壁や床の建設に効果的な、強くて頑丈な素材です。炉で製錬することにより、それが作られている純粋な花崗岩を得ることができます。塗装可能です。"
     },
     "StoneBrickBlock:0": {
-      "DisplayName": "Stone Bricks",
-      "Description": "Stone bricks can be made by binding together several stones of regular shape. They are a strong building material, very resilient to explosions and digging.",
-      "CRDescription:0": "Make stone bricks out of stones"
+      "DisplayName": "石レンガ",
+      "Description": "石レンガは、いくつかの規則的な形の石を結合して作ることができます。それらは、爆発や掘削に対して非常に回復力のある、強力な建築材料です。",
+      "CRDescription:0": "石から石レンガを作る"
     },
     "BricksBlock:0": {
-      "DisplayName": "Brick Wall",
-      "Description": "Brick wall can be made by combining several bricks together and binding them with mortar. It is a versatile, strong and good looking building material. Brick walls which are no longer needed can be recycled back into constituent bricks. Can be painted.",
-      "CRDescription:0": "Make brick wall out of bricks"
+      "DisplayName": "レンガの壁",
+      "Description": "レンガの壁は、いくつかのレンガを組み合わせ、モルタルで結合して作ることができます。それは汎用性が高く、丈夫で、見栄えの良い建築材料です。もはや必要とされないレンガの壁は、構成レンガにリサイクルすることができます。塗装可能です。",
+      "CRDescription:0": "レンガからレンガの壁を作る"
     },
     "MarbleBlock:0": {
-      "DisplayName": "Marble",
-      "Description": "A beautiful decorative stone that can be obtained by melting together sand and limestone in a furnace. It is a brittle material that breaks easily.",
-      "CRDescription:0": "Melt sand with limestone to obtain marble"
+      "DisplayName": "大理石",
+      "Description": "炉で砂と石灰岩を一緒に溶かすことで得られる美しい装飾石です。脆い素材で、簡単に壊れます。",
+      "CRDescription:0": "砂と石灰岩を溶かして大理石を得る"
     },
     "MalachiteBlock:0": {
-      "DisplayName": "Malachite Block",
-      "Description": "A block of malachite can be made by combining together many smaller malachite chunks. This material is very decorative but also brittle.",
-      "CRDescription:0": "Combine many malachite chunks into a large block"
+      "DisplayName": "孔雀石ブロック",
+      "Description": "孔雀石ブロックは、多くの小さな孔雀石の塊を一緒に組み合わせることで作ることができます。この素材は非常に装飾的ですが、脆くもあります。",
+      "CRDescription:0": "多くの孔雀石の塊を組み合わせて大きなブロックにする"
     },
     "DiamondBlock:0": {
-      "DisplayName": "Solid Diamond Block",
-      "Description": "A block of diamond. Extremely valuable, contains multiple diamond crystals combined into one large block. Good for decorative purposes. Be careful, because diamond is flammable and will burn when touched by magma or set on fire by a lightning.",
-      "CRDescription:0": "Combine many diamonds into a large block"
+      "DisplayName": "固形ダイヤモンドブロック",
+      "Description": "ダイヤモンドのブロックです。非常に価値が高く、複数のダイヤモンド結晶が1つの大きなブロックに組み合わされています。装飾目的に適しています。注意してください。ダイヤモンドは燃えやすく、マグマに触れたり、雷で火がついたりすると燃焼します。",
+      "CRDescription:0": "多くのダイヤモンドを組み合わせて大きなブロックにする"
     },
     "IronBlock:0": {
-      "DisplayName": "Solid Iron Block",
-      "Description": "A block of pure iron. Very heavy and durable. Extremely resilient to digging and explosions. Can be crafted from multiple iron ingots. Can be painted.",
-      "CRDescription:0": "Combine many iron ingots into a large block"
+      "DisplayName": "固形鉄ブロック",
+      "Description": "純鉄のブロックです。非常に重く丈夫です。掘削や爆発に対して非常に強い耐性があります。複数の鉄インゴットからクラフトできます。塗装可能です。",
+      "CRDescription:0": "多くの鉄インゴットを組み合わせて大きなブロックにする"
     },
     "CopperBlock:0": {
-      "DisplayName": "Solid Copper Block",
-      "Description": "A block of pure copper. Very heavy and durable. Extremely resilient to digging and explosions. Can be crafted from multiple copper ingots. Can be painted.",
-      "CRDescription:0": "Combine many copper ingots into a large block"
+      "DisplayName": "固形銅ブロック",
+      "Description": "純銅のブロックです。非常に重く丈夫です。掘削や爆発に対して非常に強い耐性があります。複数の銅インゴットからクラフトできます。塗装可能です。",
+      "CRDescription:0": "多くの銅インゴットを組み合わせて大きなブロックにする"
     },
     "SemiconductorBlock:0": {
-      "DisplayName": "Semiconductor Block",
-      "Description": "A block of semiconductor.",
-      "CRDescription:0": "Combine many germanium crystals into a semiconductor block"
+      "DisplayName": "半導体ブロック",
+      "Description": "半導体のブロックです。",
+      "CRDescription:0": "多くのゲルマニウム結晶を組み合わせて半導体ブロックにする"
     },
     "GlassBlock:0": {
-      "DisplayName": "Glass",
-      "Description": "Transparent block made by smelting sand in the furnace. Very useful for making windows and brightening up dark rooms. It is a very brittle material that will irrecoverably shatter when hit by something hard.",
-      "CRDescription:0": "Melt sand to obtain glass"
+      "DisplayName": "ガラス",
+      "Description": "炉で砂を製錬して作られた透明なブロックです。窓の作成や暗い部屋を明るくするのに非常に役立ちます。非常に脆い素材で、硬いものに当たると回復不能に粉砕されます。",
+      "CRDescription:0": "砂を溶かしてガラスを得る"
     },
     "FramedGlassBlock:0": {
-      "DisplayName": "Framed Glass",
-      "Description": "A glass block can be made stronger and more decorative by framing it in wooden sticks. Perfect for making windows.",
-      "CRDescription:0": "Frame glass with wood"
+      "DisplayName": "額縁付きガラス",
+      "Description": "ガラスブロックは、木の棒で額縁に入れることで、より強く装飾的にすることができます。窓の作成に最適です。",
+      "CRDescription:0": "木でガラスに額縁を付ける"
     },
     "WindowBlock:0": {
-      "DisplayName": "Window",
-      "Description": "A glass block can be made stronger and more decorative by framing it in wooden sticks. Perfect for making windows.",
-      "CRDescription:0": "Frame glass with wood"
+      "DisplayName": "窓",
+      "Description": "ガラスブロックは、木の棒で額縁に入れることで、より強く装飾的にすることができます。窓の作成に最適です。",
+      "CRDescription:0": "木でガラスに額縁を付ける"
     },
     "WoodenStairsBlock:0": {
-      "DisplayName": "Wooden Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "木製階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "StoneStairsBlock:0": {
-      "DisplayName": "Stone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "石製階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "CobblestoneStairsBlock:0": {
-      "DisplayName": "Cobblestone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "丸石階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "StoneBrickStairsBlock:0": {
-      "DisplayName": "Stone Brick Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "石レンガ階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "BrickStairsBlock:0": {
-      "DisplayName": "Brick Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "レンガ階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "SandstoneStairsBlock:0": {
-      "DisplayName": "Sandstone Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "砂岩階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "MarbleStairsBlock:0": {
-      "DisplayName": "Marble Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "大理石階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "BasaltStairsBlock:0": {
-      "DisplayName": "Basalt Stairs",
-      "Description": "Stairs make it easy to climb slopes. You no longer need to constantly jump and climb vertical faces, instead you move faster, saving time and energy. Stairs can be crafted from various materials. Stairs can also be placed upside-down on the ceilings. Can be painted.",
-      "CRDescription:0": "Make stairs to be able to climb heights quicker"
+      "DisplayName": "玄武岩階段",
+      "Description": "階段は斜面を登りやすくします。絶えずジャンプして垂直な面を登る必要がなくなり、より速く移動して時間とエネルギーを節約できます。階段はさまざまな素材からクラフトできます。階段は天井に逆さまに配置することもできます。塗装可能です。",
+      "CRDescription:0": "より速く高さを登れるように階段を作る"
     },
     "WoodenSlabBlock:0": {
-      "DisplayName": "Wooden Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "木製スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "StoneSlabBlock:0": {
-      "DisplayName": "Stone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "石製スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "CobblestoneSlabBlock:0": {
-      "DisplayName": "Cobblestone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "丸石スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "StoneBrickSlabBlock:0": {
-      "DisplayName": "Stone Brick Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "石レンガスラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "BrickSlabBlock:0": {
-      "DisplayName": "Brick Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "レンガスラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "SandstoneSlabBlock:0": {
-      "DisplayName": "Sandstone Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "砂岩スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "MarbleSlabBlock:0": {
-      "DisplayName": "Marble Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "大理石スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "BasaltSlabBlock:0": {
-      "DisplayName": "Basalt Slab",
-      "Description": "Slabs are half-height blocks, which can be crafted from a variety of different materials. They can be used to cover floors at a cheaper cost than full size blocks. They can also be used to make long stairs, where each unit of length moves one up by a half unit of height. Slabs can also be affixed to the ceilings. Can be painted.",
-      "CRDescription:0": "Make slabs for decoration purposes"
+      "DisplayName": "玄武岩スラブ",
+      "Description": "スラブは半分の高さのブロックで、さまざまな素材からクラフトできます。フルサイズのブロックよりも安価なコストで床を覆うために使用できます。また、各単位の長さが半単位ずつ高くなる長い階段を作るためにも使用できます。スラブは天井に取り付けることもできます。塗装可能です。",
+      "CRDescription:0": "装飾目的でスラブを作る"
     },
     "BrickBlock:0": {
-      "DisplayName": "Brick",
-      "Description": "Bricks are obtained by firing clay blocks in the furnace. They are the most versatile building material available, because objects constructed from bricks can be broken down into the constituent bricks if no longer needed.",
-      "CRDescription:0": "Fire clay to make bricks",
-      "CRDescription:1": "Recycle bricks from a brick wall",
-      "CRDescription:2": "Recycle bricks from brick stairs",
-      "CRDescription:3": "Recycle bricks from a brick slab"
+      "DisplayName": "レンガ",
+      "Description": "レンガは、炉で粘土ブロックを焼成することで得られます。それらは利用可能な最も汎用性の高い建築材料であり、レンガから構築されたオブジェクトは、もはや必要とされない場合、構成レンガに分解できます。",
+      "CRDescription:0": "粘土を焼いてレンガを作る",
+      "CRDescription:1": "レンガの壁からレンガをリサイクルする",
+      "CRDescription:2": "レンガの階段からレンガをリサイクルする",
+      "CRDescription:3": "レンガのスラブからレンガをリサイクルする"
     },
     "SnowballBlock:0": {
-      "DisplayName": "Snowball",
-      "Description": "Snowballs are made by compacting snow in one's hands. Soft and light, they can be thrown without risk of inflicting damage on the surroundings or injuries in the bystanders. Perfect for fun fights. Be careful when throwing them at dangerous animals, they will usually take a dim view of that."
+      "DisplayName": "雪玉",
+      "Description": "雪玉は、手に雪を圧縮して作られます。柔らかくて軽いので、周囲にダメージを与えたり、傍観者に怪我をさせたりするリスクなしに投げることができます。楽しい戦いに最適です。危険な動物に投げつけるときは注意してください。通常、彼らはそれを好意的に見ません。"
     },
     "WoodenDoorBlock:0": {
-      "DisplayName": "Wooden Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make doors from wood"
+      "DisplayName": "木製ドア",
+      "Description": "ドアは、建物への入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、ドアは電気信号のエッジで開閉します。鉄製のドアは、電気的に接続されている場合、手動で操作できません。",
+      "CRDescription:0": "木からドアを作る"
     },
     "IronDoorBlock:0": {
-      "DisplayName": "Iron Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make strong doors from iron"
+      "DisplayName": "鉄製ドア",
+      "Description": "ドアは、建物への入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、ドアは電気信号のエッジで開閉します。鉄製のドアは、電気的に接続されている場合、手動で操作できません。",
+      "CRDescription:0": "鉄から丈夫なドアを作る"
     },
     "CellDoorBlock:0": {
-      "DisplayName": "Cell Door",
-      "Description": "Doors are used to make entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, doors will open or close on the rising edge of electric signal. Iron doors cannot be operated manually when electrically connected.",
-      "CRDescription:0": "Make cell doors from rods"
+      "DisplayName": "セルドア",
+      "Description": "ドアは、建物への入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、ドアは電気信号のエッジで開閉します。鉄製のドアは、電気的に接続されている場合、手動で操作できません。",
+      "CRDescription:0": "棒からセルドアを作る"
     },
     "WoodenTrapdoorBlock:0": {
-      "DisplayName": "Wooden Trapdoor",
-      "Description": "Trapdoors are used to make vertical entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, trapdoors will open or close on the rising edge of electric signal. Iron trapdoors cannot be operated manually when electrically connected. They can be placed normally or upside-down, depending whether they are attached to top or bottom side of the block. Upside-down trapdoors will stop falling blocks.",
-      "CRDescription:0": "Make trapdoors from wood"
+      "DisplayName": "木製トラップドア",
+      "Description": "トラップドアは、建物への垂直な入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、トラップドアは電気信号のエッジで開閉します。鉄製のトラップドアは、電気的に接続されている場合、手動で操作できません。ブロックの上側または下側に接続されているかどうかに応じて、通常または逆さまに配置できます。逆さまのトラップドアは、落下するブロックを停止します。",
+      "CRDescription:0": "木からトラップドアを作る"
     },
     "CellTrapdoorBlock:0": {
-      "DisplayName": "Cell Trapdoor",
-      "Description": "Trapdoors are used to make vertical entrances to buildings. They can be opened and closed by clicking on them. When connected to a copper wire, trapdoors will open or close on the rising edge of electric signal. Iron trapdoors cannot be operated manually when electrically connected. They can be placed normally or upside-down, depending whether they are attached to top or bottom side of the block. Upside-down trapdoors will stop falling blocks.",
-      "CRDescription:0": "Make strong trapdoors from iron"
+      "DisplayName": "セルトラップドア",
+      "Description": "トラップドアは、建物への垂直な入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、トラップドアは電気信号のエッジで開閉します。鉄製のトラップドアは、電気的に接続されている場合、手動で操作できません。ブロックの上側または下側に接続されているかどうかに応じて、通常または逆さまに配置できます。逆さまのトラップドアは、落下するブロックを停止します。",
+      "CRDescription:0": "鉄から丈夫なトラップドアを作る"
     },
     "WoodenLadderBlock:0": {
-      "DisplayName": "Wooden Ladder",
-      "Description": "Ladders are made from sticks or rods. They make it easy to climb and descend tall walls safely. It's safest to climb both up and down facing the wall. That means you have to approach backwards when entering the ladder from the top.",
-      "CRDescription:0": "Make wooden ladders to be able to climb vertical surfaces"
+      "DisplayName": "木製はしご",
+      "Description": "はしごは、棒または棒から作られています。背の高い壁を安全に登り下りしやすくします。壁に面して上下に登るのが最も安全です。つまり、上からのはしごに入る際には、後ろ向きに近づく必要があります。",
+      "CRDescription:0": "垂直な表面を登れるように木製のはしごを作る"
     },
     "IronLadderBlock:0": {
-      "DisplayName": "Iron Ladder",
-      "Description": "Ladders are made from sticks or rods. They make it easy to climb and descend tall walls safely. It's safest to climb both up and down facing the wall. That means you have to approach backwards when entering the ladder from the top.",
-      "CRDescription:0": "Make iron ladders to be able to climb vertical surfaces"
+      "DisplayName": "鉄製はしご",
+      "Description": "はしごは、棒または棒から作られています。背の高い壁を安全に登り下りしやすくします。壁に面して上下に登るのが最も安全です。つまり、上からのはしごに入る際には、後ろ向きに近づく必要があります。",
+      "CRDescription:0": "垂直な表面を登れるように鉄製のはしごを作る"
     },
     "WickerLampBlock:0": {
-      "DisplayName": "Wicker Lamp",
-      "Description": "Wicker lamp is a torch placed inside a wooden and wicker shade. It gives off slightly more light than the pure torch and is a nice, decorative item.",
-      "CRDescription:0": "Put a torch inside of a shade to make a lamp"
+      "DisplayName": "つるランプ",
+      "Description": "つるランプは、木とつるのシェードの中に置かれたトーチです。純粋なトーチよりもわずかに多くの光を放ち、 nicely 装飾的なアイテムです。",
+      "CRDescription:0": "トーチをシェードの中に入れてランプを作る"
     },
     "TorchBlock:0": {
-      "DisplayName": "Torch",
-      "Description": "Torch is a piece of flammable coal affixed to a wooden stick. When attached to a wall or placed on the floor, it emits light. It is the easiest and cheapest way to light interiors of buildings or underground corridors.",
-      "CRDescription:0": "Affix a burning coal to a stick to make a torch"
+      "DisplayName": "トーチ",
+      "Description": "トーチは、木製の棒に取り付けられた可燃性の石炭のピースです。壁に取り付けられたり、床に置かれたりすると、光を発します。建物や地下通路の内部を照らす最も簡単で安価な方法です。",
+      "CRDescription:0": "燃えている石炭を棒に取り付けてトーチを作る"
     },
     "StickBlock:0": {
-      "DisplayName": "Stick",
-      "Description": "Sticks are made by cutting wooden planks into pieces. They are a versatile building material used in construction of many items, such as torches, ladders or fences. They can also be used as a last resort weapon or tool, although their attack power is low.",
-      "CRDescription:0": "Cut a wooden plank into sticks"
+      "DisplayName": "棒",
+      "Description": "棒は、木の板を細断して作られます。トーチ、はしご、フェンスなど、多くのアイテムの建設に使用される汎用性の高い建築材料です。また、最後の手段の武器や道具としても使用できますが、攻撃力は低いです。",
+      "CRDescription:0": "木の板を棒に切る"
     },
     "IronIngotBlock:0": {
-      "DisplayName": "Iron Ingot",
-      "Description": "An ingot of pure iron. Can be crafted into very durable and strong iron tools. Only diamond-edged tools can best them. Combine multiple ingots to form an iron block.",
-      "CRDescription:0": "Smelt iron ore to obtain iron",
-      "CRDescription:1": "Dismantle iron block into ingots"
-    },
-    "CopperIngotBlock:0": {
-      "DisplayName": "Copper Ingot",
-      "Description": "An ingot of pure copper. Can be crafted into copper tools, such as buckets, wires and other electric devices. Combine multiple ingots to form a copper block.",
-      "CRDescription:0": "Smelt copper ore to obtain copper",
-      "CRDescription:1": "Dismantle copper block into ingots"
-    },
-    "RodBlock:0": {
-      "DisplayName": "Rod",
-      "Description": "Rods are made by forging iron into shape. They are useful for making fences, doors and other things.",
-      "CRDescription:0": "Forge an iron ingot into rods"
-    },
-    "CraftingTableBlock:0": {
-      "DisplayName": "Workbench",
-      "Description": "Workbench is a piece of workshop furniture made of wood. It is a very important item, because it allows you to craft items that require more than 2x2 crafting slots. All craftable items can be made on it, provided that you have the required materials.",
-      "CRDescription:0": "Make a crafting table from planks"
-    },
-    "FurnaceBlock:0": {
-      "DisplayName": "Furnace",
-      "Description": "A furnace is an enclosure made from fire resistant stone, in which a high temperature is maintained by burning combustible fuel. It is an important item that allows smelting, cooking and other forms of heat processing. The best fuel for the furnace are coal chunks, but wood and even leaves can be used if coal is unavailable. Furnace can be left unattended while working. It also emits a small amount of light.",
-      "CRDescription:0": "Make a furnace from stone"
-    },
+  "DisplayName": "鉄インゴット",
+  "Description": "純粋な鉄のインゴット。非常に耐久性が高く強力な鉄の道具に加工できる。ダイヤモンドの刃を持つ道具だけがそれを上回る。複数のインゴットを組み合わせて鉄ブロックを作ることができる。",
+  "CRDescription:0": "鉄鉱石を精錬して鉄を入手する",
+  "CRDescription:1": "鉄ブロックを分解してインゴットにする"
+},
+"CopperIngotBlock:0": {
+  "DisplayName": "銅インゴット",
+  "Description": "純粋な銅のインゴット。バケツやワイヤー、その他の電気装置などの銅製ツールに加工できる。複数のインゴットを組み合わせて銅ブロックを作ることができる。",
+  "CRDescription:0": "銅鉱石を精錬して銅を入手する",
+  "CRDescription:1": "銅ブロックを分解してインゴットにする"
+},
+"RodBlock:0": {
+  "DisplayName": "ロッド",
+  "Description": "ロッドは鉄を鍛造して作られる。フェンスやドア、その他の物を作るのに役立つ。",
+  "CRDescription:0": "鉄インゴットを鍛造してロッドを作る"
+},
+"CraftingTableBlock:0": {
+  "DisplayName": "作業台",
+  "Description": "作業台は木で作られた作業用家具。非常に重要なアイテムで、2x2以上のクラフトスロットが必要なアイテムを作成できる。必要な材料があれば、すべてのクラフト可能なアイテムをここで作れる。",
+  "CRDescription:0": "板材から作業台を作る"
+},
+"FurnaceBlock:0": {
+  "DisplayName": "かまど",
+  "Description": "かまどは耐火石で作られた装置で、燃料を燃やして高温を維持する。精錬や調理などの熱処理に必要な重要アイテム。最適な燃料は石炭だが、木や葉でも代用可能。作業中に放置可能で、わずかな光も発する。",
+  "CRDescription:0": "石からかまどを作る"
+},
     "LitFurnaceBlock:0": {
-      "DisplayName": "Furnace",
-      "Description": "A furnace is an enclosure made from fire resistant stone, in which a high temperature is maintained by burning combustible fuel. It is an important item that allows smelting, cooking and other forms of heat processing. The best fuel for the furnace are coal chunks, but wood and even leaves can be used if coal is unavailable. Furnace can be left unattended while working. It also emits a small amount of light."
+      "DisplayName": "炉",
+      "Description": "炉は耐火石で作られた囲いで、可燃性燃料を燃やすことで高温が維持されます。製錬、調理、その他の熱処理を可能にする重要なアイテムです。炉の最良の燃料は石炭の塊ですが、石炭が利用できない場合は木材や葉さえも使用できます。炉は作業中に放置することができます。また、わずかな光も発します。"
     },
     "ChestBlock:0": {
-      "DisplayName": "Chest",
-      "Description": "A chest made of wood is a good place to store excess items that you can't or don't want to carry. It will hold up to 16 stacks of items.",
-      "CRDescription:0": "Make a storage chest from planks"
+      "DisplayName": "チェスト",
+      "Description": "木製のチェストは、持ちきれない、または持ちたくない余分なアイテムを保管するのに適した場所です。最大16スタックのアイテムを収納できます。",
+      "CRDescription:0": "板材から収納チェストを作る"
     },
     "DispenserBlock:0": {
-      "DisplayName": "Dispenser",
-      "Description": "A dispenser stores items in a similar way to a chest, but allows dispensing them through the hole when triggered via rising edge of an electric signal. It can either dispense the item or shoot it as projectile, depending on the setting.",
-      "CRDescription:0": "Make a dispenser from planks, bow and germanium"
+      "DisplayName": "ディスペンサー",
+      "Description": "ディスペンサーはチェストと同様の方法でアイテムを保管しますが、電気信号のエッジでトリガーされると穴からアイテムを分配できます。設定に応じて、アイテムを分配することも、弾道として発射することもできます。",
+      "CRDescription:0": "板材、弓、ゲルマニウムからディスペンサーを作る"
     },
     "SpikedPlankBlock:0": {
-      "DisplayName": "Spiked Plank",
-      "Description": "Wooden spikes penetrate flesh. The spiked planks can be placed on the floor, on the walls and on the ceiling. Touching them will cause injury. Trap pits are often lined with them. Spikes can be electrically controlled and will extend\/retract on a rising edge of an electric signal.",
-      "CRDescription:0": "Make sharp spiked planks from wood and sticks"
+      "DisplayName": "スパイク付き板",
+      "Description": "木のスパイクは肉を貫通します。スパイク付き板は、床、壁、天井に配置できます。触れると怪我をします。罠の穴にはしばしばこれらが敷かれています。スパイクは電気的に制御でき、電気信号のエッジで拡張・格納されます。",
+      "CRDescription:0": "木と棒から鋭いスパイク付き板を作る"
     },
     "GrassTrapBlock:0": {
-      "DisplayName": "Grass Trap",
-      "Description": "Grass trap is a deception device that resembles grass but collapses when something heavy stands on it. It's used for concealing traps so that an animal, unwary of the trap will walk on it and fall into the pit. It can only be crafted from oak leaves, no other leaves will work.",
-      "CRDescription:0": "Make grass trap from oak leaves to conceal deep pits"
+      "DisplayName": "草の罠",
+      "Description": "草の罠は、草に似ていますが、重いものが乗ると崩れる欺瞞的な装置です。罠を隠すために使用され、罠に気づかない動物がその上を歩いて穴に落ちるようにします。オークの葉からのみクラフトでき、他の葉では機能しません。",
+      "CRDescription:0": "深い穴を隠すためにオークの葉から草の罠を作る"
     },
     "WoodenFenceBlock:0": {
-      "DisplayName": "Wooden Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from wooden sticks to enclose areas"
+      "DisplayName": "木製フェンス",
+      "Description": "フェンスは、エリアを囲み、動物が外に出たり、捕食者が中に入ったりするのを防ぐために使用されます。フェンスの支柱は、柱や家具の要素として使用できます。塗装可能です。",
+      "CRDescription:0": "エリアを囲むために木の棒からフェンスを作る"
     },
     "WoodenFenceGateBlock:0": {
-      "DisplayName": "Wooden Fence Gate",
-      "Description": "Gates are used to make entrances to fenced areas. They can be opened and closed by clicking on them. When connected to a copper wire, gates will open or close on the rising edge of electric signal. Animals can't jump a fence gate. Can be painted.",
-      "CRDescription:0": "Make a fence gate from wooden sticks and planks"
+      "DisplayName": "木製フェンスゲート",
+      "Description": "ゲートは、囲まれたエリアへの入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、ゲートは電気信号のエッジで開閉します。動物はフェンスゲートを飛び越えることはできません。塗装可能です。",
+      "CRDescription:0": "木の棒と板材からフェンスゲートを作る"
     },
     "IronFenceBlock:0": {
-      "DisplayName": "Iron Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from rods to enclose areas"
+      "DisplayName": "鉄製フェンス",
+      "Description": "フェンスは、エリアを囲み、動物が外に出たり、捕食者が中に入ったりするのを防ぐために使用されます。フェンスの支柱は、柱や家具の要素として使用できます。塗装可能です。",
+      "CRDescription:0": "エリアを囲むために棒からフェンスを作る"
     },
     "IronFenceGateBlock:0": {
-      "DisplayName": "Iron Fence Gate",
-      "Description": "Gates are used to make entrances to fenced areas. They can be opened and closed by clicking on them. When connected to a copper wire, gates will open or close on the rising edge of electric signal. Animals can't jump a fence gate. Can be painted.",
-      "CRDescription:0": "Make a fence gate from rods and ingots"
+      "DisplayName": "鉄製フェンスゲート",
+      "Description": "ゲートは、囲まれたエリアへの入り口を作るために使用されます。クリックすることで開閉できます。銅線に接続されている場合、ゲートは電気信号のエッジで開閉します。動物はフェンスゲートを飛び越えることはできません。塗装可能です。",
+      "CRDescription:0": "棒とインゴットからフェンスゲートを作る"
     },
     "StoneFenceBlock:0": {
-      "DisplayName": "Stone Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from stone to enclose areas"
+      "DisplayName": "石製フェンス",
+      "Description": "フェンスは、エリアを囲み、動物が外に出たり、捕食者が中に入ったりするのを防ぐために使用されます。フェンスの支柱は、柱や家具の要素として使用できます。塗装可能です。",
+      "CRDescription:0": "エリアを囲むために石からフェンスを作る"
     },
     "BrickFenceBlock:0": {
-      "DisplayName": "Brick Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from bricks to enclose areas"
+      "DisplayName": "レンガフェンス",
+      "Description": "フェンスは、エリアを囲み、動物が外に出たり、捕食者が中に入ったりするのを防ぐために使用されます。フェンスの支柱は、柱や家具の要素として使用できます。塗装可能です。",
+      "CRDescription:0": "エリアを囲むためにレンガからフェンスを作る"
     },
     "BasaltFenceBlock:0": {
-      "DisplayName": "Basalt Fence",
-      "Description": "Fences are used to enclose areas and prevent animals from going outside and predators from coming inside. Fence posts can be used as pillars or furniture elements. Can be painted.",
-      "CRDescription:0": "Make a fence from basalt to enclose areas"
+      "DisplayName": "玄武岩フェンス",
+      "Description": "フェンスは、エリアを囲み、動物が外に出たり、捕食者が中に入ったりするのを防ぐために使用されます。フェンスの支柱は、柱や家具の要素として使用できます。塗装可能です。",
+      "CRDescription:0": "エリアを囲むために玄武岩からフェンスを作る"
     },
     "WoodenPostedSignBlock:0": {
-      "DisplayName": "Wooden Sign",
-      "Description": "Signs can contain up to 4 lines of black or colored text. They can be affixed to a vertical surface, placed on a post anchored in the ground, or hung from the ceiling. A sign can be made to act as an internet link by specifying a URL (URLs only work in Adventure mode). When attached to a copper wire, the sign message will be displayed on the screen on the rising edge of an electric signal. Use \\ (backslash) to continue message in the same line. Can be painted.",
-      "CRDescription:0": "Make printable wooden signs from wood"
+      "DisplayName": "木製看板",
+      "Description": "看板には、黒または着色されたテキストを最大4行まで含めることができます。垂直な表面に取り付けたり、地面に固定された柱に立てたり、天井から吊り下げたりできます。看板は、URLを指定することでインターネットリンクとして機能させることができます（URLはアドベンチャーモードでのみ機能します）。銅線に接続すると、電気信号のエッジで看板メッセージが画面に表示されます。同じ行でメッセージを続けるには\\（バックスラッシュ）を使用してください。塗装可能です。",
+      "CRDescription:0": "木材から印刷可能な木製看板を作る"
     },
     "WoodenAttachedSignBlock:0": {
-      "DisplayName": "Wooden Sign",
+      "DisplayName": "木製看板",
       "Description": ""
     },
     "IronPostedSignBlock:0": {
-      "DisplayName": "Iron Sign",
-      "Description": "Signs can contain up to 4 lines of black or colored text. They can be affixed to a vertical surface, placed on a post anchored in the ground, or hung from the ceiling. A sign can be made to act as an internet link by specifying a URL (URLs only work in Adventure mode). When attached to a copper wire, the sign message will be displayed on the screen on the rising edge of an electric signal. Use \\ (backslash) to continue message in the same line. Can be painted.",
-      "CRDescription:0": "Make printable metal signs from iron"
+      "DisplayName": "鉄製看板",
+      "Description": "看板には、黒または着色されたテキストを最大4行まで含めることができます。垂直な表面に取り付けたり、地面に固定された柱に立てたり、天井から吊り下げたりできます。看板は、URLを指定することでインターネットリンクとして機能させることができます（URLはアドベンチャーモードでのみ機能します）。銅線に接続すると、電気信号のエッジで看板メッセージが画面に表示されます。同じ行でメッセージを続けるには\\（バックスラッシュ）を使用してください。塗装可能です。",
+      "CRDescription:0": "鉄から印刷可能な金属看板を作る"
     },
     "IronAttachedSignBlock:0": {
-      "DisplayName": "Iron Sign",
+      "DisplayName": "鉄製看板",
       "Description": ""
     },
     "SmallGunpowderKegBlock:0": {
-      "DisplayName": "Small Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "小型火薬樽",
+      "Description": "火薬樽は、火薬が詰められた密閉された木製容器で、上部に短い導火線が付いています。導火線はマッチで点火するか、電気的に作動させることができます。樽は数秒後に壊滅的な力で爆発し、爆風範囲内のブロックを破壊し、あらゆる生物を殺します。石、鉄、ダイヤモンドなどの特定のブロックは、他のブロックよりも爆発に対して耐性があります。ヒューズの遅延なしで瞬時に爆発させるには、起爆装置を使用してください。",
+      "CRDescription:0": "密閉された樽に火薬を入れて爆発させる"
     },
     "MediumGunpowderKegBlock:0": {
-      "DisplayName": "Medium Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "中型火薬樽",
+      "Description": "火薬樽は、火薬が詰められた密閉された木製容器で、上部に短い導火線が付いています。導火線はマッチで点火するか、電気的に作動させることができます。樽は数秒後に壊滅的な力で爆発し、爆風範囲内のブロックを破壊し、あらゆる生物を殺します。石、鉄、ダイヤモンドなどの特定のブロックは、他のブロックよりも爆発に対して耐性があります。ヒューズの遅延なしで瞬時に爆発させるには、起爆装置を使用してください。",
+      "CRDescription:0": "密閉された樽に火薬を入れて爆発させる"
     },
     "LargeGunpowderKegBlock:0": {
-      "DisplayName": "Large Gunpowder Keg",
-      "Description": "Gunpowder keg is a sealed, wooden container filled with gunpowder, with a short fuse attached on the top. The fuse can be lit with a match or initiated electrically. The keg will explode after several seconds with devastating force, destroying blocks and killing any creatures within the blast range. Certain blocks, such as stone, iron and diamond are more resilient to explosions than others. Use detonators to cause an instantaneous explosion without fuse delay.",
-      "CRDescription:0": "Put gunpowder in a sealed keg to make it explode"
+      "DisplayName": "大型火薬樽",
+      "Description": "火薬樽は、火薬が詰められた密閉された木製容器で、上部に短い導火線が付いています。導火線はマッチで点火するか、電気的に作動させることができます。樽は数秒後に壊滅的な力で爆発し、爆風範囲内のブロックを破壊し、あらゆる生物を殺します。石、鉄、ダイヤモンドなどの特定のブロックは、他のブロックよりも爆発に対して耐性があります。ヒューズの遅延なしで瞬時に爆発させるには、起爆装置を使用してください。",
+      "CRDescription:0": "密閉された樽に火薬を入れて爆発させる"
     },
     "SmallIncendiaryKegBlock:0": {
-      "DisplayName": "Small Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "小型焼夷樽",
+      "Description": "焼夷樽は、焼夷性材料が追加された火薬樽です。通常の火薬樽よりも弱いですが、その破片は可燃物に火をつけます。森の近くで使用しないでください！",
+      "CRDescription:0": "火薬樽に硫黄を加えて焼夷樽にする"
     },
     "MediumIncendiaryKegBlock:0": {
-      "DisplayName": "Medium Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "中型焼夷樽",
+      "Description": "焼夷樽は、焼夷性材料が追加された火薬樽です。通常の火薬樽よりも弱いですが、その破片は可燃物に火をつけます。森の近くで使用しないでください！",
+      "CRDescription:0": "火薬樽に硫黄を加えて焼夷樽にする"
     },
     "LargeIncendiaryKegBlock:0": {
-      "DisplayName": "Large Incendiary Keg",
-      "Description": "Incendiary keg is a gunpowder keg with added incendiary materials. It is weaker than regular gunpowder keg but its debris sets flammable objects on fire. Do not use near forests!",
-      "CRDescription:0": "Add sulphur to a gunpowder keg to make it incendiary"
+      "DisplayName": "大型焼夷樽",
+      "Description": "焼夷樽は、焼夷性材料が追加された火薬樽です。通常の火薬樽よりも弱いですが、その破片は可燃物に火をつけます。森の近くで使用しないでください！",
+      "CRDescription:0": "火薬樽に硫黄を加えて焼夷樽にする"
     },
     "GravestoneBlock:0": {
-      "DisplayName": "Gravestone",
-      "Description": "Gravestone marks a final resting place of past inhabitant of this land.",
-      "CRDescription:0": "Craft gravestone from granite"
+      "DisplayName": "墓石",
+      "Description": "墓石はこの土地の過去の住民の最後の安息地を示しています。",
+      "CRDescription:0": "花崗岩から墓石を作る"
     },
     "BoatBlock:0": {
-      "DisplayName": "Boat",
-      "Description": "Boat allows you to cross large areas of water safely and quickly.",
-      "CRDescription:0": "Craft boat from planks"
+      "DisplayName": "ボート",
+      "Description": "ボートを使用すると、広大な水域を安全かつ迅速に横断できます。",
+      "CRDescription:0": "板材からボートを作る"
     },
     "FeatherBlock:0": {
-      "DisplayName": "Feather",
-      "Description": "Feathers come from birds' tails and can be used as stabilizers in arrows."
+      "DisplayName": "羽",
+      "Description": "羽は鳥の尾から取れ、矢の安定化に使用できます。"
     },
     "StringBlock:0": {
-      "DisplayName": "String",
-      "Description": "Strings can be made from ivy.",
-      "CRDescription:0": "Make a string from ivy",
-      "CRDescription:1": "Make strings from cotton"
+      "DisplayName": "糸",
+      "Description": "糸はツタから作ることができます。",
+      "CRDescription:0": "ツタから糸を作る",
+      "CRDescription:1": "綿から糸を作る"
     },
     "CanvasBlock:0": {
-      "DisplayName": "Canvas",
-      "Description": "Canvas is a heavy fabric woven of cotton threads. It is good for making light clothes.",
-      "CRDescription:0": "Make sheets of canvas from cotton"
+      "DisplayName": "キャンバス",
+      "Description": "キャンバスは、綿糸で織られた丈夫な布です。軽い衣類の作成に適しています。",
+      "CRDescription:0": "綿からキャンバスシートを作る"
     },
     "CarpetBlock:0": {
-      "DisplayName": "Carpet",
-      "Description": "Carpet is a decorative material laid on the floor. Can be dyed by bathing in a paint bucket in a heated furnace.",
-      "CRDescription:0": "Make carpet from canvas"
+      "DisplayName": "カーペット",
+      "Description": "カーペットは床に敷かれる装飾材料です。加熱された炉でペイントバケツに浸すことで染色できます。",
+      "CRDescription:0": "キャンバスからカーペットを作る"
     },
     "CampfireBlock:0": {
-      "DisplayName": "Campfire",
-      "Description": "Campfire is easy to construct, provides heat, light and keeps predators away. You can make it bigger by throwing combustible items on top, such as sticks, leaves, wood blocks, planks etc.",
-      "CRDescription:0": "Craft campfire from sticks"
+      "DisplayName": "キャンプファイヤー",
+      "Description": "キャンプファイヤーは簡単に作れ、熱と光を提供し、捕食者を遠ざけます。棒、葉、木材ブロック、板材などの可燃物を上に投げ込むことで大きくすることができます。",
+      "CRDescription:0": "棒からキャンプファイヤーを作る"
     },
     "GunpowderBlock:0": {
-      "DisplayName": "Gunpowder",
-      "Description": "A substance capable of burning in an oxygenless environment because it contains its own source of oxygen, saltpeter. When burning, gunpowder emits large amounts of hot gases. Will explode with devastating force if confined in a small volume, such as a keg, and ignited.",
-      "CRDescription:0": "Combine coal, sulphur and saltpeter to make gunpowder"
+      "DisplayName": "火薬",
+      "Description": "酸素源である硝石自体を含んでいるため、酸素のない環境で燃焼できる物質です。燃焼時、火薬は大量の熱ガスを放出します。樽のような小さな空間に閉じ込められ、点火されると壊滅的な力で爆発します。",
+      "CRDescription:0": "石炭、硫黄、硝石を組み合わせて火薬を作る"
     },
     "PigmentBlock:0": {
-      "DisplayName": "White Pigment",
-      "Description": "Pigment is the main constituent of paints. It can be obtained by firing limestone in the furnace until it turns to white powder. To make white paint, boil the pigment in water using the furnace.",
-      "CRDescription:0": "Fire limestone to make white pigment"
+      "DisplayName": "白色顔料",
+      "Description": "顔料は塗料の主成分です。石灰岩を炉で焼成し、白い粉末にすることで得られます。白色塗料を作るには、顔料を炉で水で煮沸します。",
+      "CRDescription:0": "石灰岩を焼いて白色顔料を作る"
     },
     "JackOLanternBlock:0": {
-      "DisplayName": "Jack O'Lantern",
-      "Description": "Jack O'Lanterns are usually carved from ripe pumpkins during Halloween. They emit weak light.",
-      "CRDescription:0": "When Halloween comes, carve Jack O'Lanterns from pumpkins and torches"
+      "DisplayName": "ジャック・オー・ランタン",
+      "Description": "ジャック・オー・ランタンは通常、ハロウィーン中に熟したカボチャから彫られます。わずかな光を放ちます。",
+      "CRDescription:0": "ハロウィーンが来たら、カボチャとトーチからジャック・オー・ランタンを彫る"
     },
     "MagnetBlock:0": {
-      "DisplayName": "Magnet",
-      "Description": "Magnets attract compass needle allowing you to find direction home while out in the wild. Don't forget to place one close to your house! The compass will show direction to the nearest magnet, or to spawn location if there are no magnets. You can only place a limited number of magnets in the world.",
-      "CRDescription:0": "Make a magnet to set attraction point for the compass"
+      "DisplayName": "磁石",
+      "Description": "磁石はコンパスの針を引きつけ、野外で家への方向を見つけることができます。家から近いところに1つ置くのを忘れないでください！コンパスは最も近い磁石、または磁石がない場合はスポーン地点への方向を示します。世界には限られた数の磁石しか配置できません。",
+      "CRDescription:0": "コンパスの引き寄せポイントを設定するために磁石を作る"
     },
     "FurBlock:0": {
-      "DisplayName": "Fur",
-      "Description": "Fur can be obtained by killing furry animals such as bears. It is a strong material with good insulating properties, perfect for making winter clothes."
+      "DisplayName": "毛皮",
+      "Description": "毛皮は、熊のような毛皮のある動物を殺すことで得られます。断熱性に優れた丈夫な素材で、冬服の作成に最適です。"
     },
     "LeatherBlock:0": {
-      "DisplayName": "Leather",
-      "Description": "Leather can be obtained by killing certain animals. It is a versatile material that can be used as a extremely durable, wear and tear resistant and waterproof fabric. It is also used to make saddles."
+      "DisplayName": "革",
+      "Description": "革は、特定の動物を殺すことで得られます。極めて丈夫で、摩耗や引き裂きに強く、防水性のある生地として使用できる多用途な素材です。鞍の作成にも使用されます。"
     },
     "SaddleBlock:0": {
-      "DisplayName": "Saddle",
-      "Description": "Saddle makes it possible to ride horses and other animals. A horse without a saddle will quickly dump the rider and run away.",
-      "CRDescription:0": "Craft saddle from leather to be able to ride on other animals"
+      "DisplayName": "鞍",
+      "Description": "鞍を使用すると、馬や他の動物に乗ることができます。鞍のない馬は、すぐに乗り手を振り落として逃げます。",
+      "CRDescription:0": "革から鞍をクラフトして他の動物に乗れるようにする"
     },
     "ChristmasTreeBlock:0": {
-      "DisplayName": "Christmas Tree",
-      "Description": "A must have for Christmas! A Christmas Tree is made from spruce leaves.",
-      "CRDescription:0": "Make a Christmas Tree from spruce cuttings"
+      "DisplayName": "クリスマスツリー",
+      "Description": "クリスマスには欠かせません！クリスマスツリーはトウヒの葉から作られます。",
+      "CRDescription:0": "トウヒの切り枝からクリスマスツリーを作る"
     },
     "FurnitureBlock:0": {
-      "DisplayName": "Furniture",
-      "Description": "Furniture blocks consist of small sub-blocks that can be made of different materials. Create new furniture by using hammer on a design created in the world from full size blocks. Furniture can be made interactive or work with electricity by combining it with other items on the crafting table."
+      "DisplayName": "家具",
+      "Description": "家具ブロックは、さまざまな素材で作ることができる小さなサブブロックで構成されています。世界でフルサイズのブロックから作成されたデザインにハンマーを使用して、新しい家具を作成します。家具は、クラフトテーブルで他のアイテムと組み合わせることで、インタラクティブにしたり、電気と連携させたりできます。"
     },
     "TreasureGeneratorBlock:0": {
-      "DisplayName": "Treasure Generator",
+      "DisplayName": "宝物ジェネレーター",
       "Description": ""
     },
     "CairnBlock:0": {
-      "DisplayName": "Cairn",
-      "Description": "Cairns are usually found at tops of mountains and contain huge amounts of experience"
+      "DisplayName": "ケルン",
+      "Description": "ケルンは通常、山の頂上にあり、膨大な量の経験値が含まれています。"
     },
     "ExperienceBlock:0": {
-      "DisplayName": "Experience Orb",
-      "Description": "Gives experience when collected by a player"
+      "DisplayName": "経験値オーブ",
+      "Description": "プレイヤーが収集すると経験値を与える"
     },
     "ClothingBlock:0": {
-      "DisplayName": "Old Pants",
-      "Description": "Old pants you wore when being abandoned on this land. Can be dyed. Almost no protection. Weak insulation."
+      "DisplayName": "古いズボン",
+      "Description": "この土地に遺棄されたときに着ていた古いズボン。染色可能。保護はほとんどない。断熱性が低い。"
     },
     "EggBlock:0": {
-      "DisplayName": "Egg",
-      "Description": "Spawner egg. Bird eggs are occasionally laid by adult birds. If you look carefully, you may find and eat them. Cooking an egg will increase its nutritional value. Non-bird eggs are available in creative mode only and can be used to spawn all other animals. To spawn an animal in creative mode, throw the egg against a hard surface to smash it. Spawner eggs of some exotic animals are unavailable even in creative mode."
+      "DisplayName": "卵",
+      "Description": "スポナーエッグ。鳥の卵は、成鳥によって時折産み落とされます。注意深く探せば、見つけて食べることができます。卵を調理すると栄養価が上がります。鳥以外の卵はクリエイティブモードでのみ利用可能で、他のすべての動物をスポーンするために使用できます。クリエイティブモードで動物をスポーンするには、卵を硬い表面に投げて割ります。一部のエキゾチックな動物のスポナーエッグは、クリエイティブモードでも利用できません。"
     },
     "StoneAxeBlock:0": {
-      "DisplayName": "Stone Axe",
-      "Description": "Stone axe is a primitive tool that can equally be used for digging, cutting wood and quarrying rocks. It greatly speeds up the process, but it will quickly get damaged and fail. Stone axe is a poor melee weapon, make a club if you want to fight. You should progress to specialized tools made of metals.",
-      "CRDescription:0": "Make a stone tool",
-      "CRDescription:1": "Make a stone tool",
-      "CRDescription:2": "Make a stone tool"
+      "DisplayName": "石斧",
+      "Description": "石斧は、掘削、木材の切断、石の採石に等しく使用できる原始的な道具です。プロセスを大幅にスピードアップしますが、すぐに損傷して故障します。石斧は貧弱な近接武器です。戦いたい場合はクラブを作ってください。金属製の専門的な道具に進むべきです。",
+      "CRDescription:0": "石の道具を作る",
+      "CRDescription:1": "石の道具を作る",
+      "CRDescription:2": "石の道具を作る"
     },
     "CopperAxeBlock:0": {
-      "DisplayName": "Copper Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "銅斧",
+      "Description": "斧は、木材、家具、葉などの柔らかいブロックを切断するための道具です。切断プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られた斧は、より長く持続し、より速く切断できます。斧は強力な武器でもありますが、動くターゲットを打つのは非常に困難です。",
+      "CRDescription:0": "銅の道具を作る"
     },
     "IronAxeBlock:0": {
-      "DisplayName": "Iron Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "鉄斧",
+      "Description": "斧は、木材、家具、葉などの柔らかいブロックを切断するための道具です。切断プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られた斧は、より長く持続し、より速く切断できます。斧は強力な武器でもありますが、動くターゲットを打つのは非常に困難です。",
+      "CRDescription:0": "鉄の道具を作る"
     },
     "DiamondAxeBlock:0": {
-      "DisplayName": "Diamond Edge Axe",
-      "Description": "Axes are tools for cutting soft blocks, such as wood, furniture or leaves. They greatly speed up the cutting process, but eventually they will get damaged and fail. Axes made of better materials last longer and cut faster. Axe is also a powerful weapon, although it is very difficult to hit a moving target.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "ダイヤモンドエッジ斧",
+      "Description": "斧は、木材、家具、葉などの柔らかいブロックを切断するための道具です。切断プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られた斧は、より長く持続し、より速く切断できます。斧は強力な武器でもありますが、動くターゲットを打つのは非常に困難です。",
+      "CRDescription:0": "道具の刃先にダイヤモンドを追加する"
     },
     "CopperShovelBlock:0": {
-      "DisplayName": "Copper Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "銅シャベル",
+      "Description": "シャベルは、砂や砂利などの緩い素材で作られたブロックを掘るための道具です。掘削プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたシャベルは、より長く持続し、より速く掘削できます。",
+      "CRDescription:0": "銅の道具を作る"
     },
     "IronShovelBlock:0": {
-      "DisplayName": "Iron Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "鉄シャベル",
+      "Description": "シャベルは、砂や砂利などの緩い素材で作られたブロックを掘るための道具です。掘削プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたシャベルは、より長く持続し、より速く掘削できます。",
+      "CRDescription:0": "鉄の道具を作る"
     },
     "DiamondShovelBlock:0": {
-      "DisplayName": "Diamond Edge Shovel",
-      "Description": "Shovels are tools for digging blocks made of loose material, such as sand or gravel. They greatly speed up the digging process, but eventually they will get damaged and fail. Shovels made of better materials last longer and dig faster.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "ダイヤモンドエッジシャベル",
+      "Description": "シャベルは、砂や砂利などの緩い素材で作られたブロックを掘るための道具です。掘削プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたシャベルは、より長く持続し、より速く掘削できます。",
+      "CRDescription:0": "道具の刃先にダイヤモンドを追加する"
     },
     "CopperPickaxeBlock:0": {
-      "DisplayName": "Copper Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "銅ピッケル",
+      "Description": "ピッケルは、石や氷などの硬いブロックを採石するための道具です。採石プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたピッケルは、より長く持続し、より速く採石できます。",
+      "CRDescription:0": "銅の道具を作る"
     },
     "IronPickaxeBlock:0": {
-      "DisplayName": "Iron Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "鉄ピッケル",
+      "Description": "ピッケルは、石や氷などの硬いブロックを採石するための道具です。採石プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたピッケルは、より長く持続し、より速く採石できます。",
+      "CRDescription:0": "鉄の道具を作る"
     },
     "DiamondPickaxeBlock:0": {
-      "DisplayName": "Diamond Tip Pickaxe",
-      "Description": "Pickaxes are tools for quarrying hard blocks, such as stone or ice. They greatly speed up the quarrying process, but eventually they will get damaged and fail. Pickaxes made of better materials last longer and quarry faster.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "ダイヤモンドチップピッケル",
+      "Description": "ピッケルは、石や氷などの硬いブロックを採石するための道具です。採石プロセスを大幅にスピードアップしますが、最終的には損傷して故障します。より良い素材で作られたピッケルは、より長く持続し、より速く採石できます。",
+      "CRDescription:0": "道具の刃先にダイヤモンドを追加する"
     },
     "WoodenRakeBlock:0": {
-      "DisplayName": "Wooden Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make a wooden tool"
+      "DisplayName": "木製レーキ",
+      "Description": "レーキは、土を土壌に変えるための道具です。レーキによって土壌が作成された後、植える準備が整います。レーキは最終的に損傷して故障します。より良い素材で作られたレーキは、より長く持続します。",
+      "CRDescription:0": "木製の道具を作る"
     },
     "CopperRakeBlock:0": {
-      "DisplayName": "Copper Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make a copper tool"
+      "DisplayName": "銅レーキ",
+      "Description": "レーキは、土を土壌に変えるための道具です。レーキによって土壌が作成された後、植える準備が整います。レーキは最終的に損傷して故障します。より良い素材で作られたレーキは、より長く持続します。",
+      "CRDescription:0": "銅の道具を作る"
     },
     "IronRakeBlock:0": {
-      "DisplayName": "Iron Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "鉄レーキ",
+      "Description": "レーキは、土を土壌に変えるための道具です。レーキによって土壌が作成された後、植える準備が整います。レーキは最終的に損傷して故障します。より良い素材で作られたレーキは、より長く持続します。",
+      "CRDescription:0": "鉄の道具を作る"
     },
     "DiamondRakeBlock:0": {
-      "DisplayName": "Diamond Spikes Rake",
-      "Description": "Rakes are tools for turning dirt into soil. After the soil has been created by a rake, it is ready to be planted. The rake will eventually get damaged and fail. Rakes made of better materials last longer.",
-      "CRDescription:0": "Add diamonds to the working edge of the tool"
+      "DisplayName": "ダイヤモンドスパイクレーキ",
+      "Description": "レーキは、土を土壌に変えるための道具です。レーキによって土壌が作成された後、植える準備が整います。レーキは最終的に損傷して故障します。より良い素材で作られたレーキは、より長く持続します。",
+      "CRDescription:0": "道具の刃先にダイヤモンドを追加する"
     },
     "EmptyBucketBlock:0": {
-      "DisplayName": "Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block.",
-      "CRDescription:0": "Make a copper tool",
-      "CRDescription:1": "Empty the bucket"
+      "DisplayName": "バケツ",
+      "Description": "バケツは銅で作られた容器で、水、マグマ、牛乳などの流体を運ぶために使用されます。バケツは水源ブロックで流体で満たされ、別の場所に輸送でき、そこでは水源ブロックを配置して新しい流体の本体を開始できます。水源ブロックでない場所からバケツを満たすことはできません。",
+      "CRDescription:0": "銅の道具を作る",
+      "CRDescription:1": "バケツを空にする"
     },
     "WaterBucketBlock:0": {
-      "DisplayName": "Water Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block."
+      "DisplayName": "水のバケツ",
+      "Description": "バケツは銅で作られた容器で、水、マグマ、牛乳などの流体を運ぶために使用されます。バケツは水源ブロックで流体で満たされ、別の場所に輸送でき、そこでは水源ブロックを配置して新しい流体の本体を開始できます。水源ブロックでない場所からバケツを満たすことはできません。"
     },
     "MagmaBucketBlock:0": {
-      "DisplayName": "Magma Bucket",
-      "Description": "Bucket is a container made of copper and used to carry fluids, such as water, magma or milk. Bucket can be filled with the fluid at a source block and transported to a different location, where the source block can be placed to start a new body of fluid. You cannot fill the bucket from a non-source block."
+      "DisplayName": "マグマバケツ",
+      "Description": "バケツは銅で作られた容器で、水、マグマ、牛乳などの流体を運ぶために使用されます。バケツは水源ブロックで流体で満たされ、別の場所に輸送でき、そこでは水源ブロックを配置して新しい流体の本体を開始できます。水源ブロックでない場所からバケツを満たすことはできません。"
     },
     "PaintStripperBucketBlock:0": {
-      "DisplayName": "Paint Stripper Bucket",
-      "Description": "A bucket full of paint stripper. Can be used to strip paint from previously painted surfaces and bring them to original appearance.",
-      "CRDescription:0": "Dissolve saltpeter in water to make paint stripper"
+      "DisplayName": "ペイントストリッパーバケツ",
+      "Description": "ペイントストリッパーがいっぱい入ったバケツです。以前塗装された表面からペイントを剥がし、元の外観に戻すために使用できます。",
+      "CRDescription:0": "硝石を水に溶かしてペイントストリッパーを作る"
     },
     "PaintBucketBlock:0": {
-      "DisplayName": "Paint Bucket",
-      "Description": "A bucket full of paint. Can be used to paint surfaces for decorative purposes. Different colors of paint are obtained by dissolving colored ingredients, such as malachite or purple flowers into white paint.",
-      "CRDescription:0": "Dissolve white pigment in water to make white paint"
+      "DisplayName": "ペイントバケツ",
+      "Description": "ペイントがいっぱい入ったバケツです。装飾目的で表面にペイントするために使用できます。さまざまな色のペイントは、孔雀石や紫の花などの着色された材料を白色ペイントに溶かすことで得られます。",
+      "CRDescription:0": "白色顔料を水に溶かして白色ペイントを作る"
     },
     "MatchBlock:0": {
-      "DisplayName": "Match",
-      "Description": "A piece of sulphur on a stick, can be used to start fires. Be very careful when walking with matches because it is very easy to accidentally start a fire that may go out of control. Can be used to ignite fuses and as a weapon to set other animals on fire.",
-      "CRDescription:0": "Make a match to be able to start fires"
+      "DisplayName": "マッチ",
+      "Description": "棒に取り付けられた硫黄のピースで、火をつけるために使用できます。マッチを持って歩くときは、非常に注意してください。不意に火をつけて制御不能になる可能性があるためです。導火線に点火するために使用したり、他の動物に火をつける武器として使用したりできます。",
+      "CRDescription:0": "火をつけるためにマッチを作る"
     },
     "CompassBlock:0": {
-      "DisplayName": "Compass",
-      "Description": "Compass points to the location of the place of last sleep or to the nearest magnet, if present. It is indispensable when finding your way home on far away journeys.",
-      "CRDescription:0": "Make a compass to always know the way home"
+      "DisplayName": "コンパス",
+      "Description": "コンパスは、最後の睡眠場所、または存在する場合は最も近い磁石の方向を指します。遠くへの旅で家への道を見つける際には不可欠です。",
+      "CRDescription:0": "常に家への道を知るためにコンパスを作る"
     },
     "ThermometerBlock:0": {
-      "DisplayName": "Thermometer",
-      "Description": "Thermometer displays ambient temperature. It is an important tool when planting trees. Oaks like it warm, birches moderately cool and spruces cold. Planting a tree in a wrong ambient temperature will cause the sapling to wilt. It is also an electric element that outputs analog signal corresponding to the surrounding temperature.",
-      "CRDescription:0": "Make a thermometer to measure ambient temperature"
+      "DisplayName": "温度計",
+      "Description": "温度計は周囲の温度を表示します。木を植える際の重要な道具です。オークは暖かい場所を好み、白樺は適度に涼しい場所、トウヒは寒い場所を好みます。間違った周囲温度で木を植えると、苗木は枯れます。また、周囲温度に対応するアナログ信号を出力する電気要素でもあります。",
+      "CRDescription:0": "周囲温度を測定するために温度計を作る"
     },
     "HygrometerBlock:0": {
-      "DisplayName": "Hygrometer",
-      "Description": "Hygrometer displays humidity of the surrounding area. It is an important tool when planting trees. All trees need a lot of humidity to grow. When a tree is planted an area which is too dry, the sapling will wilt. It is also an electric element that outputs analog signal corresponding to the surrounding humidity.",
-      "CRDescription:0": "Make a hydrometer to measure ambient humidity"
+      "DisplayName": "湿度計",
+      "Description": "湿度計は周囲の湿度を表示します。木を植える際の重要な道具です。すべての木は成長するために多くの湿度を必要とします。木が植えられた場所が乾燥しすぎていると、苗木は枯れます。また、周囲の湿度に対応するアナログ信号を出力する電気要素でもあります。",
+      "CRDescription:0": "周囲の湿度を測定するために湿度計を作る"
     },
     "IronHammerBlock:0": {
-      "DisplayName": "Iron Hammer",
-      "Description": "Hammer is used to create furniture from blocks placed in the world.",
-      "CRDescription:0": "Make an iron tool"
+      "DisplayName": "鉄ハンマー",
+      "Description": "ハンマーは、世界に配置されたブロックから家具を作成するために使用されます。",
+      "CRDescription:0": "鉄の道具を作る"
     },
     "WhistleBlock:0": {
-      "DisplayName": "Whistle",
-      "Description": "Whistle can be used to summon nearby steeds or drive cattle. Cattle will clump together and move away from the whistling person. You can control them by riding behind and directing them with controlled whistle blows from the sides. Whistle is also perfect for scaring birds.",
-      "CRDescription:0": "Craft whistle from iron"
+      "DisplayName": "ホイッスル",
+      "Description": "ホイッスルは、近くの馬を呼び寄せたり、牛を追い散らしたりするために使用できます。牛は集まって、口笛を吹く人から離れていきます。後ろを走って、側面からの制御された口笛の音でそれらを指示することで、それらを制御できます。ホイッスルは鳥を怖がらせるのにも最適です。",
+      "CRDescription:0": "鉄からホイッスルを作る"
     },
     "WoodenClubBlock:0": {
       "DisplayName": "Wooden Club",
